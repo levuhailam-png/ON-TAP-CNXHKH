@@ -1,0 +1,177 @@
+/* Cài đặt chung và chủ đề màu xanh */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f7ff; /* Màu xanh da trời rất nhạt */
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+h1, h2 {
+    color: #004a99; /* Màu xanh đậm */
+    text-align: center;
+}
+
+/* Các màn hình (container) */
+.container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 74, 153, 0.2);
+    padding: 30px;
+    width: 90%;
+    max-width: 700px;
+    display: none; /* Ẩn tất cả mặc định */
+}
+
+.container.active {
+    display: block; /* Chỉ hiện màn hình có class 'active' */
+}
+
+/* Nút bấm chung */
+.btn {
+    display: block;
+    width: 100%;
+    background-color: #007bff; /* Màu xanh dương chính */
+    color: white;
+    border: none;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3; /* Màu xanh đậm hơn khi di chuột */
+}
+
+/* --- PHẦN ĐIỀU KHIỂN NHẠC --- */
+.music-control {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display: flex; /* Sử dụng Flexbox để căn chỉnh các thành phần */
+    align-items: center;
+    gap: 10px; /* Khoảng cách giữa các thành phần */
+    font-size: 14px;
+    color: #004a99; /* Màu chữ cho nhãn "Chọn Nhạc Nền" */
+}
+
+#bg-music {
+    display: none; /* Ẩn thẻ audio */
+}
+
+#music-select {
+    padding: 8px 12px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    background-color: white;
+    color: #333;
+    cursor: pointer;
+}
+
+#music-toggle-btn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: auto; /* Đảm bảo nút không chiếm hết chiều rộng */
+    margin: 0; /* Xóa margin-top của nút này */
+    font-size: 14px; /* Đồng bộ font size */
+    transition: background-color 0.3s ease;
+}
+
+#music-toggle-btn:hover {
+    background-color: #0056b3;
+}
+
+#music-toggle-btn:disabled {
+    background-color: #6c757d; /* Màu xám khi bị vô hiệu hóa */
+    cursor: not-allowed;
+}
+/* --- KẾT THÚC PHẦN ĐIỀU KHIỂN NHẠC --- */
+
+
+/* Phần chơi Quiz */
+#question-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: bold;
+    color: #004a99;
+    margin-bottom: 20px;
+}
+
+#question-text {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#options-container .btn {
+    background-color: #f0f8ff; /* Màu xanh nhạt cho đáp án */
+    color: #333;
+    text-align: left;
+}
+
+#options-container .btn:hover {
+    background-color: #d1e9ff;
+}
+
+/* CSS cho đáp án Đúng/Sai */
+#options-container .btn.correct {
+    background-color: #28a745; /* Màu xanh lá */
+    color: white;
+}
+
+#options-container .btn.incorrect {
+    background-color: #dc3545; /* Màu đỏ */
+    color: white;
+}
+
+#feedback-text {
+    margin-top: 15px;
+    font-size: 14px;
+    border-left: 4px solid #007bff;
+    padding-left: 10px;
+    background-color: #f8f9fa;
+    display: none; /* Ẩn mặc định */
+}
+
+#next-btn {
+    display: none; /* Ẩn nút 'Câu tiếp' mặc định */
+}
+
+/* Màn hình xem trước */
+#preview-content .preview-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #f0f8ff;
+    border-radius: 5px;
+}
+#preview-content .preview-q {
+    font-weight: bold;
+    color: #004a99;
+}
+#preview-content .preview-a {
+    color: #28a745; /* Màu xanh lá cho đáp án đúng */
+    font-weight: bold;
+}
+#preview-content .preview-e {
+    font-style: italic;
+    color: #555;
+    margin-top: 5px;
+}
+
+/* Thêm định dạng cho màn hình chọn đề mới */
+#deck-list-buttons .btn {
+    background-color: #17a2b8; /* Màu xanh lục bảo */
+}
+#deck-list-buttons .btn:hover {
+    background-color: #138496;
+}
