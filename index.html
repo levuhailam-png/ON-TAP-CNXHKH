@@ -21,9 +21,9 @@
 
     <div id="menu-container" class="container active">
         <h1>ÔN TẬP CHỦ NGHĨA XÃ HỘI KHOA HỌC</h1>
-        <button class="btn" id="start-set-menu-btn">1. Ôn theo đề</button>
-        <button class="btn" id="start-random-btn">2. Ôn ngẫu nhiên (Tất cả)</button>
-        <button class="btn" id="preview-menu-btn">3. Xem trước đề</button>
+        <button class="btn" id="start-set-menu-btn">Ôn theo đề</button>
+        <button class="btn" id="start-random-btn">Ôn ngẫu nhiên</button>
+        <button class="btn" id="preview-menu-btn">Xem trước đề</button>
     </div>
 
     <div id="deck-select-container" class="container">
@@ -32,7 +32,12 @@
             </div>
         <button class="btn" id="back-to-menu-deck-select" style="background-color: #6c757d;">Về Menu</button>
     </div>
-
+     <div id="mode-select-container" class="container">
+        <h2 id="mode-select-title">Chọn Chế độ cho Đề số XX</h2>
+        <button class="btn" id="start-sequential-btn">Câu hỏi theo thứ tự</button>
+        <button class="btn" id="start-deck-random-btn">Câu hỏi đảo ngẫu nhiên</button>
+        <button class="btn" id="back-to-deck-select" style="background-color: #6c757d;">Quay lại chọn Đề</button>
+    </div>
     <div id="quiz-container" class="container">
         <div id="question-header">
             <span id="question-counter">Câu 1/50</span>
@@ -57,6 +62,7 @@
         <button class="btn" id="back-to-menu-preview">Về Menu</button>
     </div>
 
+    <script src="data.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
