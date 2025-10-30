@@ -551,6 +551,2703 @@ const de1 = [
         giai_thich: "Các Mác và Ph. Ăngghen đã sáng lập ra Chủ nghĩa duy vật lịch sử (phát kiến vĩ đại thứ nhất), Học thuyết giá trị thặng dư (phát kiến vĩ đại thứ hai), và phát hiện ra sứ mệnh lịch sử của giai cấp công nhân (phát kiến vĩ đại thứ ba)."
     }
 ];
+// --- DỮ LIỆU ĐỀ SỐ 2 ---
+const de2 = [
+    {
+        cau: "Câu 1: Các Mác và Ph Ăngghen đã sử dụng thuật ngữ nào để nói về giai cấp công nhân ?",
+        options: ["A. Giai cấp vô sản", "B. Giai cấp công nhân hiện đại", "C. Tất cả đều đúng", "D. Giai cấp vô sản hiện đại"],
+        dap_an: "C",
+        giai_thich: "Các thuật ngữ như giai cấp vô sản, giai cấp công nhân hiện đại, giai cấp vô sản hiện đại đều được sử dụng để chỉ Giai cấp công nhân trong chủ nghĩa Mác - Lênin."
+    },
+    {
+        cau: "Câu 2: Phát kiến vĩ đại nào của Mác và Ăngghen là sự khẳng định về phương diện chính tri - xã hội sự diệt vong không tránh khỏi của chủ nghĩa tư bản và sự thắng lợi tất yếu của chủ nghĩa xã hội ?",
+        options: ["A. Học thuyết về giá tzrị thặng dư", "B. Chủ nghĩa duy vật lịch sử", "C. Tác phẩm Tuyên ngôn của Đảng Cộng sản", "D. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"],
+        dap_an: "D",
+        giai_thich: "Học thuyết về sứ mệnh lịch sử của GCCN là luận chứng về phương diện chính trị - xã hội, chỉ ra lực lượng và con đường thay thế CNTB bằng CNXH."
+    },
+    {
+        cau: "Câu 3: Để phát triển giai cấp công nhân về số lượng và chất lượng, theo chủ nghĩa Mác - Lênin phải đặc biệt chú ý đến biện pháp nào ?",
+        options: ["A. Phải có sự đoàn kết của giai cấp công nhân tren toàn thế giới", "B. Phải sở hữu tư liệu sản xuất ở trong xã hội", "C. Phát triển công nghiệp; sự trưởng thành của Đảng Cộng sản", "D. Phải có sự liên minh với các giai cấp nông dân và các tầng lớp lao động khác"],
+        dap_an: "C",
+        giai_thich: "Phát triển nền sản xuất đại công nghiệp là điều kiện khách quan để phát triển GCCN. Sự trưởng thành của Đảng Cộng sản là điều kiện tiên quyết chủ quan để lãnh đạo GCCN thực hiện sứ mệnh lịch sử."
+    },
+    {
+        cau: "Câu 4: Phát kiến vĩ đại nào của Mác và Ăngghen là sự khẳng định về mặt triết học sự sụp đổ của chủ nghĩa tư bản và sự thắng lợi của chủ nghĩa xã hội đều tất yếu như nhau ?",
+        options: ["A. Tác phẩm Tuyên ngôn của Đảng Cộng sản", "B. Học thuyết về giá trị thặng dư", "C. Chủ nghĩa duy vật lịch sử", "D. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"],
+        dap_an: "C",
+        giai_thich: "Chủ nghĩa duy vật lịch sử là phát kiến vĩ đại thứ nhất, khẳng định sự sụp đổ và thắng lợi của CNXH đều là tất yếu lịch sử (triết học)."
+    },
+    {
+        cau: "Câu 5: Phát kiến vĩ đại nào của Mác và Ăngghen là sự khẳng định về phương diện kinh tế sự diệt vong không tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội ?",
+        options: ["A. Tác phẩm Tuyên ngôn của Đảng Cộng sản", "B. Chủ nghĩa duy vật lịch sử", "C. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân", "D. Học thuyết về giá trị thặng dư"],
+        dap_an: "D",
+        giai_thich: "Học thuyết giá trị thặng dư là phát kiến vĩ đại thứ hai, luận giải về mặt kinh tế rằng CNTB tất yếu diệt vong do mâu thuẫn bóc lột giá trị thặng dư."
+    },
+    {
+        cau: "Câu 6: Một trong những điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân:",
+        options: ["A. Sự phát triển về chất của bản thân giai cấp công nhân", "B. Sự tăng nhanh về số lượng và chất lượng của giai cấp công nhân", "C. Địa vị kinh tế của giai cấp công nhân", "D. Giai cấp công nhân thành lập ra chính đảng của mình"],
+        dap_an: "C",
+        giai_thich: "Địa vị kinh tế (là người sản xuất ra của cải vật chất, bị tước đoạt tư liệu sản xuất) là điều kiện khách quan đầu tiên quy định sứ mệnh lịch sử GCCN."
+    },
+    {
+        cau: "Câu 7: Nội dung văn hóa, tư tưởng sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay ?",
+        options: ["A. Thực hiện thắng lợi mục tiêu công nghiệp hóa, hiện đại hóa, làm cho nước ta trở thành một nước công nghiệp theo hướng hiện đại", "B. Xóa bỏ hoàn toàn chế độ sở hữu tư nhân tư bản chủ nghĩa", "C. Xây dựng con người mới xã hội chủ nghĩa, giáo dục đạo đức cách mạng, rèn luyện lối sống, tác phong công nghiệp, văn minh, hiện đại", "D. Giữ vững bản chất giai cấp công nhân của Đảng; tăng cường xây dựng, chỉnh đốn Đảng, ngăn chặn, đẩy lùi sự suy thoái về tư tưởng, đạo đức, lối sống"],
+        dap_an: "C",
+        giai_thich: "Nội dung văn hóa, tư tưởng tập trung vào việc xây dựng con người mới XHCN, rèn luyện lối sống, tác phong công nghiệp."
+    },
+    {
+        cau: "Câu 8: Vì sao Đảng cộng sản trở thành đội tiên phong, lãnh tụ chính trị và bộ tham mưu chiến đấu của giai cấp công nhân ?",
+        options: ["A. Là một tổ chức chính trị được trang bị lý luận cách mạng của chủ nghĩa Mác-Lênin", "B. Là một tổ chức chính trị đạt được nhiều thành quả cách mạng nhất", "C. Là một tổ chức chính trị được giác ngộ lý tưởng cách mạng vô sản", "D. Là một tổ chức chính trị tập trung những người công nhân tiên tiến nhất"],
+        dap_an: "D",
+        giai_thich: "(Đáp án phổ biến là D, vì Đảng là tổ chức tập hợp những phần tử tiên tiến nhất và được trang bị lý luận Mác - Lênin)."
+    },
+    {
+        cau: "Câu 9: Đâu là điểm khác biệt của giai cấp công nhân hiện đại so với giai cấp công nhân thế kỷ XIX ?",
+        options: ["A. Không có điểm khác biệt", "B. Xu hướng trí tuệ hóa giảm nhanh", "C. Là lực lượng sản xuất hàng đầu của xã hội hiện đại", "D. Xu hướng trung lưu hóa gia tăng"],
+        dap_an: "C",
+        giai_thich: "GCCN hiện nay vẫn là lực lượng sản xuất hàng đầu."
+    },
+    {
+        cau: "Câu 10: Để thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam trong bối cảnh hiện nay, phải đặc biệt coi trọng vấn đề nào sau đây ?",
+        options: ["A. Phát huy vai trò đi đầu trong sự nghiệp công nghiệp hóa, hiện đại hóa của giai cấp công nhân", "B. Phát huy sức mạnh đại đoàn kết toàn dân tộc dưới sự lãnh đạo của Đảng", "C. Coi trọng công tác xây dựng, chỉnh đốn Đảng, làm cho đảng lãnh đạo, cầm quyền thực sự trong sạch, vững mạnh", "D. Phát triển giai cấp công nhân cả số lượng và chất lượng"],
+        dap_an: "D",
+        giai_thich: "Phát triển GCCN cả số lượng và chất lượng, có trình độ học vấn, chuyên môn cao là phương hướng xây dựng GCCN Việt Nam hiện nay."
+    },
+    {
+        cau: "Câu 11: Giai cấp công nhân thực hiện sứ mệnh lịch sử thông qua đội tiền phong của mình là:",
+        options: ["A. Công hội", "B. Đảng Cộng sản", "C. Công Đoàn", "D. Đảng Cộng hòa"],
+        dap_an: "B",
+        giai_thich: "Giai cấp công nhân lãnh đạo cách mạng thông qua Đảng Cộng sản."
+    },
+    {
+        cau: "Câu 12: Tính tổ chức và kỷ luật của giai cấp công nhân được hình thành từ đâu?",
+        options: ["A. Nền sản xuất đại công nghiệp trong chủ nghĩa xã hội", "B. Nền sản xuất đại công nghiệp trong chủ nghĩa tư bản", "C. Cuộc đấu tranh sôi nổi trong chủ nghĩa tư bản", "D. Bị giai cấp tư sản áp bức, bóc lột nặng nề"],
+        dap_an: "B",
+        giai_thich: "Tính tổ chức và kỷ luật là phẩm chất của GCCN, được hình thành từ nền sản xuất đại công nghiệp."
+    },
+    {
+        cau: "Câu 13: Quy luật chung, phổ biến cho sự ra đời của Đảng Cộng sản:",
+        options: ["A. Sự kết hợp giữa chủ nghĩa Mác – Lênin với phong trào công nhân", "B. Chủ nghĩa Mác – Lênin kết hợp với phong trào công nhân và nhân dân lao động", "C. Chủ nghĩa Lênin kết hợp với phong trào công nhân", "D. Chủ nghĩa Mác – Lênin kết hợp với phong trào nông dân"],
+        dap_an: "A",
+        giai_thich: "(Đây là luận điểm cơ bản về quy luật ra đời của Đảng Cộng sản kiểu mới)."
+    },
+    {
+        cau: "Câu 14: Nội dung chính trị - xã hội sứ mệnh lịch sử của giai cấp công nhân ở các nước tư bản chủ nghĩa ngày nay là:",
+        options: ["A. Đấu tranh chống bất công và bất bình đẳng xã hội", "B. Đấu tranh chống chủ nghĩa tư bản với mục tiêu chống chủ nghĩa phân biệt chủng tộc, sắc tộc, tôn giáo", "C. Đấu tranh vì hòa bình, tự do và phát triển", "D. Giành chính quyền về tay giai cấp công nhân và nhân dân lao động, thiết lập nhà nước kiểu mới mang bản chất giai cấp công nhân"],
+        dap_an: "D",
+        giai_thich: "Mục tiêu chính trị - xã hội cơ bản của GCCN là lật đổ CNTB, giành chính quyền và thiết lập nền chuyên chính vô sản."
+    },
+    {
+        cau: "Câu 15: Một trong những giá trị tiến bộ của chủ nghĩa xã hội không tưởng phê phán là gì?",
+        options: ["A. Chỉ ra được những biện pháp thực hiện cải tạo xã hội áp bức, bất công đương thời, xây dựng xã hội mới tốt đẹp", "B. Thể hiện tinh thần phê phán, lên án chế độ quân chủ chuyên chế và chế độ tư bản chủ nghĩa đầy bất công, xung đột", "C. Đã phát hiện ra lực lượng xã hội tiên phong thực hiện cuộc chuyển biến cách mạng từ xã hội phong kiến lên chủ nghĩa tư bản sản", "D. Đã phát hiện ra lực lượng xã hội tiên phong thực hiện cuộc chuyển biến cách mạng từ chủ nghĩa tư bản lên chủ nghĩa cộng"],
+        dap_an: "B",
+        giai_thich: "Giá trị tiến bộ của CNXH không tưởng Pháp là thể hiện tinh thần phê phán, lên án chế độ quân chủ chuyên chế và chế độ tư bản chủ nghĩa đầy bất công, xung đột."
+    },
+    {
+        cau: "Câu 16: Trong cuộc cách mạng về tư tưởng, giai cấp công nhân cần xây dựng và củng cố ý thức hệ tiên tiến của giai cấp mình làm nền tảng tinh thần của xã hội. Ý thức hệ đó là:",
+        options: ["A. Chủ nghĩa Mác – Lênin", "B. Hệ tư tưởng dân chủ tư sản", "C. Hệ tư tưởng phong kiến", "D. Chủ nghĩa hiện sinh"],
+        dap_an: "A",
+        giai_thich: "Ý thức hệ tiên tiến của GCCN là Chủ nghĩa Mác - Lênin."
+    },
+    {
+        cau: "Câu 17: Trong phương thức sản xuất tư bản chủ nghĩa, giai cấp nào đóng vai trò nòng cốt giải phóng lực lượng sản xuất, thúc đẩy lực lượng sản xuất phát triển?",
+        options: ["A. Công nhân", "B. Tư sản", "C. Nông dân", "D. Công nhân và nông dân"],
+        dap_an: "A",
+        giai_thich: "GCCN là lực lượng sản xuất hàng đầu của xã hội hiện đại."
+    },
+    {
+        cau: "Câu 18: Muốn thực hiện thắng lợi sứ mệnh lịch sử về nội dung kinh tế, giai cấp công nhân Việt Nam cần phải:",
+        options: ["A. Phải thường xuyên giáo dục cho các thế hệ công nhân và lao động trẻ về ý thức giai cấp, bản lĩnh chính trị, chủ nghĩa yêu nước và chủ nghĩa quốc tế", "B. Thực hiện thắng lợi mục tiêu công nghiệp hóa, hiện đại hóa, làm cho nước ta trở thành một nước công nghiệp theo hướng hiện đại", "C. Phải nêu cao trách nhiệm tiên phong, đi đầu, góp phần củng cố và phát triển cơ sở chính trị - xã hội quan trọng của Đảng; chủ động, tích cực tham gia xây dựng, chỉnh đốn Đảng", "D. Phát huy vai trò của giai cấp công nhân, của công nghiệp, thực hiện khối liên minh công - nông - trí thức để tạo ra động lực phát triển nôn nghiệp - nông thôn và nông dânên chủ nghĩa cộng sản"],
+        dap_an: "B",
+        giai_thich: "Nội dung kinh tế sứ mệnh lịch sử GCCN Việt Nam hiện nay là thực hiện thắng lợi mục tiêu CNH, HĐH đất nước."
+    },
+    {
+        cau: "Câu 19: Những phẩm chất nào thể hiện giai cấp công nhân là một giai cấp tiên tiến, cách mạng?",
+        options: ["A. Giai cấp nghèo khổ nhất nên họ có tinh thần đấu tranh mạnh mẽ nhất", "B. Cần cù và sáng tạo trong lao động", "C. Bị giai cấp tư sản áp bức, bóc lột nặng nề nhất", "D. Tính tổ chức và kỷ luật, tự giác và đoàn kết trong cuộc đấu tranh tự giải phóng mình và giải phóng xã hội"],
+        dap_an: "D",
+        giai_thich: "Tính tổ chức và kỷ luật, tự giác và đoàn kết là những phẩm chất thể hiện GCCN là giai cấp tiên tiến, cách mạng."
+    },
+    {
+        cau: "Câu 20: Muốn thực hiện thắng lợi sứ mệnh lịch sử về nội dung chính trị - xã hội, giai cấp công nhân Việt Nam cần phải:",
+        options: ["A. Phải nêu cao trách nhiệm tiên phong, đi đầu, góp phần củng cố và phát triển cơ sở chính trị - xã hội quan trọng của Đảng; chủ động, tích cực tham gia xây dựng, chỉnh đốn Đảng", "B. Thực hiện thắng lợi mục tiêu công nghiệp hóa, hiện đại hóa, làm cho nước ta trở thành một nước công nghiệp theo hướng hiện đại", "C. Phát huy vai trò của giai cấp công nhân, của công nghiệp, thực hiện khối liên minh công - nông - trí thức để tạo ra động lực phát triển nôn nghiệp - nông thôn và nông dân", "D. Phải thường xuyên giáo dục cho các thế hệ công nhân và lao động trẻ về ý thức giai cấp, bản lĩnh chính trị, chủ nghĩa yêu nước và chủ nghĩa quốc tế"],
+        dap_an: "A",
+        giai_thich: "Nội dung chính trị - xã hội của GCCN Việt Nam là giữ vững và tăng cường vai trò lãnh đạo của Đảng, bảo vệ chế độ XHCN."
+    },
+    {
+        cau: "Câu 21: Nội dung kinh tế sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay?",
+        options: ["A. Thực hiện thắng lợi mục tiêu công nghiệp hóa, hiện đại hóa, làm cho nước ta trở thành một nước công nghiệp theo hướng hiện đại", "B. Giữ vững bản chất giai cấp công nhân của Đảng; tăng cường xây dựng, chỉnh đốn Đảng, ngăn chặn, đẩy lùi sự suy thoái về tư tưởng, đạo đức, lối sống", "C. Xây dựng con người mới xã hội chủ nghĩa, giáo dục đạo đức cách mạng, rèn luyện lối sống, tác phong công nghiệp, văn minh, hiện đại", "D. Xóa bỏ hoàn toàn chế độ sở hữu tư nhân tư bản chủ nghĩa"],
+        dap_an: "A",
+        giai_thich: "Nội dung kinh tế sứ mệnh lịch sử GCCN Việt Nam là thực hiện CNH, HĐH đất nước."
+    },
+    {
+        cau: "Câu 22: Tính tổ chức kỷ luật cao của giai cấp công nhân được hình thành là do:",
+        options: ["A. Áp bức, bóc lột nặng nề nhất", "B. Tính chất của nền sản xuất đại công nghiệp", "C. Bị tước đoạt hết mọi tư liệu sản xuất", "D. Những qui định của tảng cộng sản"],
+        dap_an: "B",
+        giai_thich: "Tính tổ chức và kỷ luật là phẩm chất GCCN được hình thành từ nền sản xuất đại công nghiệp."
+    },
+    {
+        cau: "Câu 23: Theo nghĩa hẹp, chủ nghĩa xã hội khoa học được hiểu là:",
+        options: ["A. Xã hội cộng sản chủ nghĩa", "B. Xã hội xã hội chủ nghĩa", "C. Một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin", "D. Chủ nghĩa Mác – Lênin"],
+        dap_an: "C",
+        giai_thich: "Theo nghĩa hẹp, CNXHKH là một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin."
+    },
+    {
+        cau: "Câu 24: Trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân có đặc trưng cơ bản nào?",
+        options: ["A. Đại diện cho quan hệ sản xuất tư bản chủ nghĩa", "B. Không có tư liệu sản xuất nên buộc phải bán sức lao động của mình để kiếm sống", "C. Chủ sở hữu tư liệu sản xuất", "D. Giai cấp bị mất hết đất đai và nghèo khổ nhất"],
+        dap_an: "B",
+        giai_thich: "GCCN không sở hữu tư liệu sản xuất, phải bán sức lao động để sống."
+    },
+    {
+        cau: "Câu 25: Kế thừa và phát triển tư tưởng của C. Mác và Ăng ghen về cách mạng không ngừng, Lê nin đã xây dựng lý luận nào sau đây?",
+        options: ["A. Về chuyên chính vô sản và cách mạng dân chủ tư sản kiểu mới", "B. Phát hiện ra quy luật phát triển không đồng đều của chủ nghĩa tư bản", "C. Xác định bản chất dân chủ của chế độ chuyên chính vô sản", "D. Về đảng cách mạng kiểu mới của giai cấp công nhân"],
+        dap_an: "D",
+        giai_thich: "(Lênin đã phát triển lý luận về Đảng Cộng sản kiểu mới, là đội tiền phong của GCCN)."
+    },
+    {
+        cau: "Câu 26: Đặc điểm nổi bật của giai cấp công nhân là gì?",
+        options: ["A. Lao động không công cho nhà tư bản ông nghiệp", "B. Lao động bằng phương thức công nghiệp", "C. Lao động tích cực, tự giác, hăng say", "D. Lao động bằng phương thức thủ c"],
+        dap_an: "B",
+        giai_thich: "Đặc trưng nổi bật của GCCN là họ lao động bằng phương thức công nghiệp hiện đại."
+    },
+    {
+        cau: "Câu 27: Theo nghĩa rộng, chủ nghĩa xã hội khoa học được hiểu là:",
+        options: ["A. Chủ nghĩa Mác - Lênin", "B. Xã hội cộng sản chủ nghĩa", "C. Một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin", "D. Xã hội xã hội chủ nghĩa"],
+        dap_an: "A",
+        giai_thich: "Theo nghĩa rộng, CNXHKH là chủ nghĩa Mác - Lênin."
+    },
+    {
+        cau: "Câu 28: Tuyên ngôn của Đảng Cộng sản viết; “Các giai cấp khác đều suy tàn và tiêu vong vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản lại là … của bản thân nền đại công nghiệp”. Chọn từ thích hợp điền vào chỗ trống?",
+        options: ["A. Sản phẩm", "B. Nguyên nhân", "C. Chủ thể", "D. Kết quả"],
+        dap_an: "A",
+        giai_thich: "(Đây là trích dẫn nổi tiếng của Tuyên ngôn: Giai cấp vô sản là sản phẩm của nền đại công nghiệp)."
+    },
+    {
+        cau: "Câu 29: Kế thừa tư tưởng của C. Mác và Ăngghen về khả năng thắng lợi của cách mạng xã hội chủ nghĩa, Lênin đã xây dựng lý luận nào sau đây?",
+        options: ["A. Về đảng cách mạng kiểu mới của giai cấp công nhân", "B. Về chuyên chính vô sản và cách mạng dân chủ tư sản kiểu mới", "C. Cách mạng vô sản có thể nổ ra và thắng lợi ở một số nước, thậm chí ở một nước riêng lẻ", "D. Xác định bản chất dân chủ của chế độ chuyên chính vô sản"],
+        dap_an: "C",
+        giai_thich: "(Đây là đóng góp quan trọng của Lênin trong lý luận cách mạng vô sản)."
+    },
+    {
+        cau: "Câu 30: Nội dung sứ mệnh lịch sử giai cấp công nhân là:",
+        options: ["A. Giải quyết mâu thuẫn cơ bản giữa giai cấp công nhân và chủ nghĩa tư bản", "B. Giải quyết mẫu thuẫn cơ bản trong cơ sở hạ tầng tư bản chủ nghĩa", "C. Giải quyết mâu thuẫn cơ bản trong kiến trúc thượng tầng tư bản chủ nghĩa", "D. Giải quyết mâu thuẫn cơ bản về kinh tế và chính trị trong lòng phương thức sản xuất tư bản chủ nghĩa"],
+        dap_an: "D",
+        giai_thich: "(Sứ mệnh lịch sử nhằm giải quyết mâu thuẫn cơ bản giữa LLSX mang tính xã hội hóa và QHSX tư nhân TBCN)."
+    },
+    {
+        cau: "Câu 31: Tác phẩm nào sau đây của Mác và Ăngghen được coi là Cương lĩnh chính trị, là kim chỉ nam hành động của phong trào cộng sản và công nhân quốc tế?",
+        options: ["A. Tuyên ngôn của Đảng Cộng sản", "B. Hệ tư tưởng Đức.", "C. Bộ Tư bản.", "D. Bản thảo kinh tế - triết học năm 1844."],
+        dap_an: "A",
+        giai_thich: "Tuyên ngôn của Đảng Cộng sản được coi là Cương lĩnh chính trị, là kim chỉ nam hành động của phong trào cộng sản và công nhân quốc tế."
+    },
+    {
+        cau: "Câu 32: Nội dung chính trị - xã hội sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay?",
+        options: ["A. Xóa bỏ hoàn toàn chế độ sở hữu tư nhân tư bản chủ nghĩa", "B. Giữ vững bản chất giai cấp công nhân của Đảng; tăng cường xây dựng, chỉnh đốn Đảng, ngăn chặn, đẩy lùi sự suy thoái về tư tưởng, đạo đức, lối sống", "C. Xây dựng con người mới xã hội chủ nghĩa, giáo dục đạo đức cách mạng, rèn luyện lối sống, tác phong công nghiệp, văn minh, hiện đại", "D. Thực hiện thắng lợi mục tiêu công nghiệp hóa, hiện đại hóa, làm cho nước ta trở thành một nước công nghiệp theo hướng hiện đại"],
+        dap_an: "B",
+        giai_thich: "Nội dung chính trị - xã hội của GCCN Việt Nam là giữ vững bản chất giai cấp của Đảng, bảo vệ chế độ XHCN."
+    },
+    {
+        cau: "Câu 33: Tiền đề để cải tạo toàn diện, sâu sắc và triệt để xã hội cũ và xây dựng thành công xã hội chủ nghĩa là:",
+        options: ["A. Giai cấp công nhân giành lấy quyền lực thống trị xã hội", "B. Giai cấp công nhân giành lấy quyền lực văn hóa tinh thần", "C. Giai cấp công nhân giành lấy quyền lực kinh tế", "D. Giai cấp công nhân giành lấy quyền lực chính trị"],
+        dap_an: "D",
+        giai_thich: "Giành được quyền lực chính trị (lãnh đạo) là tiền đề để cải tạo toàn diện xã hội, thiết lập chế độ XHCN."
+    },
+    {
+        cau: "Câu 34: Về thực chất, thực hiện sứ mệnh lịch sử của giai cấp công nhân là sự nghiệp của:",
+        options: ["A. Quần chúng nhân dân", "B. Toàn dân tộc", "C. Giai cấp công nhân", "D. Toàn nhân loại Đáp án"],
+        dap_an: "C",
+        giai_thich: "Về thực chất, đây là sự nghiệp tự giải phóng của giai cấp công nhân."
+    },
+    {
+        cau: "Câu 35: Với phương thức lao động công nghiệp và trong nền sản xuất tư bản chủ nghĩa, giai cấp nào là những người lao động trực tiếp hay gián tiếp vận hành các công cụ lao động có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao?",
+        options: ["A. Giai cấp công nhân và nông dân", "B. Giai cấp công nhân", "C. Giai cấp nông dân", "D. Giai cấp tư sản"],
+        dap_an: "B",
+        giai_thich: "Giai cấp công nhân lao động bằng phương thức công nghiệp hiện đại."
+    },
+    {
+        cau: "Câu 36: Kế thừa tư tưởng của C. Mác và Ăng ghen về chính đảng, Lê nin đã xây dựng lý luận nào sau đây?",
+        options: ["A. Về đảng cách mạng kiểu mới của giai cấp công nhân", "B. Phát hiện ra quy luật phát triển không đồng đều của chủ nghĩa tư bản", "C. Xác định bản chất dân chủ của chế độ chuyên chính vô sản", "D. Về chuyên chính vô sản và cách mạng dân chủ tư sản kiểu mới"],
+        dap_an: "A",
+        giai_thich: "(Lênin đã phát triển lý luận về Đảng Cộng sản kiểu mới, là đội tiền phong của GCCN)."
+    },
+    {
+        cau: "Câu 37: Nội dung kinh tế của sứ mệnh lịch sử giai cấp công nhân:",
+        options: ["A. Phấn đấu cho lợi ích riêng của giai cấp khác", "B. Phấn đấu cho lợi ích của riêng giai cấp mình", "C. Đại biểu cho lợi ích chung của xã hội", "D. Lợi ích chung và riêng thống nhất"],
+        dap_an: "C",
+        giai_thich: "Giai cấp công nhân có lợi ích phù hợp với lợi ích cơ bản của đại đa số nhân dân lao động."
+    },
+    {
+        cau: "Câu 38: Đâu là điểm tương đồng của giai cấp công nhân hiện đại so với giai cấp công nhân thế kỷ XIX?",
+        options: ["A. Không có điểm tương đồng", "B. Là lực lượng sản xuất hàng đầu của xã hội hiện đại", "C. Xu hướng trung lưu hóa gia tăng", "D. Xu hướng trí tuệ hóa tăng nhanh"],
+        dap_an: "B",
+        giai_thich: "GCCN hiện nay vẫn là lực lượng sản xuất hàng đầu, là chủ thể của quá trình sản xuất công nghiệp."
+    },
+    {
+        cau: "Câu 39: Phạm trù nào là trung tâm, nguyên lý xuất phát của chủ nghĩa xã hội khoa học?",
+        options: ["A. Dân chủ xã hội chủ nghĩa", "B. Sứ mệnh lịch sử của giai cấp công nhân", "C. Chuyên chính vô sản", "D. Sứ mệnh lịch sử của giai cấp nông dân Đáp án"],
+        dap_an: "B",
+        giai_thich: "Sứ mệnh lịch sử của GCCN là nội dung chủ yếu, điểm căn bản của chủ nghĩa Mác - Lênin."
+    },
+    {
+        cau: "Câu 40: Muốn thực hiện thắng lợi sứ mệnh lịch sử về nội dung kinh tế, giai cấp công nhân Việt Nam cần phải:",
+        options: ["A. Phát huy vai trò của giai cấp công nhân, của công nghiệp, thực hiện khối liên minh công - nông - trí thức để tạo ra động lực phát triển nôn nghiệp - nông thôn và nông dân", "B. Phải thường xuyên giáo dục cho các thế hệ công nhân và lao động trẻ về ý thức giai cấp, bản lĩnh chính trị, chủ nghĩa yêu nước và chủ nghĩa quốc tế", "C. Phải nêu cao trách nhiệm tiên phong, đi đầu, góp phần củng cố và phát triển cơ sở chính trị - xã hội quan trọng của Đảng; chủ động, tích cực tham gia xây dựng, chỉnh đốn Đảng", "D. Giữ vững bản chất giai cấp công nhân của Đảng; tăng cường xây dựng, chỉnh đốn Đảng, ngăn chặn, đẩy lùi sự suy thoái về tư tưởng, đạo đức, lối sống"],
+        dap_an: "A",
+        giai_thich: "Nội dung kinh tế sứ mệnh GCCN Việt Nam là CNH, HĐH, trong đó chú trọng thực hiện khối liên minh công - nông - trí thức."
+    },
+    {
+        cau: "Câu 41: Thông qua tác phẩm nào, Ăngghen đã chuyển từ thế giới quan duy tâm sang thế giới quan duy vật, từ lập trường dân chủ cách mạng sang lập trường cộng sản chủ nghĩa?",
+        options: ["A. Tình cảnh nước Anh; Lược khảo khoa kinh tế chính trị", "B. Góp phần phê phán triết học pháp quyền của Hêghen - Lời nói đầu", "C. Bộ Tư bản", "D. Bút ký triết học"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 42: Hạn chế cơ bản của chủ nghĩa xã hội không tưởng phê phán là gì?",
+        options: ["A. Không phát hiện ra được những quy luật phát triển của xã hội loài người", "B. Chưa tìm ra con đường để cải biến xã hội, lật đổ giai cấp thống trị xóa bỏ áp bức bất công", "C. Chưa nêu được tính quy luật của quá trình xây dựng chủ nghĩa xã hội và cộng sản chủ nghĩa", "D. Không phát hiện ra lực lượng xã hội tiên phong có thể thực hiện cuộc chuyển biến cách mạng từ chủ nghĩa tư bản lên chủ nghĩa cộng sản là giai cấp công nhân"],
+        dap_an: "D",
+        giai_thich: "Hạn chế cơ bản của CNXH không tưởng là chưa phát hiện ra được lực lượng xã hội tiên phong có thể thực hiện cuộc chuyển biến cách mạng (GCCN)."
+    },
+    {
+        cau: "Câu 43: Đặc điểm riêng của giai cấp công nhân Việt Nam so với giai cấp công nhân các nước trên thế giới là gì?",
+        options: ["A. Đại biểu cho lực lượng sản xuất tiên tiến", "B. Lao động bằng phương thức công nghiệp", "C. Có ý thức tổ chức kỷ luật trong lao động", "D. Ra đời trước giai cấp tư sản"],
+        dap_an: "D",
+        giai_thich: "Giai cấp công nhân Việt Nam ra đời trước giai cấp tư sản Việt Nam."
+    },
+    {
+        cau: "Câu 44: Đặc điểm nào khẳng định giai cấp công nhân là giai cấp tiến bộ nhất?",
+        options: ["A. Có tinh thấn quốc tế trong sán", "B. Đại biểu cho phương thức sản xuất hiện đại", "C. Có số lượng đông", "D. Có tính tổ chức kỷ luật cao"],
+        dap_an: "B",
+        giai_thich: "GCCN là đại biểu cho phương thức sản xuất hiện đại (nền sản xuất đại công nghiệp)."
+    },
+    {
+        cau: "Câu 45: Một trong những ý nghĩa của việc nghiên cứu, học tập chủ nghĩa xã hội khoa học về mặt lí luận:",
+        options: ["A. Trang bị thế giới quan khoa học và nhân sinh quan cho sự nghiệp giải phóng nhân loại", "B. Giúp sinh viên có cơ sở khoa học để nhận thức và tiếp thu tri thức khoa học công nghệ - kỹ thuật hiện đại", "C. Giúp sinh viên có căn cứ nhận thức khoa học, phân tích đúng và đấu tranh chống lại những tuyên truyền chống phá của chủ nghĩa đế quốc và bọn phản động đối với nước ta", "D. Trang bị cho sinh viên nhận thức đúng về tình hình chính trị - tôn giáo hiện nay"],
+        dap_an: "A",
+        giai_thich: "(Ý nghĩa lý luận của CNXHKH là trang bị nền tảng tri thức lý luận chính trị - xã hội)."
+    },
+    {
+        cau: "Câu 46: Tác phẩm nào sau đây của Mác và Ăngghen đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+        options: ["A. Bộ Tư bản", "B. Hệ tư tưởng Đức.", "C. Tuyên ngôn của Đảng Cộng sản", "D. Bản thảo kinh tế - triết học năm 1844."],
+        dap_an: "C",
+        giai_thich: "Tuyên ngôn của Đảng Cộng sản được coi là tác phẩm đánh dấu sự ra đời của CNXHKH."
+    },
+    {
+        cau: "Câu 47: Mục tiêu cao nhất của giai cấp công nhân khi thực hiện sứ mệnh lịch sử của mình là:",
+        options: ["A. Giải phóng con người", "B. Giải phóng lực lượng sản xuất lạc hậu", "C. Giải phóng tư liệu sản xuất lỗi thời", "D. Giải phóng giai cấp công nhân"],
+        dap_an: "A",
+        giai_thich: "Mục tiêu cao nhất của CNXH là giải phóng con người toàn diện."
+    },
+    {
+        cau: "Câu 48: Thông qua tác phẩm nào, C. Mác đã chuyển từ thế giới quan duy tâm sang thế giới quan duy vật, từ lập trường dân chủ cách mạng sang lập trường cộng sản chủ nghĩa?",
+        options: ["A. Bộ Tư bản", "B. Tình cảnh nước Anh; Lược khảo khoa kinh tế chính trị", "C. Góp phần phê phán triết học pháp quyền của Hêghen - Lời nói đầu", "D. Bút ký t"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 49: Một trong những đặc điểm sứ mệnh lịch sử của giai cấp công nhân:",
+        options: ["A. Xóa bỏ sự thống trị về xã hội tư tưởng", "B. Xóa bỏ triệt để tư hữu về tư liệu sản xuất", "C. Xóa bỏ sự thống trị về văn hóa", "D. Xóa bỏ sự thống trị về xã hộiMột trong những đặc điểm sứ mệnh lịch sử của giai cấp công nhân:"],
+        dap_an: "B",
+        giai_thich: "Xóa bỏ chế độ tư hữu về tư liệu sản xuất là nội dung cốt lõi của sứ mệnh lịch sử GCCN."
+    },
+    {
+        cau: "Câu 50: Quyền lực nhà nước thống nhất, có sự phân cấp rõ ràng, có cơ chế phối hợp, nhịp nhàng giữa các cơ quan:",
+        options: ["A. Ủy ban nhân dân các cấp từ Trung ương đến địa phương", "B. Các bộ, ngành từ Trung ương đến địa phương", "C. Lập pháp, hành pháp, tư pháp", "D. Các cơ quan trong chính phủ"],
+        dap_an: "C",
+        giai_thich: "Nhà nước pháp quyền XHCN tổ chức bộ máy đảm bảo nguyên tắc thống nhất quyền lực, có sự phân công, phối hợp, kiểm soát giữa các cơ quan lập pháp, hành pháp, tư pháp."
+    },
+    {
+        cau: "Câu 51: Đảng ta đề ra các quy chế dân chủ từ cơ sở đến Trung ương và trong các tổ chức chính trị - xã hội đều thực hiện phương châm:",
+        options: ["A. Cải cách tổ chức và hoạt động của bộ máy nhà nước", "B. Dân biết, dân bàn, dân làm, dân kiểm tra", "C. Tập trung dân chủ cho giai cấp nông dân", "D. Nhà nước và nhân dân cùng làm Đáp án"],
+        dap_an: "B",
+        giai_thich: "Đảng ta thực hiện phương châm \"Dân biết, dân bàn, dân làm, dân kiểm tra\" trong các chế độ dân chủ từ cơ sở đến Trung ương."
+    },
+    {
+        cau: "Câu 52: Đảng chủ trương, xây dựng nhà nước pháp quyền Việt Nam là:",
+        options: ["A. Nhà nước thượng tôn pháp luật", "B. Nhà nước và pháp luật đảm bảo tính nghiêm minh", "C. Nhà nước của dân, do dân, vì dân", "D. Nhà nước luôn đảm bảo tính công bằng thông qua pháp luật"],
+        dap_an: "C",
+        giai_thich: "Bản chất Nhà nước pháp quyền XHCN Việt Nam là nhà nước của dân, do dân, vì dân."
+    },
+    {
+        cau: "Câu 53: Mác và Ăngghen đã đưa ra dự báo khoa học về hai giai đoạn phát triển cao thấp khác nhau của hình thái kinh tế xã hội cộng sản chủ nghĩa, đó là gì?",
+        options: ["A. Chủ nghĩa cộng sản và cộng sản chủ nghĩa", "B. Giai đoạn thấp của xã hội cộng sản và giai đoạn cao hơn của xã hội cộng sản", "C. Thời kỳ quá độ lên chủ nghĩa xã hội và chủ nghĩa xã hội", "D. Thời kỳ quá độ lên chủ nghĩa xã hội và chủ nghĩa cộng sản"],
+        dap_an: "B",
+        giai_thich: "Học thuyết hình thái kinh tế - xã hội của Mác phân kỳ xã hội cộng sản thành hai giai đoạn: giai đoạn thấp và giai đoạn cao."
+    },
+    {
+        cau: "Câu 54: Mục tiêu dân chủ của chế độ xã hội chủ nghĩa Việt Nam là:",
+        options: ["A. Phát huy sức mạnh của nhân dân, của toàn dân tộc", "B. Do nhân dân làm chủ, quyền lực thuộc về nhân dân", "C. Phải đi đôi với kỷ luật, kỷ cương", "D. Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"],
+        dap_an: "D",
+        giai_thich: "Mục tiêu tổng quát của CNXH Việt Nam là: Dân giàu, nước mạnh, dân chủ, công bằng, văn minh."
+    },
+    {
+        cau: "Câu 55: Nền dân chủ xã hội chủ nghĩa mang bản chất của giai cấp nào?",
+        options: ["A. Giai cấp nông dân", "B. Tầng lớp trí thức", "C. Quần chúng nhân dân án", "D. Giai cấp công nhân"],
+        dap_an: "D",
+        giai_thich: "Nền dân chủ XHCN mang bản chất giai cấp công nhân."
+    },
+    {
+        cau: "Câu 56: Trong hoạt động của các cơ quan nhà nước, phải có sự kiểm soát lẫn nhau, tất cả vì:",
+        options: ["A. Mục tiêu phục vụ nhân dân", "B. Mục tiêu bình đẳng trong xã hội", "C. Mục tiêu công bằng trong xã hội", "D. Mục tiêu tiến lên chủ nghĩa xã hội Đáp án"],
+        dap_an: "A",
+        giai_thich: "Trong hoạt động của các cơ quan nhà nước, cần có sự phân công, phối hợp, kiểm soát lẫn nhau, tất cả vì mục tiêu phục vụ nhân dân."
+    },
+    {
+        cau: "Câu 57: Theo quan điểm của chủ nghĩa Mác - Lênin, loại hình quá độ gián tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản là:",
+        options: ["A. Quá độ từ những nước chưa trải qua chủ nghĩa tư bản phát triển", "B. Quá độ từ những nước đã trải qua chủ nghĩa tư bản phát triển", "C. Quá độ từ xã hội thấp lên xã hội cao", "D. Quá độ từ chủ nghĩa xã hội lên chủ nghĩa cộng sản"],
+        dap_an: "A",
+        giai_thich: "(Quá độ gián tiếp là quá độ từ các xã hội tiền TBCN (như Việt Nam) lên CNXH, bỏ qua chế độ TBCN)."
+    },
+    {
+        cau: "Câu 58: Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng Nhà nước xã hội chủ nghĩa được chia thành:",
+        options: ["A. Chức năng giai cấp, chức năng xã hội", "B. Chức năng đối nội, chức năng đối ngoại", "C. Chức năng đối nội, chức năng chính trị", "D. Chức năng kinh tế, chức năng chính trị"],
+        dap_an: "B",
+        giai_thich: "(Chức năng nhà nước được chia thành chức năng đối nội và đối ngoại theo phạm vi tác động)."
+    },
+    {
+        cau: "Câu 59: Điền từ vào chỗ trống để hoàn thiện luận điểm sau: \"Chỉ có giải phóng. thì mới giải phóng được dân tộc; cả hai cuộc giải phóng này chỉ có thể là sự nghiệp của chủ nghĩa cộng sản và cách mạng thế giới\" (Hồ Chí Minh).",
+        options: ["A. Giai cấp nông dân", "B. Nhân dân lao động", "C. Giai cấp công nhân", "D. Giai cấp vô sản"],
+        dap_an: "C",
+        giai_thich: "(Luận điểm của Hồ Chí Minh về mối quan hệ giữa giải phóng giai cấp và giải phóng dân tộc)."
+    },
+    {
+        cau: "Câu 60: Điền từ vào chỗ trống để hoàn thiện luận điểm của Mác: \"Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ cải biến cách mạng từ xã hội nọ sang xã hội kiA. Thích ứng với thời kỳ ấy là một thời kỳ quá độ , và nhà nước của thời kỳ ấy không thể là cái gì khác hơn là nền chuyên chính cách mạng của giai cấp vô sản\"",
+        options: ["A. Kinh tế", "B. Văn hóa", "C. Chính trị", "D. Xã hội"],
+        dap_an: "C",
+        giai_thich: "Luận điểm của Mác nói rõ đó là thời kỳ quá độ chính trị."
+    },
+    {
+        cau: "Câu 61: Điền từ vào chỗ trống để hoàn thiện luận điểm của Mác: \"Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ cải biến cách mạng từ xã hội nọ sang xã hội kiA. Thích ứng với thời kỳ ấy là một thời kỳ quá độ , và nhà nước của thời kỳ ấy không thể là cái gì khác hơn là nền chuyên chính cách mạng của giai cấp vô sản\"",
+        options: ["A. Kinh tế", "B. Văn hóa", "C. Chính trị", "D. Xã hội"],
+        dap_an: "C",
+        giai_thich: "(Lặp lại Câu 60) Luận điểm của Mác nói rõ đó là thời kỳ quá độ chính trị."
+    },
+    {
+        cau: "Câu 62: Một trong những nội dung phát huy dân chủ ở Việt Nam hiện nay:",
+        options: ["A. Xây dựng nhà nước và hoàn thiện các hệ thống giám sát, phản biện xã hội", "B. Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa vững mạnh", "C. Xây dựng đảng và nâng cao vai trò của các tổ chức chính trị - xã hội", "D. Xây dựng Đảng cộng sản Việt Nam trong sạch, vững mạnh, điều kiện tiên quyết để xây dựng nền dân chủ XHCN"],
+        dap_an: "D",
+        giai_thich: "Xây dựng Đảng trong sạch, vững mạnh là điều kiện tiên quyết để xây dựng nền dân chủ XHCN."
+    },
+    {
+        cau: "Câu 63: Đảng Cộng sản Việt Nam khẳng định đặc trưng của chủ nghĩa xã hội Việt Nam là:",
+        options: ["A. Do nhân dân làm chủ", "B. Do tầng lớp trí thức làm chủ", "C. Do giai cấp công nhân làm chủ", "D. Do giai cấp nông dân làm chủ"],
+        dap_an: "A",
+        giai_thich: "Đặc trưng cơ bản của CNXH Việt Nam là do nhân dân làm chủ."
+    },
+    {
+        cau: "Câu 64: Một trong những đóng góp khoa học có ý nghĩa phương pháp luận của học thuyết hình thái kinh tế - xã hội cộng sản chủ nghĩa là gì?",
+        options: ["A. Đề ra chính sách kinh tế mới", "B. Chỉ ra tính tất yếu của sự nghiệp đổi mới, trước hết là đổi mới tư duy kinh tế", "C. Chỉ ra tính tất yếu của thời kỳ quá độ từ hình thái kinh tế - xã hội tư bản chủ nghĩa lên hình thái kinh tế - xã hội cộng sản chủ nghĩa", "D. Lý luận về học thuyết giá trị thặng dư"],
+        dap_an: "C",
+        giai_thich: "Học thuyết hình thái kinh tế - xã hội chỉ ra tính tất yếu của sự phát triển xã hội, bao gồm cả thời kỳ quá độ."
+    },
+    {
+        cau: "Câu 65: Bản chất kinh tế của Nhà nước xã hội chủ nghĩa:",
+        options: ["A. Quan hệ sản xuất tàn dư về tư liệu sản xuất", "B. Quan hệ công hữu về tư liệu sản xuất", "C. Quan hệ sản xuất cá thể về tư liệu sản xuất", "D. Quan hệ sản xuất tư nhân về tư liệu sản xuất"],
+        dap_an: "B",
+        giai_thich: "Bản chất kinh tế của Nhà nước XHCN dựa trên chế độ công hữu về tư liệu sản xuất chủ yếu."
+    },
+    {
+        cau: "Câu 66: Sự khác biệt so với các nhà nước pháp quyền khác, nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam:",
+        options: ["A. Mang bản chất của giai cấp tiểu tư sản", "B. Mang bản chất của giai cấp công nhân", "C. Mang bản chất của tầng lớp tri thức", "D. Mang bản chất của nông dân"],
+        dap_an: "B",
+        giai_thich: "Nhà nước pháp quyền XHCN ở Việt Nam mang bản chất của giai cấp công nhân."
+    },
+    {
+        cau: "Câu 67: Theo Mác và Ph.Ăngghen, tiền đề để xóa bỏ phương thức sản xuất tư bản chủ nghĩa là gì?",
+        options: ["A. Liên minh công - nông bền chặt", "B. Sự ra đời của Đảng cộng sản", "C. Sự ra đời và phát triển của giai cấp công nhân", "D. Lý luận khoa học soi đường"],
+        dap_an: "C",
+        giai_thich: "Sự ra đời và phát triển của GCCN là lực lượng phá vỡ quan hệ sản xuất TBCN."
+    },
+    {
+        cau: "Câu 68: Khi coi dân chủ là một giá trị xã hội mang tính toàn nhân loại, Hồ Chí Minh đã khẳng định:",
+        options: ["A. Dân chủ là dân là chủ và dân làm chủ", "B. Dân chủ là dân làm chủ và dân là chủ", "C. Dân chủ là dân là dân chủ", "D. Dân chủ là dân là người chủ"],
+        dap_an: "B",
+        giai_thich: "Hồ Chí Minh khẳng định: \"Dân chủ là dân là chủ và dân làm chủ\"."
+    },
+    {
+        cau: "Câu 69: Bản chất xã hội của dân chủ xã hội chủ nghĩa:",
+        options: ["A. Luôn có sự kế thừa trong bất cứ thời kỳ nào của lịch sử", "B. Hình thành và phát triển dưới sự lãnh đạo của Đảng, có sự quản lý của nhà nước xã hội chủ nghĩa", "C. Hình thành và phát triển một cách tự giác, đặt dưới sự lãnh đạo của giai cấp công nhân thông qua tổ chức Đảng, có sự quản lý của nhà nước xã hội chủ nghĩa", "D. Là sự kết hợp hài hòa về lợi ích giữa cá nhân, tập thể và lợi ích toàn xã hội"],
+        dap_an: "C",
+        giai_thich: "(Bản chất xã hội của DCXHCN là sự kết hợp giữa tính giai cấp (GCCN thông qua Đảng) và tính nhân dân rộng rãi)."
+    },
+    {
+        cau: "Câu 70: Theo Lênin, trong giai đoạn thấp của xã hội cộng sản chủ nghĩa, tình trạng người áp bức bóc lột người không còn nữa vì?",
+        options: ["A. Những tư liệu sản xuất chủ yếu đã được sở hữu thuộc về toàn dân", "B. Những tư liệu sản xuất chủ yếu đã được sở hữu thuộc về xã hội", "C. Những tư liệu sản xuất chủ yếu đã được sở hữu thuộc về Đảng cộng sản", "D. Những tư liệu sản xuất chủ yếu đã được sở hữu thuộc về giai cấp công nhân và nhân dân lao động"],
+        dap_an: "B",
+        giai_thich: "Giai đoạn thấp (CNXH) xóa bỏ áp bức bóc lột vì đã thiết lập chế độ công hữu về các tư liệu sản xuất chủ yếu."
+    },
+    {
+        cau: "Câu 71: Những tiền đề vật chất quan trọng cho sự ra đời của chủ nghĩa xã hội?",
+        options: ["A. Sự phát triển của lực lượng sản xuất và sự hình thành giai cấp vô sản cách mạng", "B. Giai cấp công nhân trưởng thành và trở thành một lực lượng chính trị độc lập", "C. Sản xuất vật chất phát triển tạo ra một lượng hàng hóa khổng lồ", "D. Sự lớn mạnh của giai cấp vô sản và sự phát triển của quan hệ sản xuất tư bản chủ nghĩa"],
+        dap_an: "A",
+        giai_thich: "Tiền đề vật chất là sự phát triển của lực lượng sản xuất và sự trưởng thành của GCCN (giai cấp vô sản)."
+    },
+    {
+        cau: "Câu 72: Hình thức dân chủ nào mà thông qua đó nhân dân bằng hành động của mình thực hiện quyền làm chủ của nhà nước và xã hội?",
+        options: ["A. Dân chủ gián tiếp", "B. Dân chủ trực tiếp", "C. Dân chủ hiến định", "D. Dân chủ bán trực tiếp"],
+        dap_an: "B",
+        giai_thich: "Hình thức dân chủ trực tiếp là hình thức thông qua hành động trực tiếp của nhân dân để thực hiện quyền làm chủ."
+    },
+    {
+        cau: "Câu 73: Theo quan điểm của chủ nghĩa Mác - Lênin, điều kiện kinh tế cho sự ra đời của chủ nghĩa xã hội là:",
+        options: ["A. Sự liên minh giữa giai cấp công nhân và giai cấp công nhân", "B. Sự trưởng thành cả về số lượng và chất lượng của giai cấp công nhân", "C. Sự ra đời của công nghiệp cơ khí", "D. Sự phát triển của giai cấp tư sản"],
+        dap_an: "C",
+        giai_thich: "(Sự ra đời và phát triển của công nghiệp cơ khí/đại công nghiệp là tiền đề kinh tế - kỹ thuật quan trọng)."
+    },
+    {
+        cau: "Câu 74: Cơ sở xác lập lý luận về các hình thái kinh tế - xã hội là gì?",
+        options: ["A. Chủ nghĩa duy vật", "B. Thế giới quan triết học duy vật", "C. Học thuyết giá trị thặng dư", "D. Chủ nghĩa duy vật lịch sử"],
+        dap_an: "D",
+        giai_thich: "Học thuyết hình thái kinh tế - xã hội là phát kiến của C. Mác dựa trên cơ sở Chủ nghĩa duy vật lịch sử."
+    },
+    {
+        cau: "Câu 75: Tư tưởng của Mác và Ăngghen về những tiền đề vật chất, về mối quan hệ giữa điều kiện khách quan và nhân tố chủ quan của cách mạng vô sản đã được Lênin kế thừa, phát triển sâu sắc và sáng tạo trong học thuyết nào ?",
+        options: ["A. Học thuyết về sứ mệnh lịch sử của giai cấp công nhân", "B. Học thuyết giá trị", "C. Học thuyết giá trị thặng dư", "D. Học thuyết Nhà nước và cách mạng"],
+        dap_an: "D",
+        giai_thich: "(Lênin phát triển sâu sắc về mối quan hệ giữa điều kiện khách quan/chủ quan và nhà nước trong Nhà nước và cách mạng )."
+    },
+    {
+        cau: "Câu 76: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực chính trị là gì?",
+        options: ["A. Các giai cấp trong xã hội tồn tại với những lợi ích không còn đối kháng nhau", "B. Kết cấu giai cấp của xã hội đa dạng, phức tạp", "C. Kết cấu giai cấp của xã hội thuần nhất", "D. Không còn tồn tại giai cấp"],
+        dap_an: "B",
+        giai_thich: "Trong thời kỳ quá độ, kết cấu xã hội – giai cấp phức tạp, tồn tại nhiều giai cấp, tầng lớp khác nhau."
+    },
+    {
+        cau: "Câu 77: Nội hàm cơ bản của dân chủ xã hội chủ nghĩa là gì?",
+        options: ["A. Quyền lực thuộc về Giai cấp công nhân", "B. Toàn bộ quyền lực thuộc về nhân dân", "C. Quyền lực thuộc về người lãnh đạo", "D. Quyền lực thuộc về Giai cấp nông dân"],
+        dap_an: "B",
+        giai_thich: "Bản chất của nền dân chủ XHCN là quyền lực thuộc về nhân dân."
+    },
+    {
+        cau: "Câu 78: Theo Mác và Ph.Ăngghen, điều kiện tiên quyết để giải phóng người lao động ra khỏi các quan hệ bóc lột tư bản chủ nghĩa là gì?",
+        options: ["A. Tạo ra cách thức tổ chức lao động và kỷ luật lao động mới với năng suất cao", "B. Giải phóng và phát triển con người toàn diện", "C. Xóa bỏ chế độ sở hữu tư bản chủ nghĩa, đồng thời tiến hành thiết lập chế độ công hữu về các tư liệu sản xuất chủ yếu", "D. Tạo ra một nền sản xuất công nghiệp hiện đại Đáp án"],
+        dap_an: "C",
+        giai_thich: "Điều kiện để giải phóng là xóa bỏ chế độ sở hữu tư bản chủ nghĩa và thiết lập chế độ công hữu về tư liệu sản xuất chủ yếu."
+    },
+    {
+        cau: "Câu 79: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa:",
+        options: ["A. Là chế độ công hữu về tư liệu sản xuất chủ yếu của toàn xã hội", "B. Là chế độ triệt tiêu sự cạnh tranh trong kinh tế, loại trừ sự bất công", "C. Là chế độ xã hội ở đó tài sản thuộc về một số người có quyền lực trong tay", "D. Là chế độ mà ở đó thực hiện sự phân chia tài sản theo năng lực lao động"],
+        dap_an: "A",
+        giai_thich: "Bản chất kinh tế của CNXH là dựa trên chế độ công hữu về tư liệu sản xuất chủ yếu."
+    },
+    {
+        cau: "Câu 80: Bản chất kinh tế của nền dân chủ xã hội chủ nghĩa:",
+        options: ["A. Là chế độ công hữu về tư liệu sản xuất chủ yếu của toàn xã hội", "B. Là chế độ triệt tiêu sự cạnh tranh trong kinh tế, loại trừ sự bất công", "C. Là chế độ xã hội ở đó tài sản thuộc về một số người có quyền lực trong tay", "D. Là chế độ mà ở đó thực hiện sự phân chia tài sản theo năng lực lao động"],
+        dap_an: "A",
+        giai_thich: "(Lặp lại Câu 79)."
+    },
+    {
+        cau: "Câu 81: Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam do cơ quan nào lãnh đạo?",
+        options: ["A. Quốc hội", "B. Mặt trật tổ quốc Việt Nam", "C. Đảng cộng sản Việt Nam", "D. Chính phủ"],
+        dap_an: "C",
+        giai_thich: "Nhà nước pháp quyền XHCN ở Việt Nam đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam."
+    },
+    {
+        cau: "Câu 82: Hình thức dân chủ nào mà được thực hiện do nhân dân « ủy quyền », giao quyền lực của mình cho tổ chức mà nhân dân trực tiếp bầu ra?",
+        options: ["A. Dân chủ gián tiếp", "B. Dân chủ hiến định", "C. Dân chủ trực tiếp", "D. Dân chủ bán trực tiếp"],
+        dap_an: "A",
+        giai_thich: "Dân chủ gián tiếp là hình thức dân chủ đại diện, được thực hiện do nhân dân \"ủy quyền\", giao quyền lực cho tổ chức do nhân dân bầu ra (ví dụ: Quốc hội)."
+    },
+    {
+        cau: "Câu 83: Theo Mác và Ph.Ăngghen, chủ nghĩa xã hội phải được \"thoát thai\", \"lọt lòng\" từ xã hội nào?",
+        options: ["A. Quốc gia chưa trải qua giai đoạn phát triển tư bản chủ nghĩa", "B. Phong kiến thuộc địa", "C. Chủ nghĩa tư bản", "D. Những nước tư bản trung bình hoặc kém phát triển"],
+        dap_an: "C",
+        giai_thich: "Theo quy luật phát triển, CNXH phải thoát thai từ lòng xã hội tư bản."
+    },
+    {
+        cau: "Câu 84: Theo Hiến pháp 2013, hoạt động của Nhà nước được giám sát bởi nhân dân với phương châm:",
+        options: ["A. Nhà nước lắng nghe ý kiến của nhân dân và chịu sự kiểm soát của nhân dân", "B. Nhà nước phục vụ nhân dân, gắn bó mật thiết với nhân dân, thực hiện đầy đủ các quyền làm chủ của nhân dân", "C. Dân biết, dân bàn, dân kiểm tra thông qua các tổ chức, các cá nhân được nhân dân ủy nhiệm", "D. Nhà nước phải được hoàn thiện bằng việc ban hành các cơ chế và biện pháp kiểm soát, ngăn ngừa các hiện tượng tiêu cực…"],
+        dap_an: "A",
+        giai_thich: "Nhà nước pháp quyền XHCN phải lắng nghe ý kiến của nhân dân, chịu sự giám sát của nhân dân."
+    },
+    {
+        cau: "Câu 85: Bản chất chính trị của nền dân chủ xã hội chủ nghĩa:",
+        options: ["A. Là nền dân chủ của giai cấp công nhân và nhân dân lao động thực hiện quyền lực đối với toàn xã hội", "B. Là nền dân chủ có tính nhân dân rộng rãi và tính dân tộc sâu sắc", "C. Là nền dân chủ của giai cấp công nhân thông qua chính đảng của nó để cải tạo xã hội cũ và xây dựng xã hội mới", "D. Là nền dân chủ phi giai cấp"],
+        dap_an: "C",
+        giai_thich: "Bản chất chính trị là quyền lực của GCCN thông qua Đảng Cộng sản để cải tạo xã hội."
+    },
+    {
+        cau: "Câu 86: Một trong những nội dung tiếp tục xây dựng và hoàn thiện Nhà nước pháp quyền XHCN ở Việt Nam hiện nay:",
+        options: ["A. Nâng cao vai trò quản lý của các tổ chức nhà nước", "B. Hoàn thiện các hệ thống giám sát, phản biện xã hội", "C. Cải cách thể chế và phương thức hoạt động của Nhà nước", "D. Xây dựng các tổ chức nhà nước vững mạnh Đáp án"],
+        dap_an: "C",
+        giai_thich: "Nội dung xây dựng và hoàn thiện Nhà nước pháp quyền XHCN bao gồm việc cải cách thể chế và phương thức hoạt động của Nhà nước."
+    },
+    {
+        cau: "Câu 87: Tại sao dân chủ là phạm trù lịch sử?",
+        options: ["A. Phản ánh lợi ích của giai cấp nắm giữ tư liệu sản xuất của xã hội", "B. Phản ánh lợi ích của các giai cấp trong xã hội.", "C. Phản ánh lợi ích của tầng lớp tri thức", "D. Phản ánh lợi ích của giai cấp tiểu tư sản"],
+        dap_an: "A",
+        giai_thich: "Dân chủ là một phạm trù lịch sử, gắn liền với sự ra đời, tồn tại và phát triển của nhà nước và phản ánh lợi ích của giai cấp nắm quyền."
+    },
+    {
+        cau: "Câu 88: Điền từ vào chỗ trống để hoàn thiện luận điểm sau của Chủ tịch Hồ Chí Minh: \"Xây dựng chủ nghĩa xã hội là một cuộc đấu tranh cách mạng gian khổ, phức tạp và. \"?",
+        options: ["A. Dài ngắn khác nhau tùy điều kiện mỗi nước", "B. Trải qua nhiều bước trung gian quá độ", "C. Khó khăn", "D. Lâu dài"],
+        dap_an: "D",
+        giai_thich: "(Câu nói nổi tiếng của Hồ Chí Minh là: \"Xây dựng chủ nghĩa xã hội là một cuộc đấu tranh cách mạng gian khổ, phức tạp và lâu dài \"."
+    },
+    {
+        cau: "Câu 89: Trong các đặc trưng của chủ nghĩa xã hội, đặc trưng nào được xem là cơ bản nhất?",
+        options: ["A. Cơ sở vật chất của chủ nghĩa xã hội phải được tạo ra bởi một nền sản xuất công nghiệp hiện đại", "B. Từng bước xóa bỏ chế độ sở hữu tư bản chủ nghĩa đồng thời thiết lập chế độ công hữu về các tư liệu sản xuất chủ yếu", "C. Tạo ra cách thức tổ chức và kỷ luật lao động mới", "D. Mục tiêu cao nhất của chủ nghĩa xã hội là giải phóng con người toàn diện"],
+        dap_an: "B",
+        giai_thich: "Chế độ công hữu về tư liệu sản xuất chủ yếu là đặc trưng kinh tế cơ bản nhất của CNXH (giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa)."
+    },
+    {
+        cau: "Câu 90: Nội dung nào là cốt lõi và là nội dung quan trọng nhất của dân chủ?",
+        options: ["A. Dân chủ là một phạm trù thuộc lĩnh vực chính trị; là một hình thức nhà nước", "B. Dân chủ là một phạm trù mang tính lịch sử", "C. Dân chủ là một giá trị xã hội mang tính toàn nhân loại", "D. Dân chủ là một hình thức của các tổ chức xã hội"],
+        dap_an: "A",
+        giai_thich: "Nội dung cốt lõi của dân chủ là nó là một phạm trù chính trị và là một hình thức nhà nước."
+    },
+    {
+        cau: "Câu 91: Nhà nước xã hội chủ nghĩa trở thành công cụ quan trọng trong việc thực thi:",
+        options: ["A. Quyền làm chủ của nhân dân", "B. Quyền làm chủ văn hóa của nhân dân", "C. Quyền làm chủ kinh tế của nhân dân", "D. Quyền làm chủ chính trị của nhân dân"],
+        dap_an: "A",
+        giai_thich: "Nhà nước XHCN là công cụ để nhân dân lao động thực hiện quyền lực đối với toàn xã hội, thực thi quyền làm chủ của nhân dân."
+    },
+    {
+        cau: "Câu 92: Theo quan điểm của chủ nghĩa Mác - Lênin, điều kiện chính trị cho sự ra đời của chủ nghĩa xã hội là:",
+        options: ["A. Sự phát triển của giai cấp tư sản", "B. Sự ra đời của công nghiệp cơ khí", "C. Sự trưởng thành cả về số lượng và chất lượng của giai cấp công nhân", "D. Sự liên minh giữa giai cấp công nhân và giai cấp công nhân"],
+        dap_an: "C",
+        giai_thich: "Sự trưởng thành của GCCN là tiền đề chính trị - xã hội quyết định sự ra đời của CNXH."
+    },
+    {
+        cau: "Câu 93: Thực tiễn cho thấy, bản chất tốt đẹp và tính ưu việt của nền dân chủ xã hội chủ nghĩa ở Việt Nam ngày càng thể hiện:",
+        options: ["A. Giá trị ưu việt của chủ nghĩa xã hội", "B. Giá trị tốt đẹp của xã hội tương lai", "C. Giá trị lấy dân làm gốc", "D. Giá trị văn hóa tinh thần Đáp án"],
+        dap_an: "C",
+        giai_thich: "Thực tiễn DCXHCN ở Việt Nam ngày càng thể hiện giá trị lấy dân làm gốc."
+    },
+    {
+        cau: "Câu 94: Theo Lênin, mâu thuẫn nào đang nổi lên như là một trong những mâu thuẫn chủ đạo, tác động sâu sắc đến hầu hết các quan hệ kinh tế và chính trị trong thời đại ngày nay?",
+        options: ["A. Mâu thuẫn giữa chủ nghĩa đế quốc và các quốc gia dân tộc bị xâm lược", "B. Mâu thuẫn giữa các nước tư bản với nhau", "C. Mâu thuẫn giữa giai cấp tư sản và giai cấp công nhân", "D. Mâu thuẫn giữa các nước giàu trong thế giới tư bản và các nước nghèo, lạc hậu"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 95: Các danh từ \"quá độ đặc biệt\", \"quá độ đặc biệt của đặc biệt\" do ai đưa ra?",
+        options: ["A. Ph.Ăngghen", "B. Hồ Chí Minh", "C. Lênin", "D. Mác"],
+        dap_an: "C",
+        giai_thich: "(Đây là thuật ngữ thường được gán cho Lênin khi nói về các nước lạc hậu đi lên CNXH)."
+    },
+    {
+        cau: "Câu 96: Theo quan điểm của chủ nghĩa Mác - Lênin, hình thái kinh tế - xã hội phát triển cao nhất, kết tinh của văn minh nhân loại là?",
+        options: ["A. Xã hội Phong kiến", "B. Cộng sản chủ nghĩa", "C. Tư bản chủ nghĩa", "D. Xã hội chủ nghĩa"],
+        dap_an: "B",
+        giai_thich: "Hình thái kinh tế - xã hội cộng sản chủ nghĩa (bao gồm CNXH và CNCS) là hình thái phát triển cao nhất."
+    },
+    {
+        cau: "Câu 97: Nhiệm vụ trọng tâm cần thực hiện trong thời kỳ quá độ đi lên chủ nghĩa xã hội đối với những nước chưa trải qua quá trình công nghiệp hóa xã hội chủ nghĩa là gì?",
+        options: ["A. Đẩy mạnh sự nghiệp công nghiệp hóa, hiện đại hóa", "B. Tiến hành công nghiệp hóa, hiện đại hóa nền kinh tế theo định hướng xã hội chủ nghĩa", "C. Phát triển nguồn nhân lực chất lượng cao phục vụ quá trình công nghiệp hóa, hiện đại hóa nền kinh tế theo định hướng xã hội chủ nghĩa", "D. Tiến hành công nghiệp hóa xã hội chủ nghĩa"],
+        dap_an: "B",
+        giai_thich: "Đối với Việt Nam (quá độ bỏ qua TBCN), nhiệm vụ trung tâm là phát triển lực lượng sản xuất, CNH, HĐH đất nước."
+    },
+    {
+        cau: "Câu 98: Theo quan điểm của chủ nghĩa Mác - Lênin, loại hình quá độ trực tiếp từ chủ nghĩa tư bản lên chủ nghĩa cộng sản là:",
+        options: ["A. Quá độ từ những nước chưa trải qua chủ nghĩa tư bản phát triển", "B. Quá độ từ những nước đã trải qua chủ nghĩa tư bản phát triển", "C. Quá độ từ chủ nghĩa xã hội lên chủ nghĩa cộng sản", "D. Quá độ từ xã hội thấp lên xã hội cao"],
+        dap_an: "B",
+        giai_thich: "Quá độ trực tiếp áp dụng cho các nước TBCN phát triển."
+    },
+    {
+        cau: "Câu 99: Theo quan điểm của chủ nghĩa Mác - Lênin, nhà nước xã hội chủ nghĩa mang bản chất giai cấp công nhân được hiểu như thế nào?",
+        options: ["A. Là một công cụ để bảo vệ lợi ích của nhân dân lao động bị áp bức", "B. Là một công cụ để bảo vệ lợi ích của giai cấp công nhân", "C. Là một công cụ để bảo vệ lợi ích của toàn dân", "D. Là một công cụ để bảo vệ lợi ích của dân tộc"],
+        dap_an: "B",
+        giai_thich: "(Mặc dù Nhà nước XHCN đại diện cho nhân dân, về bản chất giai cấp, nó mang bản chất GCCN)."
+    },
+    {
+        cau: "Câu 100: Sự ra đời của nền dân chủ xã hội chủ nghĩa đánh dấu bước phát triển mới về:",
+        options: ["A. Nội dung của dân chủ", "B. Giá trị của dân chủ", "C. Chất của dân chủ", "D. Lượng của dân chủ"],
+        dap_an: "C",
+        giai_thich: "Nền dân chủ XHCN là loại hình dân chủ cao hơn, đánh dấu bước phát triển về chất so với các hình thức dân chủ trước đó."
+    },
+    {
+        cau: "Câu 101: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội trên lĩnh vực kinh tế là gì?",
+        options: ["A. Tồn tại một nền kinh tế nhiều thành phần trong một hệ thống kinh tế quốc dân thống nhất", "B. Lực lượng sản xuất ở nhiều trình độ khác nhau", "C. Quan hệ sản xuất dựa trên chế độ công hữu về tư liệu sản xuất chủ yếu", "D. Cơ sở vật chất kỹ thuật hiện đại"],
+        dap_an: "A",
+        giai_thich: "Trong thời kỳ quá độ, còn tồn tại nhiều hình thức sở hữu, nhiều thành phần kinh tế (kinh tế nhiều thành phần)."
+    }
+];
+
+// --- DỮ LIỆU ĐỀ SỐ 3 ---
+const de3 = [
+    {
+        cau: "Câu 1: Theo nghĩa rộng, CNXHKH là:",
+        options: ["A. Bộ Tư bản của Marx", "B. Vũ khí lí luận của giai cấp công nhân", "C. Học thuyết về CNXH", "D. CNXHKH tức là Chủ nghĩa Marx, hay Chủ nghĩa Marx chính là CNXHKH"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 2: Theo nghĩa hẹp, CNXHKH là:",
+        options: ["A. CNXHKH là 1 trong 3 bộ phận hợp thành Chủ nghĩa Marx - Lenin", "B. Sự kế thừa và phát triển những giá trị của lịch sử tư tưởng nhân loại, trên cơ sở thực tiễn của thời đại", "C. Vũ khí lí luận của giai cấp vô sản trong sự nghiệp đấu tranh giải phóng nhân dân lao động và giải phóng con người", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 3: CNXHKH – Chủ nghĩa Marx ra đời vào thế kỷ XIX đã:",
+        options: ["A. Phản ánh được bản chất QHSX tư bản là chế độ bóc lột lao động làm thuê với mâu thuẫn cơ bản là mâu thuẫn giữa tư sản và vô sản", "B. Phản ánh được xu hướng biến đổi của xã hội tư bản", "C. Đáp ứng được nhu cầu của thực tiễn phong trào công nhân phải có lý luận soi đường", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 4: Chủ nghĩa xã hội không tưởng có những giá trị lớn là:",
+        options: ["A. Phê phán lên án chế độ quân chủ chuyên chế và chế độ TBCN đầy bất công", "B. Chủ trương xoá bỏ tư hữu – nguyên nhân sinh ra áp bức bóc lột", "C. Đưa ra mô hình xã hội tương lai với cách tổ chức sản xuất và phân phối sản phẩm mới, khẳng định vai trò của công nghiệp và khoa học", "D. Các phương án đều đúng."],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 5: Ba phát kiến vĩ đại của Marx và Engels là:",
+        options: ["A. Triết học - KTCT - CNXHKH", "B. Chủ nghĩa duy vật lịch sử - Học thuyết Giá trị thặng dư - Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân", "C. Thuyết tế bào - Định luật bảo toàn và chuyển hóa năng lượng - Thuyết tiến hóa", "D. Chủ nghĩa duy vật biện chứng - Học thuyết Giá trị thặng dư - Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 6: Nội dung nào sau đây không phải của tác phẩm Tuyên Ngôn của Đảng cộng sản?",
+        options: ["A. Sự phù hợp giữa quan hệ sản xuất và lực lượng sản xuất tất yếu sẽ dẫn đến sự sụp đổ của chủ nghĩa tư bản và thắng lợi của chủ nghĩa xã hội", "C. Vấn đề dân tộc và cương lĩnh dân tộc", "D. Sứ mệnh lịch sử của giai cấp vô sản là “người đào mồ chôn chủ nghĩa tư bản” và “người xây dựng chủ nghĩa xã hội”"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 7: CNXHKH – Chủ nghĩa Marx ra đời vào thế kỷ XIX đã:",
+        options: ["A. Phản ánh được bản chất QHSX tư bản là chế độ bóc lột lao động làm thuê với mâu thuẫn cơ bản là mâu thuẫn giữa tư sản và vô sản", "B. Phản ánh được xu hướng biến đổi của xã hội tư bản", "C. Đáp ứng được nhu cầu của thực tiễn phong trào công nhân phải có lý luận soi đường", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 8: Phát kiến SMLS của giai cấp công nhân, Marx và Engels đã làm cho CNXH từ không tưởng trở thành khoa học vì:",
+        options: ["A. Chỉ ra con đường tất yếu hợp quy luật của lịch sử nhằm giải phóng con người là con đường cách mạng XHCN", "B. Chỉ ra được lực lượng xã hội thực hiện cuộc cách mạng đó là giai cấp vô sản/ giai cấp công nhân", "C. Khắc phục được hạn chế của CNXH không tưởng", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 9: Phát kiến thứ nhất: CNDVLS với “hòn đá tảng” là Học thuyết về Hình thái kinh tế xã hội đã:",
+        options: ["A. Chỉ ra được bản chất, cấu trúc và quy luật vận động của xã hội loài người", "B. Là cơ sở triết học để khẳng định tính tất yếu diệt vong của chủ nghĩa tư bản và tất yếu ra đời của xã hội mới – xã hội XHCN", "C. Khẳng định sự sụp đổ của giai cấp tư sản và sự thắng lợi của SMLS của giai cấp công nhân là tất yếu như nhau", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 10: Đánh dấu sự ra đời của CNXHKH là tác phẩm nào?",
+        options: ["A. Làm gì", "B. Tuyên ngôn của Đảng cộng sản", "C. Hệ tư tưởng Đức", "D. Phê phán triết học pháp quyền của Hegel"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 11: Nội dung Tác phẩm “Tuyên ngôn Đảng Cộng sản” gồm những nội dung:",
+        options: ["A. Sự phù hợp giữa quan hệ sản xuất và lực lượng sản xuất tất yếu sẽ dẫn đến sự sụp đổ của chủ nghĩa tư bản và thắng lợi của chủ nghĩa xã hội", "B. Đấu tranh giai cấp là động lực thúc đẩy sự phát triển của xã hội loài người", "C. Sứ mệnh lịch sử của giai cấp vô sản là “người đào mồ chôn chủ nghĩa tư bản” và “người xây dựng chủ nghĩa xã hội”; nhấn mạnh vai trò của giai cấp vô sản và bộ tham mưu là Đảng Cộng sản", "D. Muốn giải phóng mình, giai cấp vô sản phải dùng bạo lực cách mạng để giành và nắm chính quyền, thiết lập sự đoàn kết quốc tế theo khẩu hiệu “Vô sản tất cả các nước, đoàn kết lại”", "E. Các phương án trên đều đúng"],
+        dap_an: "E",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 12: Đối tượng của CNXHKH là:",
+        options: ["A. Quan hệ giữa tư duy và tồn tại", "B. Các quan hệ sản xuất trong liên hệ với lực lượng sản xuất và kiến trúc thượng tầng", "C. Lĩnh vực tinh thần của xã hội", "D. Các vấn đề thuộc lĩnh vực chính trị xã hội của quá trình lịch sử từ CNTB lên CNXH"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    // Câu 13 bị thiếu trong nguồn
+    {
+        cau: "Câu 14: Khẩu hiệu “Vô sản tất cả các nước, đoàn kết lại” được đưa ra đầu tiên trong tác phẩm nào?",
+        options: ["A. Những nhiệm vụ trước mắt của chính quyền Xô viết (Lenin)", "B. Chống Đuy Rinh (Engels)", "C. Bộ Tư bản (Marx)", "D. Tuyên ngôn của Đảng cộng sản (Marx – Engels)"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 15: Nội dung nào sau đây không phải của tác phẩm Tuyên Ngôn của Đảng cộng sản?",
+        options: ["A. Đấu tranh giai cấp là động lực thúc đẩy sự phát triển của xã hội loài người", "B. Sứ mệnh lịch sử của giai cấp vô sản là “người đào mồ chôn chủ nghĩa tư bản” và “người xây dựng chủ nghĩa xã hội”", "C. Vấn đề dân tộc và cương lĩnh dân tộc", "D. Sự phù hợp giữa quan hệ sản xuất và lực lượng sản xuất tất yếu sẽ dẫn đến sự sụp đổ của chủ nghĩa tư bản và thắng lợi của chủ nghĩa xã hội"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 16: Hoàn thành câu dưới đây: Tác phẩm Tuyên ngôn của Đảng cộng sản ra đời năm 1848 do...... soạn thảo.",
+        options: ["A. Lenin", "B. Engels", "C. K. Marx và F. Engels", "D. Marx"],
+        dap_an: "C. K. Marx và F. Engels",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 17: Phát kiến thứ ba: Sứ mệnh lịch sử toàn thế giới của giai cấp công nhân:",
+        options: ["A. Là sự tiếp tục phát triển lý luận của CNDVLS và học thuyết Giá trị thặng dư", "B. Chỉ ra: Sự chuyển biến của xã hội loài người lên CNCS là một cuộc cách mạng xã hội nhằm giải quyết mâu thuẫn giữa LLSX phát triển với QHSX TBCN", "C. Làm rõ được: Trong cuộc cách mạng vô sản, giai cấp công nhân vừa là lực lượng cơ bản, vừa là giai cấp lãnh đạo cách mạng", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 18: Các giai đoạn phát triển của CNXHKH gồm:",
+        options: ["A. Giai đoạn Marx và Engels phát triển CNXHKH (1848 – 1895)", "B. Giai đoạn Lenin vận dụng và phát triển CNXHKH (1894 - 1921)", "C. Từ khi Lenin qua đời đến nay", "D. Tất cả các phương án trên"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 19: Các tác phẩm: Những nhiệm vụ trước mắt của chính quyền Xô viết (1918); Kinh tế chính trị trong thời đại Chuyên chính vô sản (1919); Bàn về thuế lương thực (1921) là của ai?",
+        options: ["A. K.Marx", "B. Hồ Chí Minh", "C. V.I.Lenin", "D. F.Engels"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 20: Yêu cầu về phương pháp học tập môn CNXHKH là:",
+        options: ["A. Gắn kết lí luận của CNXHKH với thực tiễn của đất nước và thời đại", "B. Hiểu đúng tinh thần, thực chất của lý luận; tránh bệnh kinh viện, giáo điều", "C. Học tập, nghiên cứu trong các mối quan hệ giữa các nguyên lý, các quy luật cơ bản…", "D. Thấy được tính hệ thống chặt chẽ, tính khoa học, phong phú, sâu sắc của chủ nghĩa Marx – Lenin.", "E. Các phương án trên đều đúng."],
+        dap_an: "E",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 21: Chọn phương án sai: Yêu cầu về phương pháp học tập môn CNXHKH là:",
+        options: ["A. Hiểu đúng tinh thần, thực chất của lý luận; tránh bệnh kinh viện, giáo điều.", "B. Tách rời lí luận của CNXHKH với thực tiễn của đất nước và thời đại", "C. Học tập, nghiên cứu trong các mối quan hệ giữa các nguyên lý, các quy luật cơ bản...", "D. Thấy được tính hệ thống chặt chẽ, tính khoa học, phong phú, sâu sắc của chủ nghĩa Marx - Lenin."],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 22: Giai cấp công nhân là gì?",
+        options: ["A. Người lao động trong lĩnh vực công nghiệp", "B. Làm ra sản phẩm thặng dư", "C. Là nguồn gốc sự giàu có và phát triển xã hội", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 23: Đặc điểm của giai cấp công nhân là gì?",
+        options: ["A. Là giai cấp có tính cách mạng triệt để nhất, có ý thức tổ chức kỷ luật cao nhất", "B. Là giai cấp tiên tiến có bản chất quốc tế", "C. Là giai cấp tiên tiến có tính cách mạng triệt để; có ý thức tổ chức kỉ luật cao nhất; có bản chất quốc tế", "D. Là giai cấp cách mạng nhất"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 24: Nội dung Sứ mệnh lịch sử của giai cấp công nhân là gì?",
+        options: ["A. Xây dựng thành công Hình thái kinh tế - xã hội Cộng sản chủ nghĩa", "B. Xóa bỏ chế độ TBCN; xây dựng thành công xã hội XHCN và CSCN; giải phóng giai cấp mình đồng thời giải phóng nhân loại khỏi áp bức bóc lột", "C. Giải phóng giai cấp mình và giải phóng toàn nhân loại", "D. Thủ tiêu chế độ tư bản và tiền tư bản"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 25: Mục tiêu Sứ mệnh lịch sử của giai cấp công nhân là gì?",
+        options: ["A. Thành lập nhà nước chuyên chính vô sản", "B. Xác lập vai trò lãnh đạo của giai cấp công nhân", "C. Xóa bỏ giai cấp, xóa bỏ tận gốc chế độ người bóc lột người, giải phóng nhân loại", "D. Xác lập vai trò lãnh đạo của Đảng cộng sản"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 26: Giai cấp công nhân là giai cấp tiên tiến nhất vì:",
+        options: ["A. Họ là người lao động tạo ra của cải vật chất cho xã hội", "B. Họ là người bị bóc lột nặng nề nhất", "C. Họ là người tạo ra giá trị thặng dư", "D. Họ là người lao động trong lĩnh vực công nghiệp có trình độ ngày càng hiện đại – gắn với LLSX tiên tiến"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 27: Dưới CNTB, giai cấp công nhân",
+        options: ["A. Là con đẻ của nền đại công nghiệp", "B. Là những người vô sản", "C. Là giai cấp cách mạng nhất", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 28: Trong 2 giai đoạn của quá trình thực hiện sứ mệnh lịch sử của giai cấp công nhân, chính quyền nhà nước là:",
+        options: ["A. Mục tiêu của giai đoạn 1/ công cụ của giai đoạn 2", "B. Mục tiêu của cả 2 giai đoạn", "C. Đều là phương tiện để tiến hành cách mạng của giai cấp công nhân", "D. Mục tiêu của giai đoạn 2/ công cụ của giai đoạn 1"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 29: Hai thuộc tính cơ bản của giai cấp công nhân là",
+        options: ["A. Đại diện cho QHSX TBCN/ Có lợi ích gắn với nền đại công nghiệp", "B. Đại diện cho LLSX tiên tiến/ Đại diện cho QHSX đương thời", "C. Đại diện cho nền đại công nghiệp/ Đại diện cho QHSX đương thời", "D. Đại diện cho LLSX tiên tiến/ Có lợi ích gắn với PTSX XHCN"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 30: Về phương thức lao động, giai cấp công nhân là:",
+        options: ["A. Là những người không có TLSX", "B. Trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và có tính xã hội hóa cao", "C. Là giai cấp đối kháng với giai cấp tư sản", "D. Các phương án trên đều đúng"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 31: Những đóng góp về lý luận của CNXHKH trong điều kiện Việt Nam từ 1986 đến nay là:",
+        options: ["A. Độc lập dân tộc gắn liền với CNXH là tính quy luật của cách mạng trong thời đại ngày nay. Kết hợp chặt chẽ đổi mới kinh tế với đổi mới chính trị", "B. Xây dựng và phát triển nền kinh tế thị trường XHCN. Đảm bảo quan hệ giữa tăng trưởng phát triển kinh tế với tiến bộ và công bằng xã hội", "C. Phát huy dân chủ, xây dựng nhà nước pháp quyền XHCN Việt Nam, đảm bảo mọi quyền lực thuộc về nhân dân; Mở rộng quan hệ đối ngoại, hội nhập quốc tế, giữ vững chủ quyền và lợi ích quốc gia", "D. Giữ vững và tăng cường sự lãnh đạo của Đảng cộng sản Việt Nam là nhân tố đảm bảo thắng lợi của toàn bộ sự nghiệp đổi mới và phát triển đất nước", "E. Các phương án trên đều đúng"],
+        dap_an: "E",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 32: Ngày nay xu hướng “trí thức hóa” giai cấp công nhân ngày càng tăng là do:",
+        options: ["A. Giai cấp sản đã thay đổi phương thức bóc lột", "B. Sự thay đổi cơ cấu ngành nghề", "C. Tiến bộ của khoa học và công nghệ trong LLSX quy định", "D. Trình độ văn hóa xã hội phát triển"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 33: Mục tiêu giai đoạn thứ nhất của quá trình thực hiện sứ mệnh lịch sử của GCCN là gì?",
+        options: ["A. Giành chính quyền từ tay các giai cấp thống trị", "B. Giai cấp công nhân phải tập hợp các tầng lớp nhân dân lao động thành lực lượng cách mạng mạnh mẽ để xây dựng thành công Hình thái kinh tế- xã hội CSCN", "C. Xây dựng thành công hình thái kinh tế - xã hội CSCN – xóa bỏ tận gốc chế độ người bóc lột người", "D. Giai cấp công nhân trở thành giai cấp lãnh đạo xã hội"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 34: Tác phẩm Nguồn gốc gia đình, chế độ tư hữu và nhà nước là của ai?",
+        options: ["A. Marx – Engels", "B. Lenin", "C. Engels", "D. Hồ Chí Minh"],
+        dap_an: "C",
+        giai_thich: " (Suy luận từ lý thuyết)"
+    },
+    {
+        cau: "Câu 35: Trong xã hội tư bản, Giai cấp công nhân",
+        options: ["A. Gắn với LLSX không ngừng phát triển, họ là giai cấp đại biểu cho LLSX tiên tiến", "B. Là giai cấp đối lập với giai cấp tư sản về lợi ích căn bản và có nhu cầu xoá bỏ QHSX TBCN, họ là đại biểu cho PTSX mới", "C. Là giai cấp bị bóc lột nặng nề nhất", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    // Câu 36 bị thiếu trong nguồn
+    {
+        cau: "Câu 37: Các giai đoạn phát triển của CNXHKH gồm:",
+        options: ["A. Giai đoạn Marx và Engels phát triển CNXHKH (1848 - 1895)", "B. Giai đoạn Lenin vận dụng và phát triển CNXHKH (1894 - 1921)", "C. Từ khi Lenin qua đời đến nay", "D. Tất cả các phương án trên"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 38: Các tác phẩm: Những nhiệm vụ trước mắt của chính quyền Xô viết (1918); Kinh tế chính trị trong thời đại Chuyên chính vô sản (1919); Bàn về thuế lương thực (1921) là của ai?",
+        options: ["A. Hồ Chí Minh", "B. V.I.Lenin", "C. K.Marx", "D. F.Engels"],
+        dap_an: "B",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 39: Yêu cầu về phương pháp học tập môn CNXHKH là:",
+        options: ["A. Gắn kết lí luận của CNXHKH với thực tiễn của đất nước và thời đại", "B. Hiểu đúng tinh thần, thực chất của lý luận; tránh bệnh kinh viện, giáo điều", "C. Học tập, nghiên cứu trong các mối quan hệ giữa các nguyên lý, các quy luật cơ bản...; thấy được tính hệ thống chặt chẽ, tính khoa học, phong phú, sâu sắc của chủ nghĩa Marx - Lenin", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 40: Đặc điểm của giai cấp công nhân là gì?",
+        options: ["A. Là giai cấp có tính cách mạng triệt để nhất, có ý thức tổ chức kỷ luật cao nhất", "B. Là giai cấp tiên tiến có bản chất quốc tế", "C. Là gia cấp tiên tiến có tính cách mạng triệt để; có ý thức tổ chức kỉ luật cao nhất; có bản chất quốc tế", "D. Là giai cấp cách mạng nhất"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 41: Chọn phương án đúng:",
+        options: ["A. Marx đã viết tác phẩm: Nhà nước và cách mạng (1917)", "B. Marx và Engels đã viết các tác phẩm: Làm gì (1902); Một bước tiến, hai bước lùi (1904); Nhà nước và cách mạng (1917)", "C. Lenin đã viết các tác phẩm: Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ - xã hội ra sao (1894); Làm gì (1902); Một bước tiến, hai bước lùi (1904); Nhà nước và cách mạng (1917)", "D. Lenin đã viết: Nội chiến ở Pháp (1871); Phê phán cương lĩnh Gota (1875); Nguồn gốc của gia đình, của chế độ tư hữu và nhà nước (1884)"],
+        dap_an: "C",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 42: Tìm phương án sai:",
+        options: ["A. Giai cấp công nhân có chung lợi ích cơ bản với giai cấp tư sản", "B. Giai cấp công nhân bị bóc lột giá trị thặng dư", "C. Giai cấp công nhân là giai cấp bị áp bức bóc lột", "D. Giai cấp công nhân là những người không có TLSX"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 43: Giai cấp công nhân là giai cấp có tính tổ chức kỉ luật cao vì",
+        options: ["A. Họ là người bị bóc lột nặng nề nhất", "B. Họ là người lao đông làm việc trong dây chuyền của nền đại công nghiệp", "C. Họ là người lao động tạo ra của cải vật chất cho xã hội", "D. Họ là người tạo ra giá trị thặng dư"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 44: Về địa vị kinh tế - xã hội, trong QHSX TBCN, giai cấp công nhân là",
+        options: ["A. Những người không có TLSX để hiện thức hóa sức lao động của mình", "B. Những người phải bán sức lao động của mình cho nhà tư bản và bị bóc lột giá trị thặng dư", "C. Giai cấp có lợi ích đối lập với giai cấp tư sản", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 45: Phạm trù cơ bản nhất của CNXHKH là",
+        options: ["A. Giai cấp công nhân", "B. Chuyên chính vô sản", "C. Sứ mệnh lịch sử của giai cấp công nhân", "D. Xã hội chủ nghĩa"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 46: Mục tiêu giai đoạn thứ hai của quá trình thực hiện sứ mệnh lịch sử của GCCN là gì?",
+        options: ["A. Thiết lập chính quyền của GCCN, sử dụng nó làm công cụ để xây dựng thành công Hình thái kinh tế - xã hội CSCN – xóa bỏ tận gốc chế độ người bóc lột người", "B. Giành chính quyền từ tay các giai cấp bóc lột, thiết lập chính quyền của mình", "C. Giai cấp công nhân phải tập hợp các tầng lớp nhân dân lao động thành lực lượng cách mạng mạnh mẽ để xây dựng thành công Hình thái kinh tế- xã hội CSCN", "D. Giai cấp công nhân trở thành giai cấp lãnh đạo xã hội"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 47: Với Bộ Tư bản và các tác phẩm Ngày 18 tháng sương mù của Louis Bonaparte (1852), Chiến tranh nông dân Đức (1850), Cách mạng và phản cách mạng ở Đức (1851)…, Marx và Engels đã:",
+        options: ["A. Làm rõ lý luận về giá trị thặng dư trong PTSX TBCN là cơ sở để làm rõ vai trò lịch sử của giai cấp công nhân", "B. Tổng kết kinh nghiệm các cuộc cách mạng ở Pháp, Đức", "C. Engels tiếp tục phát triển lý luận về cách mạng vô sản, lý luận cách mạng không ngừng, kết hợp phong trào vô sản với phong trào nông dân, vấn đề liên minh giai cấp trong cách mạng vô sản", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 48: Chỉ ra: “Nhiệm vụ của CNXHKH là nghiên cứu những điều kiện lịch sử cho sự biến đổi xã hội và biến đổi giai cấp của quá trình đi lên CNXH của loài người” là kết quả nghiên cứu của Marx và Engels ở giai đoạn nào?",
+        options: ["A. 1848 – 1871", "B. 1871 - 1895", "C. 1871 – 1875", "D. 1848 – 1884"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 49: Ngày nay giai cấp công nhân vẫn phải bán sức lao động chủ yếu là",
+        options: ["A. Lao động chân tay", "B. Lao động trí óC", "C. Cả lao động chân tay và lao động trí óc với giá trị ngày càng lớn", "D. Các phương án đều đúng"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 50: Các tác phẩm: Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ - xã hội ra sao (1894); Làm gì (1902); Một bước tiến, hai bước lùi (1904); Nhà nước và cách mạng (1917) được Lenin viết vào thời gian nào?",
+        options: ["A. Sau năm 1917", "B. Thời kỳ xây dựng CNXH ở Liên Xô0", "C. Trước Cách mạng tháng 10", "D. Sau Cách mạng tháng 10"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 51: Giai cấp công nhân có khả năng đoàn kết với các giai cấp và tầng lớp lao động khác vì",
+        options: ["A. Họ đều mâu thuẫn với giai cấp tư sản", "B. Giai cấp công nhân là giai cấp đại diện cho PTSX mới của thời đại", "C. Giai cấp công nhân và họ có lợi ích cơ bản thống nhất với nhau", "D. Suy đến cùng thì dưới CNTB các giai cấp lao động đều bị bóc lột"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 52: Vai trò của Đảng cộng sản là?",
+        options: ["A. Lãnh đạo toàn bộ quá trình thực hiện Sứ mệnh lịch sử của giai cấp công nhân", "B. Dựa trên lí luận của Chủ nghĩa Marx - Lenin và thực tiễn cách mạng, ĐCS phải đề ra đường lối, mục tiêu cách mạng đúng đắn", "C. Thực hiện tuyên truyền, giác ngộ giai cấp công nhân và nhân dân lao động – biến lí luận cách mạng thành phong trào cách mạng", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 53: Đường lối cách mạng của đảng cộng sản được xây dựng trên cơ sở nào?",
+        options: ["A. Lí luận khoa học của Chủ nghĩa Marx - Lenin", "B. Nhu cầu của thực tiễn cách mạng ở mỗi nước trong những thời gian nhất đinh", "C. Lí luận khoa học của Chủ nghĩa Marx - Lenin và nhu cầu thực tiễn cách mạng ở từng thời kỳ", "D. Phương pháp luận khoa học của Chủ nghĩa Marx – Lenin"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 54: Cách mạng XHCN là …thực hiện sứ mệnh lịch sử của giai cấp công nhân.",
+        options: ["A. Mục tiêu", "B. Con đường", "C. Phương thức", "D. Kết quả"],
+        dap_an: "C",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 55: Nguyên nhân sâu xa của cách mạng xã hội chủ nghĩa là:",
+        options: ["A. Mâu thuẫn giữa tư sản và vô sản", "B. Mâu thuẫn giữa LLSX có tính xã hội hóa ngày càng cao với QHSX dựa trên sở hữu tư nhân TBCN về TLSX", "C. Do sự phát triển của giai cấp công nhân", "D. Do phong trào công nhân phát triển"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 56: Nội dung của cách mạng XHCN trên lĩnh vực chính trị là",
+        options: ["A. Phát triển kinh tế, nâng cao đời sống nhân dân", "B. Đưa nhân dân lao động lên địa vị làm chủ xã hội mới", "C. Giành chính quyền từ tay các giai cấp thống trị", "D. Nâng cao trình độ văn hóa cho nhân dân"],
+        dap_an: "C",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 57: Lý luận về cách mạng dân chủ tư sản kiểu mới do Lenin đưa ra:",
+        options: ["A. Là sự kế thừa và phát triển Tư tưởng cách mạng không ngừng của Marx - Engels", "B. Chỉ ra tính chất nhân dân cách mạng dân chủ tư sản đầu thế kỷ XX", "C. Chỉ ra khả năng nắm vai trò lãnh đạo của giai cấp công nhân trong cách mạng dân chủ tư sản", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 58: Đặc điểm nào sau đây không phải của GCCN Việt Nam",
+        options: ["A. Ra đời sớm", "B. Trình độ thấp", "C. Số lượng ít", "D. Sớm trở thành lực lượng lãnh đạo cách mạng"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 59: Nội dung Tư tưởng Cách mạng không ngừng do Marx và Engels nêu ra khi tổng kết kinh nghiệm cách mạng ở Pháp là:",
+        options: ["A. Cách mạng không ngừng là quá trình đấu tranh giai cấp quyết liệt, kinh qua các giai đoạn khác nhau", "B. Mỗi giai đoạn có những yêu cầu cụ thể tạo tiền đề cho giai đoạn phát triển tiếp theo", "C. Các phương án đều đúng", "D. Trong các quốc gia còn tồn tại chế độ quân chủ, lúc đầu GCCN là lực lượng tham gia cuộc cách mạng dân chủ tư sản đánh đổ chế độ quân chủ, sau đó GCCN liên minh với nông dân và các tầng lớp lao động khác tiếp tục cuộc đấu tranh chống lại giai cấp tư sản"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 60: Đảng cộng sản lãnh đạo giai cấp công nhân thực hiện Sứ mệnh lịch sử của giai cấp công nhân bằng cách nào?",
+        options: ["A. Trên cơ sở thực tiễn cách mạng, lí luận khoa học của Chủ nghĩa Marx - Lenin đưa ra đường lối chiến lược sách lược đúng đắn", "B. Tuyên truyền giác ngộ giai cấp công nhân và nhân dân lao động – biến lí luận cách mạng thành thực tiễn cách mạng", "C. Xây dựng lực lượng cách mạng của quần chúng nhân dân lao động dưới sự lãnh đạo của Đảng cộng sản để tiến hành cách mạng XHCN", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 61: Xã hội Xã hội chủ nghĩa là gì?",
+        options: ["A. Một hình thái kinh tế xã hội ra đời sau chủ nghĩa tư bản kế thừa được những thành tựu của CNTB", "B. Phát triển cao hơn CNTB do có lực lượng sản xuất hiện đại và NSLĐ cao hơn CNTB", "C. Khác với CNTB vì nó dựa trên chế độ công hữu những TLSX chủ yếu", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 62: Điều kiện ra đời của Hình thái KT-XH Xã hội chủ nghĩa?",
+        options: ["A. LLSX phát triển rất cao dựa trên cơ sở lao động công nghiệp đã được tri thức hóa", "B. Có nhà nước XHCN", "C. Có đảng cộng sản lãnh đạo", "D. Có nền dân chủ XHCN"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 63: Sự ra đời Hình thái kinh tế xã hội CSCN theo dự báo của Marx và Engels gồm mấy giai đoạn?",
+        options: ["A. 2", "B. 3", "C. 4", "D. 5"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 64: Sự khác nhau của hai giai đoạn XHCN và CSCN là",
+        options: ["A. Khác nhau về hình thức tổ chức xã hội", "B. Khác nhau về hình thức phân phối của cải xã hội", "C. Khác nhau về các hình thức sở hữu", "D. Khác nhau về hình thức liên minh giai cấp"],
+        dap_an: "B",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 65: Thời kì quá độ lên CNXH là gì?",
+        options: ["A. Là một thời kì cải biến cách mạng lâu dài trong lịch sử", "B. Thời kỳ quá độ lên CNXH bắt đầu từ khi giai cấp công nhân đã có chính quyền trong tay", "C. Thời kỳ quá độ lên CNXH kết thúc khi HTKTXH XHCN và CSCN được xây dựng xong", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 66: Sự quá độ về Chính trị trong thời kỳ quá độ lên CNXH thể hiện ở",
+        options: ["A. Nhà nước CCVS (nhà nước XHCN) được thiết lập củng cố và ngày càng hoàn thiện", "B. Nền kinh tế nhiều thành phần – phương thức phù hợp của QHSX tạo điều kiện phát triển LLSX", "C. Cơ cấu xã hội – giai cấp phức tạp trong đó vẫn có những giai cấp mà lợi ích căn bản đối lập nhau", "D. Sự đan xen và đấu tranh gay gắt giữa các hệ tư tưởng khác nhau, đối lập nhau"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 67: Đảng ta lựa chọn con đường đi lên CNXH là phù hợp với xu thế phát triển của lịch sử và phù hợp với lợi ích của dân tộc, của nhân dân lao động Việt Nam vì",
+        options: ["A. Xu thế phát triển tất yếu của lịch sử lên CNXH là do sự phát triển khách quan của LLSX quy định", "B. Lợi ích của dân tộc VN ta là độc lập dân tộc và phát triển đất nước phồn vinh", "C. Lợi ích của nhân dân VN là được ấm no, tự do, hạnh phúc, được sống trong hòa bình", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 68: Mục tiêu tổng quát của thời ký quá độ lên CNXH ở Việt Nam là",
+        options: ["A. Xây dựng xong về cơ bản những cơ sở kinh tế của CNXH", "B. Hoàn thiện Kiến trúc thượng tầng XHCN về chính trị và tư tưởng văn hóa phù hợp", "C. Làm đất nước ta trở thành nước XHCN phồn vinh", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 69: Mục tiêu tổng quát của thời ký quá độ lên CNXH ở Việt Nam là",
+        options: ["A. Xây dựng xong về cơ bản những cơ sở kinh tế của CNXH", "B. Hoàn thiện Kiến trúc thượng tầng XHCN về chính trị và tư tưởng văn hóa phù hợp", "C. Làm đất nước ta trở thành nước XHCN phồn vinh", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 70: Quá độ lên CNXH ở Việt nam là quá độ gián tiếp - quá độ “bỏ qua” chế độ TBCN đi lên CNXH tức là",
+        options: ["A. Bỏ qua nhiệm vụ phát triển LLSX", "B. Bỏ qua toàn bộ hình thái KT-XH TBCN", "C. Thừa nhận vai trò lãnh đạo của giai cấp tư sản đối với xã hội", "D. Bỏ qua vai trò thống trị của giai cấp tư sản trong kiến trúc thượng tầng; thừa nhận sự tồn tại của các thành phần kinh tế, các hình thức sở hữu trong cơ sở hạ tầng nhằm tạo ra những hình thức phù hợp cho LLSX phát triển"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 71: Sự quá độ về Kinh tế trong thời kỳ quá độ lên CNXH thể hiện ở",
+        options: ["A. Cơ cấu xã hội - giai cấp phức tạp trong đó vẫn có những giai cấp mà lợi ích căn bản đối lập nhau", "B. . Sự khác biệt giữa thành thị và nông thôn, giữa lao động trí óc và lao động chân tay", "C. Nền kinh tế nhiều thành phần - phương thức phù hợp của QHSX tạo điều kiện phát triển LLSX", "D. Sự đan xen và đấu tranh gay gắt giữa các hệ tư tưởng khác nhau, đối lập nhau"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    // Câu 72 bị thiếu trong nguồn
+    {
+        cau: "Câu 73: Điều kiện ra đời của Hình thái KT-XH Xã hội chủ nghĩa?",
+        options: ["A. LLSX phát triển rất cao dựa trên cơ sở lao đông công nghiệp đã được tri thức hóa", "B. Có đảng cộng sản lãnh đạo", "C. Có nền dân chủ XHCN", "D. Có nhà nước XHCN"],
+        dap_an: "D",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 74: Luận điểm sau là của ai: “Các dân tộc đều sẽ đi lên CNXH là điều không tránh khỏi, nhưng các dân tộc tiến tới CNXH không hoàn toàn giống nhau”",
+        options: ["A. K.Marx", "B. Hồ Chí Minh", "C. F.Engels", "D. Lenin"],
+        dap_an: "D",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 75: Thời kì quá độ lên CNXH là gì?",
+        options: ["A. Là một thời kì cải biến cách mạng lâu dài trong lịch sử", "B. Thời kỳ quá độ lên CNXH bắt đầu từ khi giai cấp công nhân đã có chính quyền trong tay", "C. Thời kỳ quá độ lên CNXH kết thúc khi HTKTXH XHCN và CSCN được xây dựng xong", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 76: Sự khác nhau của hai giai đoạn XHCN và CSCN là",
+        options: ["A. Khác nhau về hình thức tổ chức xã hộ", "B. Khác nhau về hình thức liên minh giai cấp", "C. Khác nhau về hình thức phân phối của cải xã hội", "D. Khác nhau về các hình thức sở hữu"],
+        dap_an: "C",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 77: Xã hội Xã hội chủ nghĩa là gì?",
+        options: ["A. Một hình thái kinh tế xã hội ra đời sau chủ nghĩa tư bản kế thừa được những thành tựu của CNTB", "B. Phát triển cao hơn CNTB do có lực lượng sản xuất hiện đại và NSLĐ cao hơn CNTB", "C. Khác với CNTB vì nó dựa trên chế độ công hữu những TLSX chủ yếu", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 78: Đảng ta lựa chọn con đường đi lên CNXH là phù hợp với xu thế phát triển của lịch sử và phù hợp với lợi ích của dân tộc, của nhân dân lao động Việt Nam vì",
+        options: ["A. Xu thế phát triển tất yếu của lịch sử lên CNXH là do sự phát triển khách quan của LLSX quy định", "B. Lợi ích của dân tộc VN ta là độc lập dân tộc và phát triển đất nước phồn vinh", "C. Lợi ích của nhân dân VN là được ấm no, tự do, hạnh phúc, được sống trong hòa bình", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 79: Đặc trưng cơ bản của xã hội XHCN là gì?",
+        options: ["A. Cơ sở vật chất-kỹ thuật là nền sản xuất công nghiệp hiện đại; XHXHCN đã xoá bỏ chế độ tư hữu TBCN, thiết lập chế độ công hữu về những tư liệu sản xuất chủ yếu", "B. XHXHCN tạo ra cách tổ chức lao động và kỷ luật lao động mới; XHXHCN thực hiện nguyên tắc phân phối theo lao động - đây là nguyên tắc phân phối cơ bản nhất", "C. Nhà nước mang bản chất giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc; thực hiện quyền lực và lợi ích của nhân dân; Xã hội XHCN là chế độ đã giải phóng con người thoát khỏi áp bức bóc lột, thực hiện công bằng, bình đẳng tiến bộ xã hội, tạo những điều kiện cơ bản để con người phát triển toàn diện", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 80: Chọn phương án sai: Thời kì quá độ lên CNXH là gì?",
+        options: ["A. Thời kỳ quá độ lên CNXH kết thúc khi HTKTXH XHCN và CSCN được xây dựng xong", "B. Thời kỳ quá độ lên CNXH bắt đầu từ khi giai cấp công nhân đã có chính quyền trong tay", "C. Là một thời kì cải biến cách mạng lâu dài trong lịch sử", "D. Là thời kỳ đấu tranh giành chính quyền từ tay giai cấp tư sản"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 81: Dự báo của K.Marx và F.Engels về sự ra đời Hình thái kinh tế xã hội cộng sản chủ nghĩa như một xu hướng tất yếu của lịch sử loài người là",
+        options: ["A. Dựa trên cơ sở khoa học của Chủ nghĩa Duy vật lịch sử", "B. Kết quả phân tích khoa học về sự vận động xã hội theo Học thuyết về hình thái kinh tế xã hội", "C. Dựa trên sự phân tích khoa học về hình thái kinh tế - xã hội TBCN", "D. Tất cả các phương án trên"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 82: Hình thái kinh tế xã hội CSCN sẽ bắt đầu từ khi nào?",
+        options: ["A. Từ khi giai cấp công nhân thực hiện sứ mệnh lịch sử của mình", "B. Từ khi chế độ công hữu những TLSX chủ yếu xuất hiện", "C. Từ khi Đảng cộng sản ra đời", "D. Từ khi chính quyền thuộc về tay giai cấp công nhân"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 83: Chọn phương án sai: Điều kiện ra đời của Hình thái KT-XH Xã hội chủ nghĩa là",
+        options: ["A. LLSX phát triển rất cao dựa trên cơ sở lao đông công nghiệp đã được tri thức hóa", "B. Có nền dân chủ XHCN", "C. Có nhà nước XHCN", "D. Có đảng cộng sản lãnh đạo"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 84: Hoàn thành câu dưới đây: Xã hội XHCN là giai đoạn ...... của hình thái kinh tế xã hội CSCN. Trong giai đoạn này việc phân phối dựa trên nguyên tắc ............",
+        options: ["A. THẤP; LÀM THEO NĂNG LỰC, HƯỞNG THEO LAO ĐỘNG", "B. CAO; LÀM THEO NĂNG LỰC, HƯỞNG THEO LAO ĐỘNG", "C. THẤP; LÀM THEO NĂNG LỰC, HƯỞNG THEO NHU CẦU", "D. CAO; LÀM THEO NĂNG LỰC, HƯỞNG THEO NHU CẦU"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 85: Nhà nước XHCN là ...... để giai cấp công nhân hoàn thành Sứ mệnh lịch sử của mình.",
+        options: ["A. Kết quả", "B. Nguyên nhân", "C. Công cụ", "D. Mục tiêu"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 86: Hình thái KT- XH XHCN có",
+        options: ["A. LLSX phát triển rất cao đủ thỏa mãn mọi nhu cầu về vật chất của xã hội", "B. QHSX dựa trên chế độ công hữu những TLSX chủ yếu", "C. Kiến trúc thượng tầng do nhân dân lao động làm chủ thực sự", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 87: Ở Việt Nam, lựa chọn sự quá độ đi lên CNXH bỏ qua chế độ TBCN là một tất yếu vì:",
+        options: ["A. Xuất phát từ mong muốn chủ quan của Đảng cộng sản", "B. Xã hội XHCN là 1 tất yếu của lịch sử", "C. Là sự lựa chọn phù hợp với quy luật khách quan của lịch sử, phù hợp với lợi ích của nhân dân lao động và lợi ích của dân tộc Việt Nam", "D. Các phương án trên đều đúng"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 88: Dự báo của K.Marx và F.Engels về sự ra đời Hình thái kinh tế xã hội cộng sản chủ nghĩa như một xu hướng tất yếu của lịch sử loài người là",
+        options: ["A. Dựa trên cơ sở khoa học của Chủ nghĩa Duy vật lịch sử", "B. Kết quả phân tích khoa học về sự vận động xã hội theo Học thuyết về hình thái kinh tế xã hội", "C. Dựa trên sự phân tích khoa học về hình thái kinh tế - xã hội TBCN", "D. Tất cả các phương án trên"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 89: Nhà nước là gì?",
+        options: ["A. Tổ chức chính trị của giai cấp thống trị về kinh tế nhằm bảo vệ trật tự hiện hành và đàn áp sự phản kháng của các giai cấp khác", "B. Là sản phẩm của xã hội có giai cấp", "C. Là công cụ để tổ chức và quản lý xã hội", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 90: Chức năng của nhà nước là gì?",
+        options: ["A. Trấn áp bạo lực", "B. Tổ chức, quản lý xã hội và trấn áp bạo lực", "C. Giáo dục tư tưởng", "D. Ban hành luật pháp"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    // Câu 91 bị thiếu trong nguồn
+    {
+        cau: "Câu 92: Nhà nước XHCN là gì?",
+        options: ["A. Là nhà nước của nhân dân, do nhân dân vì nhân dân", "B. Là công cụ của giai cấp công nhân và nhân dân lao động để tiến hành xây dựng CNXH thành công", "C. Đảm bảo mọi quyền lực thuộc về nhân dân dưới sự lãnh đạo của Đảng cộng sản", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 93: Nhà nước XHCN thực hiện chức năng quản lí xã hội của mình bằng:",
+        options: ["A. Thuyết phục, nêu gương", "B. Hiến pháp, Pháp luật", "C. Văn hóa nghệ thuật", "D. Đường lối, chủ trương"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 94: Dân chủ là gì?",
+        options: ["A. Hệ giá trị phản ánh trình độ tiến bộ xã hội", "B. Là 1 trong 2 mặt bản chất của nhà nước", "C. Là kết quả của cuộc đấu tranh chống áp bức bóc lột, bất công của nhân dân lao động trong lịch sử", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 95: Nhà nước XHCN là gì?",
+        options: ["A. Là nhà nước của nhân dân, do nhân dân vì nhân dân", "B. Là công cụ của giai cấp công nhân và nhân dân lao động để tiến hành xây dựng CNXH thành công", "C. Đảm bảo mọi quyền lực thuộc về nhân dân dưới sự lãnh đạo của Đảng cộng sản", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 96: Nhà nước xuất hiện do nhu cầu tất yếu nào?",
+        options: ["A. Do ý muốn chủ quan của người đứng đầu thị tộc, bộ lạc", "B. Do nhu cầu tổ chức và quản lý xã hội và bảo vệ lợi ích của giai cấp thống trị về kinh tế", "C. Do nhu cầu bảo vệ lợi ích của giai cấp thống trị về kinh tế g đế", "D. Do ý muốn của Thượn"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 97: Dân chủ XHCN có cơ sở kinh tế là?",
+        options: ["A. Quyền lực nhà nước thuộc về nhân dân", "B. Chế độ công hữu về TLSX chủ yếu", "C. Sự kết hợp hài hòa các lợi ích", "D. Nhân dân tham gia vào công việc của nhà nước"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 98: Tìm phương án sai:",
+        options: ["A. Nhà nước XHCN có sự thống nhất 3 quyền: Lập pháp, hành pháp, tư pháp", "B. Nhà nước XHCN là công cụ của giai cấp công nhân và NDLĐ để tiến hành xây dựng CNXH thành công", "C. Thực hiện tam quyền phân lập", "D. Nhà nước XHCN là nhà nước của nhân dân, do nhân dân vì nhân dân"],
+        dap_an: "C",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 99: Bản chất của dân chủ XHCN thể hiện trên các mặt:",
+        options: ["A. Thuần túy trên lĩnh vực chính trị xã hội", "B. Chính trị và kinh tế", "C. Chính trị, kinh tế, văn hóa, xã hội", "D. Cơ sở hạ tầng và kiến trúc thượng tầng"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 100: Hoàn thành câu dưới đây: Dân chủ là một thể chế mà ...... xây dựng hay thay đổi luật pháp và cơ cấu chính quyền đều thuộc về ......,",
+        options: ["A. QUYỀN; NGƯỜI DÂN", "B. QUYỀN; GIAI CẤP CÔNG NHÂN", "C. NGHĨA VỤ; NGƯỜI DÂN", "D. MỤC TIÊU; GIAI CẤP CÔNG NHÂN"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 101: Chức năng của nhà nước là gì?",
+        options: ["A. Trấn áp bạo lực", "B. Tổ chức, quản lý xã hội và trấn áp bạo lực", "C. Ban hành luật pháp", "D. Giáo dục tư tưởng"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 102: Hoàn thành câu dưới đây: Dân chủ XHCN vừa là ...... , vừa là ...... của SỰ NGHIỆP XÂY DỰNG CNXH",
+        options: ["A. MỤC TIÊU; ĐỘNG LỰC", "B. NỀN TẢNG; PHƯƠNG THỨC", "C. KẾT QUẢ; NGUYÊN NHÂN", "D. MỤC TIÊU; KẾT QUẢ"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 103: Hoàn thành câu dưới đây: Nhà nước XHCN thực hiện chức năng đối ngoại nhằm ...... và mở rộng quan hệ ...... với các nước trên thế giới.,",
+        options: ["A. BẢO VỆ LỢI ÍCH QUỐC GIA; HỢP TÁC HỮU NGHỊ", "B. PHÁT TRIỂN KINH TẾ; HỢP TÁC KINH TẾ", "C. GIẢI QUYẾT TRANH CHẤP; HỮU NGHỊ", "D. PHÒNG NGỪA CHIẾN TRANH; HỢP TÁC HỮU NGHỊ"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 104: Nhà nước XHCN là gì?",
+        options: ["A. Là tổ chức chính trị thông qua đó Đảng của giai cấp công nhân thực hiện vai trò lãnh đạo của mình đối với toàn xã hội", "B. Là bộ phận của kiến trúc thượng tầng XHCN", "C. Là nhà nước kiểu mới của giai cấp công nhân và nhân dân lao động", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 105: Nhà nước XHCN giống các kiểu nhà nước khác trong lịch sử như thế nào?",
+        options: ["A. Có một hệ thống luật pháp thể chế hóa lợi ích của giai cấp cầm quyền và quản lý dân cư trên một vùng lãnh thổ nhất định", "B. Có một hệ thống các cơ quan hành chính quản lý từ trung ương đến địa phương. Có hệ thống quân đội cảnh sát chuyên dùng nhằm bảo vệ xã hội", "C. Có một chế độ thuế để nuôi dưỡng bộ máy hành chính và bạo lực nói trên và chi dùng cho những công việc chung, lợi ích công cộng", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 106: Nhà nước là gì?",
+        options: ["A. Tổ chức chính trị của giai cấp thống trị về kinh tế nhằm bảo vệ trật tự hiện hành và đàn áp sự phản kháng của các giai cấp khác", "B. Là sản phẩm của xã hội có giai cấp", "C. Là công cụ để tổ chức và quản lý xã hội", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    // Câu 107 bị thiếu trong nguồn
+    {
+        cau: "Câu 108: Nhà nước XHCN khác về bản chất so với các nhà nước trước đây trong lịch sử ở chỗ:",
+        options: ["A. Có một hệ thống các cơ quan hành chính quản lý từ trung ương đến địa phương. Có hệ thống quân đội, cảnh sát chuyên dùng nhằm bảo vệ xã hội", "B. Có chức năng đối nội và đối ngoại", "C. Có một hệ thống luật pháp thể chế hóa lợi ích của giai cấp cầm quyền và quản lý dân cư trên một vùng lãnh thổ nhất định", "D. Nhà nước XHCN mang bản chất giai cấp công nhân, có tính nhân dân rộng rãi và tính dân tộc sâu sắc"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 109: Nhà nước là tổ chức ...... của giai cấp ...... về kinh tế nhằm ...... hiện hành và ...... sự phản kháng của các giai cấp khác.,",
+        options: ["A. CHÍNH TRỊ; THỐNG TRỊ; BẢO VỆ TRẬT TỰ; ĐÀN ÁP", "B. KINH TẾ; THỐNG TRỊ; BẢO VỆ TRẬT TỰ; ĐÀN ÁP", "C. CHÍNH TRỊ; TIỂU TƯ SẢN; PHÁT TRIỂN; CẢI TẠO", "D. QUẢN LÝ; THỐNG TRỊ; BẢO VỆ TRẬT TỰ; ĐÀN ÁP"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 110: Dân chủ XHCN khác căn bản các nền dân chủ trước đây ở đặc điểm nào?",
+        options: ["A. Là khát vọng của nhiều người", "B. Mang tính giai cấp", "C. Phi lịch sử", "D. Là nền dân chủ rộng rãi của giai cấp công nhân và nhân dân lao động"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 111: Hoàn thành câu dưới đây: Sự lãnh đạo của Đảng cộng sản đảm bảo giữ vững ...... và ...... của nhân dân.,",
+        options: ["A. BẢN CHẤT GIAI CẤP CÔNG NHÂN CỦA NHÀ NƯỚC; LỢI ÍCH", "B. MỤC TIÊU; ĐỊNH HƯỚNG", "C. PHƯƠNG THỨC; QUYỀN LỰC", "D. BẢN CHẤT GIAI CẤP CÔNG NHÂN CỦA NHÀ NƯỚC; QUYỀN LỢI"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    // Câu 112 bị thiếu trong nguồn
+    {
+        cau: "Câu 113: Nguyên nhân sinh ra nhà nước là gì?",
+        options: ["A. Do nhu cầu bảo vệ lợi ích giai cấp của giai cấp giữ địa vị thống trị về kinh tế", "B. Do nhu cầu phải tổ chức xã hội khi sản xuất và trao đổi sản phẩm phát triển", "C. Do nhu cầu của cuộc đấu tranh giai cấp trong xã hội có giai cấp", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 114: Chức năng của nhà nước là gì?",
+        options: ["A. Tổ chức, quản lý xã hội và trấn áp bạo lực", "B. Giáo dục tư tưởng", "C. Trấn áp bạo lực", "D. Ban hành luật pháp"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    // Câu 115 bị thiếu trong nguồn
+    {
+        cau: "Câu 116: Bản chất chính trị của dân chủ XHCN thể hiện ở:",
+        options: ["A. Mọi quyền lực thuộc về nhân dân - là nền dân chủ của đa số", "B. Dân chủ và chuyên chính là 2 mặt không tách rời của bản chất nhà nước XHCN", "C. Dưới sự lãnh đạo của Đảng cộng sản – dân chủ mang bản chất giai cấp công nhân, có tính nhân dân và dân tộc sâu sắc", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 117: Phạm trù dân chủ xuất hiện khi nào?",
+        options: ["A. Từ khi có nhà nước trong lịch sử", "B. Từ khi có xã hội loài người", "C. Từ khi có Đảng cộng sản", "D. Từ khi có giai cấp công nhân"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 118: Dân chủ XHCN là gì?",
+        options: ["A. Quyền làm chủ của nhân dân", "B. Là 1 chế độ xã hội trong đó mọi quyền lực thuộc về nhân dân", "C. Mục tiêu của sự phát triển xã hội", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 119: Dân chủ XHCN và Nhà nước XHCN có mối quan hệ ...... nhau trong sự phát triển của xã hội mới.",
+        options: ["A. không tách rời", "B. độc lập", "C. ngang hàng", "D. song song"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 120: Hoàn thành câu dưới đây: Sự xuất hiện nền dân chủ XHCN là ...... , là ...... của quá trình phát triển lâu dài của các giá trị dân chủ qua các chế độ xã hội trong lịch sử.",
+        options: ["A. BƯỚC PHÁT TRIỂN VỀ CHẤT; KẾT QUẢ", "B. NGUYÊN NHÂN; ĐỘNG LỰC", "C. CƠ SỞ; MỤC TIÊU", "D. PHƯƠNG TIỆN; MỤC ĐÍCH"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    // Câu 121 bị thiếu trong nguồn
+    {
+        cau: "Câu 122: Quan điểm “Con đường biện chứng của quá trình phát triển dân chủ là “Từ chuyên chế đến dân chủ tư sản; từ dân chủ tư sản đến dân chủ vô sản; từ dân chủ vô sản đến không còn dân chủ nữa” là của ai?",
+        options: ["A. F.Engels", "B. Hồ Chí Minh", "C. Lenin", "D. K.Marx"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 123: Chọn phương án đúng để điền vào câu sau: “Cơ cấu xã hội là hệ thống tổ chức các yếu tố xã hội như giai cấp, nghề nghiệp, dân cư, lãnh thổ, tôn giáo v.v. trong đó  cơ cấu giai cấp  là nội dung chủ yếu tạo nên cơ cấu xã hội – giai cấp”.",
+        options: ["A. cơ cấu giai cấp", "B. cơ cấu dân cư", "C. cơ cấu lãnh thổ", "D. cơ cấu tôn giáo"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 124: Sự biến đổi của cơ cấu XH – GC sẽ dẫn đến sự biến đổi:",
+        options: ["A. Cơ cấu tôn giáo", "B. Cơ cấu nghề nghiệp", "C. Cơ cấu dân cư", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 125: Cơ cấu kinh tế bao gồm:",
+        options: ["A. Cơ cấu ngành; cơ cấu lãnh thổ; cơ cấu giai cấp - xã hội", "B. Cơ cấu ngành; cơ cấu thành phần kinh tế; cơ cấu lãnh thổ", "C. Cơ cấu ngành; cơ cấu thành phần kinh tế; cơ cấu vùng", "D. Cơ cấu ngành; cơ cấu thành phần giai cấp - xã hội; cơ cấu lãnh thổ"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 126: Trong thời kỳ quá độ lên CNXH có sự xích lại gần nhau của các giai cấp, tầng lớp cơ bản trong xã hội là do:",
+        options: ["A. Quan hệ sở hữu đối với TLSX thay đổi", "B. Do tính chất của lao động; do quan hệ phân phối", "C. Do sự tiến bộ trong đời sống văn hóa tinh thần", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 127: Mối quan hệ giữa các thành tố trong liên minh công - nông - trí thức biểu hiện như thế nào?",
+        options: ["A. Giai cấp công nhân thông qua ĐCS để thực hiện lãnh đạo khối liên minh công - nông - trí thức", "B. Giai cấp nông dân cần được giác ngộ để thấy được Liên minh công - nông - trí thức sẽ đem lại lơi ích cho họ", "C. Tầng lớp trí thức phải thấm nhuần TGQ vô sản, tự nguyện phục vụ cho liên minh đem lại lợi ích cho phong trào vô sản", "D. ĐCS phải thấy được vai trò của trí thức đối với sự nghiệp CMXHCN trọng dụng và phát huy vai trò của trí thức", "E. Các phương án trên đều đúng"],
+        dap_an: "E",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 128: Quan điểm “Liên minh công - nông là nguyên tắc cao nhất của chuyên chính vô sản” là của ai?",
+        options: ["A. K.Marx", "B. F.Engels", "C. V.I.Lenin", "D. Hồ Chí Minh"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 129: Ngày nay giai cấp công nhân Việt Nam có nhũng biến đổi nhanh chóng đã khẳng định vai trò và vị trí trong Liên minh công - nông - trí thức, cụ thể là:",
+        options: ["A. Đa dạng về cơ cấu", "B. Tăng nhanh về số lượng và chất lượng", "C. Về sự hiện diện trong tất cả các thành phần kinh tế", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 130: Ở Việt Nam niện nay, liên minh công - nông - trí thức đã có sự đa dạng hóa các hình thức liên minh thông qua hợp tác, liên kết giao lưu kinh tế:",
+        options: ["A. Giữa giai cấp công nhân, nông dân, trí thức", "B. Giữa công nghiệp và nông nghiệp", "C. Giữa khoa học – công nghệ và các ngành dịch vụ khác/ giữa các vùng miền", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 131: Chọn phương án SAI:",
+        options: ["A. “Chính trị đã chuyển trọng tâm sang chính trị trong lĩnh vực kinh tế” đảm bảo sự phát triển kinh tế xã hội bền vững", "B. Nội dung kinh tế của Liên minh công - nông - trí thức thể hiện trong hình thức mới của cuộc đấu tranh giai cấp nhằm thỏa mãn nhu cầu lợi ích kinh tế thiết thân của giai cấp công nhân, nông dân, trí thức và các tầng lớp lao động khác", "C. Nội dung kinh tế của Liên minh công - nông - trí thức thể hiện trên tất cả các lĩnh vực sản xuất xã hội", "D. Nội dung kinh tế của Liên minh công nông chỉ thuần túy trong lĩnh vực kinh tế"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 132: Hoàn thành câu dưới đây: Cơ cấu xã hội – giai cấp là ...... , các tầng lớp xã hội và mối quan hệ giữa chúng về ...... , về ...... , về ...... trên cơ sở một cơ cấu kinh tế nhất định.,",
+        options: ["A. HỆ THỐNG CÁC GIAI CẤP; SỞ HỮU; QUẢN LÍ XÃ HỘI; ĐỊA VỊ CHÍNH TRỊ XÃ HỘI", "B. CƠ SỞ; KINH TẾ; CHÍNH TRỊ; VĂN HÓA", "C. HỆ THỐNG CÁC GIAI CẤP; ĐỊA VỊ; QUYỀN LỰC; UY TÍN", "D. NỀN TẢNG; SẢN XUẤT; PHÂN PHỐI; TIÊU DÙNG"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 133: Tìm phương án sai: “Cấu trúc xã hội ở nước ta hiện nay là …”",
+        options: ["A. cấu trúc thuần nhất", "B. một cấu trúc đan xen vừa là “cấu trúc ngang”, vừa là “cấu trúc dọc”.", "C. cấu trúc “tầng bậc” cao thấp khác nhau trong xã hội, được xem xét ở ba dấu hiệu cơ bản khác nhau: địa vị kinh tế (tài sản, thu nhập), địa vị chính trị (quyền lực), địa vị xã hội (uy tín) – Cấu trúc dọc", "D. một tập hợp các giai cấp, tầng lớp, nghề nghiệp, tổ chức, đoàn thể trong xã hội. Trong đó gồm các giai cấp công nhân, nông dân, tiểu thương, doanh nhân, trí thức... – Cấu trúc ngang"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 134: Mối quan hệ giữa các thành tố trong liên minh công - nông - trí thức biểu hiện như thế nào?",
+        options: ["A. Giai cấp công nhân thông qua ĐCS để thực hiện lãnh đạo khối liên minh công - nông - trí thức", "B. Giai cấp nông dân cần được giác ngộ để thấy được Liên minh công - nông - trí thức sẽ đem lại lơi ích cho họ", "C. Tầng lớp trí thức phải thấm nhuần TGQ vô sản, tự nguyện phục vụ cho liên minh đem lại lợi ích cho phong trào vô sản. ĐCS phải thấy được vai trò của trí thức đối với sự nghiệp CMXHCN trọng dụng và phát huy vai trò của trí thức.", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 135: Nguyên tắc nào quyết định sự vững chắc của khối liên minh công nông và các tầng lớp lao động khác?",
+        options: ["A. Đảm bảo quyền lãnh đạo của giai cấp công nhân", "B. Đảm bảo nguyên tắc tự nguyện", "C. Kết hợp đúng đắn các lợi ích", "D. Tất cả các phương án trên"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 136: Quan điểm “Liên minh công - nông là nguyên tắc cao nhất của chuyên chính vô sản” là của ai?",
+        options: ["A. V.I.Lenin", "B. F.Engels", "C. K.Marx", "D. Hồ Chí Minh"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 137: Ngày nay giai cấp công nhân Việt Nam có nhũng biến dổi nhanh chóng đã khẳng định vai trò và vị trí trong Liên minh công - nông - trí thức, cụ thể là:",
+        options: ["A. Đa dạng về cơ cấu", "B. Tăng nhanh về số lượng và chất lượng", "C. Về sự hiện diện trong tất cả các thành phần kinh tế", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 138: Nội dung liên minh giữa giai cấp công nhân với nông dân và các tầng lớp lao động khác bao gồm:",
+        options: ["A. Liên minh về chính trị", "B. Liên minh về kinh tế", "C. Liên minh trong lĩnh vực văn hóa tư tưởng", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 139: Sự biến đổi của cơ cấu XH – GC sẽ dẫn đến sự biến đổi:",
+        options: ["A. Cơ cấu tôn giáo", "B. Cơ cấu nghề nghiệp", "C. Cơ cấu dân cư", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 140: Lý luận của Chủ nghĩa Marx - Lenin về tính tất yếu của giai cấp công nhân, giai cấp nông dân và đội ngũ trí thức gồm những nội dung nào?",
+        options: ["A. “Ở các nước mà nông dân chiếm đại đa số dân cư, giai cấp công nhân chỉ có thể tiến hành cách mạng xã hội thắng lợi bằng cách liên minh với giai cấp nông dân.” (K.Marx)", "B. Trong quá trình đấu tranh cách mạng, giai cấp vô sản dần dần thể hiện được vai trò lịch sử của mình là người đại biểu cho tất cả các giai cấp, các tầng lớp lao động khác trong xã hội do đó có khả năng tập hợp đội ngũ cách mạng trong đó có cả trí thức.", "C. Trong cuộc cách mạng XHCN, giai cấp công nhân cần đến trí thức là những người “khai sáng của giai cấp mình về lý luận của cách mạng XHCN – Tư tưởng tiến bộ của đội ngũ trí thức đóng vai trò là vũ khí lý luận cho phong trào công nhân.", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 141: Ở Việt Nam niện nay, liên minh công - nông - trí thức đã có sự đa dạng hóa các hình thức liên minh thông qua hợp tác, liên kết giao lưu kinh tế:",
+        options: ["A. Giữa giai cấp công nhân, nông dân, trí thức", "B. Giữa công nghiệp và nông nghiệp", "C. Giữa khoa học – công nghệ và các ngành dịch vụ khác/ giữa các vùng miền…", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 142: Tại sao cơ cấu xã hội – giai cấp có vị trí quan trọng nhất trong toàn bộ cơ cấu xã hội?",
+        options: ["A. Vì cơ cấu XH - GC liên quan đến quyền sở hữu TLSX, liên quan đến tổ chức quản lý sx và phân phối. Do đó liên quan đến đảng phái chính trị, nhà nước", "B. Vì sự biến đổi của cơ cấu XH – GC sẽ dẫn đến sự biến đổi các cơ cấu xã hội khác", "C. Vì cơ cấu XH – GC là cơ sở xây dựng chính sách phát triển kinh tế xã hội trong những giai đoạn nhất định", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 143: Cơ sở khách quan của việc xây dựng khối liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng XHCN là:",
+        options: ["A. Vì họ đều là người lao động, đều bị áp bức bóc lột", "B. Do có sự gắn bó tự nhiên giữa nông nghiệp với công nghiệp và các ngành dịch vụ cho sản xuất", "C. Họ đều có nhu cầu giải phóng mình và giải phóng xã hội khỏi áp bức bóc lột", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 144: Để giành thắng lợi trong cách mạng XHCN, giai cấp công nhân phải liên minh chặt chẽ với giai cấp nông dân và các tầng lớp lao động khác vì:",
+        options: ["A. Đó là 1 tất yếu khách quan, nhằm tạo ra lực lượng cách mạng", "B. Là liên minh giai cấp để tiến tới xóa bỏ giai cấp", "C. Đó là liên minh lâu dài trong suốt quá trình cách mạng", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 145: Cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ lên CNXH có:",
+        options: ["A. Sự biến đổi vừa mang tính quy luật phổ biến, vừa mang tính đặc thù", "B. Sự biến đổi cơ cấu xã hội - giai cấp bị chi phối bởi sự biến đổi cơ cấu kinh tế. Từ 1986 đến nay sự chuyển mạnh sang kinh tế thị trường với nhiều hình thức sở hữu đã hình thành cơ cấu giai cấp đa dạng, phức tạp – Tính quy luật", "C. Sự biến đổi diễn ra trong nội bộ từng giai cấp, tầng lớp. Bản thân các giai cấp, tầng lớp thay đổi nhanh chóng và thúc đấy nền kinh tế đất nước phát triển nhanh chóng – Tính đặc thù", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 146: Đặc trưng của dân tộc là:",
+        options: ["A. Cộng đồng về lãnh thổ/ Cộng đồng về ngôn ngữ", "B. Cộng đồng về kinh tế/ Cộng đồng về văn hóa, tín nguõng", "C. Có nhà nước và pháp luật thống nhất", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 147: Trong mối quan hệ giữa dân tộc - giai cấp - nhân loại thì vấn đề chung nhất là gì?",
+        options: ["A. Giai cấp", "B. Dân tộc", "C. Nhân loại", "D. Các phương án trên đều đú"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 148: Hai xu hướng của vấn đề dân tộc là:",
+        options: ["A. Xu hướng các dân tộc tách ra thành các quốc gia dân tộc độc lập", "B. Xu hướng các dân tộc liên kết với nhau trên cơ sở lợi ích của dân tộc mình", "C. Xu hướng mở rộng quan hệ kinh tế giữa các dân tộc, hình thành thị trường thế giới", "D. Phương án A và B"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 149: Nội dung cương lĩnh dân tộc của Chủ nghĩa Marx - Lenin bao gồm:",
+        options: ["A. Các dân tộc hoàn toàn bình đẳng", "B. Các dân tộc được quyền tự quyết", "C. Liên hiệp công nhân tất cả các dân tộc", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 150: Chọn phương án đúng nhất:",
+        options: ["A. Việt Nam là một dân tộc gồm 54 dân tộc anh em", "B. Việt Nam là một quốc gia gồm 54 dân tộc anh em", "C. Việt Nam là một quốc gia dân tộc gồm 54 dân tộc anh em", "D. Việt Nam là một đất nước gồm 54 dân tộc anh em"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 151: Đặc điểm cư trú của dân tộc Việt Nam là:",
+        options: ["A. Các dân tộc sống xen kẽ trên khắp dải đất VN từ lâu đời", "B. Đồng bào các dân tộc ít người chủ yếu sống ở vùng biên cương, hải đảo có vị trí chiến lược quan trọng về kinh tế, an ninh quốc phòng", "C. Không có tỉnh thành nào chỉ thuần túy có 1 dân tộc", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 152: Trong mối quan hệ giữa Dân tộc và Giai cấp thì:",
+        options: ["A. Giai cấp quyết định dân tộc", "B. Vấn đề dân tộc ảnh huỏng đến vấn đề giai cấp", "C. Đấu tranh giải phóng dân tộc là tiền đề, là điều kiện để giải phóng giai cấp", "D. Các phương án đều đúng"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 153: Nội dung cương lĩnh dân tộc của Chủ nghĩa Marx - Lenin bao gồm:",
+        options: ["A. Các dân tộc hoàn toàn bình đẳng", "B. Các dân tộc được quyền tự quyết", "C. Liên hiệp công nhân tất cả các dân tộc", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 154: Các hình thức cộng đồng người trong lịch sử bao gồm:",
+        options: ["A. Thị tộc, Bộ lạc", "B. Thị tộc, Bộ lạc, Bộ tộc", "C. Thị tộc, Bộ tộc", "D. Thị tộc, Bộ lạc, Bộ tộc, Dân tộc"],
+        dap_an: "D",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 155: Truyền thuyết, truyện lịch sử nào thừa nhận 54 dân tộc anh em ở Việt Nam có chung cội nguồn?",
+        options: ["A. Sơn tinh, Thủy tinh", "B. Lạc Long Quân và Âu Cơ", "C. Hai Bà Trưng", "D. Thánh Gióng Đáp án"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 156: Quá trình cách mạng Việt Nam đã thể hiện hai xu hướng của vấn đề dân tộc như thế nào?",
+        options: ["A. Cách mạng tháng 8/1945 thành công", "B. Tham gia tích cực vào ASEAN, APEC, WTO.. .", "C. Kháng chiến chống Mĩ thắng lợi – Chiến dịch Hồ Chí Minh toàn thắng 30/4/1975", "D. Tất cả các phương án trên"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 157: Đặc trưng của dân tộc là:",
+        options: ["A. Cộng đồng về lãnh thổ/ Cộng đồng về ngôn ngữ", "B. Cộng đồng về kinh tế/ Cộng đồng về văn hóa, tín nguõng", "C. Có nhà nước và pháp luật thống nhất", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 158: Hai xu hướng của vấn đề dân tộc là:",
+        options: ["A. Xu hướng các dân tộc tách ra thành các quốc gia dân tộc độc lập", "B. Xu hướng các dân tộc liên kết với nhau trên cơ sở lợi ích của dân tộc mình", "C. Xu hướng mở rộng quan hệ kinh tế giữa các dân tộc, hình thành thị trường thế giới", "D. Phương án A và B"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 159: Điền vào chỗ trống: “..... là hình thức cộng đồng người được hình thành lâu dài trong lịch sử trên cơ sở cộng đồng về lãnh thổ, về ngôn ngữ, về kinh tế, về văn hóa tín ngưỡng”",
+        options: ["A. Bộ lạc", "B. Dân tộc", "C. Thị tộc", "D. Bộ tộc"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 160: Điền và chố trống: “Quan điểm của Lenin về ... xu hướng khách quan của sự phát triển quan hệ dân tộc”",
+        options: ["A. các", "B. hai", "C. một", "D. ba"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 161: Điền vào chỗ trống trong câu sau: Quan điểm của Đảng cộng sản Việt Nam về vấn đề dân tộc là “Tăng cường các mối quan hệ dân tộc tốt đẹp, củng cố khối đại đoàn kết toàn dân tộc là , lâu dài và cấp bách của cách mạng VN”.",
+        options: ["A. nhiệm vụ cơ bản", "B. chủ trương", "C. vấn đề chiến lược cơ bản", "D. phương pháp chủ yếu"],
+        dap_an: "C",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 162: Bản chất tôn giáo là:",
+        options: ["A. Sự bất lực của con người về nhận thức", "B. Sự phản ánh hư ảo hiện thực", "C. Sự phản kháng mơ hồ", "D. Tín ngưỡng mù quáng"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 163: Tôn giáo có những chức năng nào?",
+        options: ["A. Chức năng đền bù hư ảo và chức năng thế giới quan", "B. Chức năng điều chỉnh hành vi và chức năng giao tiếp", "C. Chức năng liên kết cộng đồng", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 164: Việc xem xét và giải quyết vấn đề tôn giáo phải phân biệt hai mặt chính trị và tư tưởng của tôn giáo vì",
+        options: ["A. Mặt chính trị của tôn giáo thường dễ bị các thế lực thù địch lợi dụng để chống phá sự nghiệp xây dựng CNXH – cần nhận dạng đúng bản chất", "B. Mặt tư tưởng là biểu hiện nhu cầu tín ngưỡng của nhân dân – cần được tôn trọng", "C. Xử lí các vấn đề tôn giáo phải trên cơ sở pháp luật", "D. Tất cả các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 165: Quá trình giải quyết vấn đề tôn giáo cần thận trọng tỷ mỉ nhằm đạt được nhũng yêu cầu sau:",
+        options: ["A. Đoàn kết rộng rãi đồng bào có đạo và không có đạo vì mục tiêu dân giàu, nước mạnh, xã hội công bằng, dân chủ, văn minh. Động viên đồng bào có đạo góp sức mình cho sự nghiệp phát triển đất nước", "B. Phát huy tinh thần yêu nước, chấp hành nghiêm pháp luật của nhà nước", "C. Kiên quyết trừng trị kẻ lợi dụng tôn giáo, tín ngưỡng phá hoại sự nghiệp xây dựng CNXH", "D. Các phương án đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 166: Chính sách của Đảng và Nhà nước Việt Nam đối với tôn giáo hiện nay là gì?",
+        options: ["A. Nội dung cốt lõi của công tác tôn giáo là công tác vận động quần chúng", "B. Vận động quần chúng có đạo sống tốt đời đẹp đạo góp phần xây dựng và bảo vệ tổ quốc XHCN", "C. Làm tốt công tác tôn giáo là nhiệm vụ của toàn bộ hệ thống chính trị do Đảng lãnh đạo", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 167: Tính đến năm 2019, tôn giáo nào ở Việt Nam có số lượng tín đồ nhiều nhất?",
+        options: ["A. Phật giáo", "B. Hồi giáo", "C. Công giáo", "D. Cao đài"],
+        dap_an: "A",
+        gai_thich: ""
+    },
+    {
+        cau: "Câu 168: Quan điểm “Tất cả mọi tôn giáo chẳng qua chỉ là sự phản ánh hư ảo - vào trong đầu óc con người – của những lực lượng ở bên ngoài chi phối cuộc sống hàng ngày của họ; chỉ là sự phản ánh trong đó những lực lượng ở trần thế đã mang hình thức những lực lượng siêu trần thế” là của ai?",
+        options: ["A. V.I.Lenin", "B. F.Engels", "C. K.Marx", "D. Hồ Chí Minh"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 169: Nguồn gốc tôn giáo bao gồm:",
+        options: ["A. Nguồn gốc nhận thức/ Nguồn gốc kinh tế - xã hội/ Nguồn gốc tâm lý", "B. Nguồn gốc nhận thức/ Nguồn gốc tâm lý", "C. Nguồn gốc nhận thức/ Nguồn gốc kinh tế - xã hội", "D. Nguồn gốc kinh tế - xã hội/ Nguồn gốc tâm lý/ Nguồn gốc giai cấp"],
+        dap_an: "A",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 170: Quan điểm của Chủ nghĩa Marx - Lenin cho rằng:",
+        options: ["A. Tôn giáo sẽ mất đi khi giai cấp công nhân có chính quyền trong tay", "B. Tôn giáo còn tồn tại lâu dài và trong lịch sử, bản thân tôn giáo cũng có những thay đổi. Do đó phải thực hiện đoàn kết tôn giáo, tôn trọng tự do tín ngưỡng của nhân dân để tiến hành xây dựng XHCN", "C. Tôn giáo đối lập với CNXH", "D. Tôn giáo chỉ có tính tiêu cực mà thôi"],
+        dap_an: "B",
+        giai_thich: ""
+    },
+    {
+        cau: "Câu 171: Tôn giáo là gì?",
+        options: ["A. Tôn giáo là một hiện tượng lịch sử - xã hội thích ứng với tín ngưỡng về lực lượng siêu nhiên", "B. Tôn giáo là một hình thái ý thức xã hội phản ánh hư ảo hiện thực, thông qua đó thì các hiện tượng tự nhiên trở thành siêu nhiên thần bí", "C. Tôn giáo là một thực thể xã hội với các tôn giáo cụ thể như đạo Phật, đạo Công giáo, đạo tin lành… với hàng triệu tín đồ cùng các hoạt động tạo nên biểu hiện bên ngoài của nó.", "D. Các phương án trên đều đúng"],
+        dap_an: "D",
+        giai_thich: ""
+    }
+];
+// --- DỮ LIỆU ĐỀ SỐ 4 ---
+const de4 = [
+    {
+        cau: "Câu 1: Tư tưởng xã hội chủ nghĩa là gì?",
+        options: [
+            "A. Là một hệ thống những quan niệm phản ánh những nhu cầu, những ước mơ, nguyện vọng của các giai cấp lao động về một xã hội không có áp bức và bóc lột, mọi người đều bình đẳng và có cuộc sống ấm no, hạnh phúc.",
+            "B. Là những thành tựu của con người đạt được trong quá trình đấu tranh giải phóng giai cấp.",
+            "C. Là chế độ xã hội không có áp bức bóc lột, mọi người đều bình đẳng tự do.",
+            "D. Cả A, B, C"
+        ],
+        dap_an: "D",
+        giai_thich: "Tư tưởng XHCN là hệ thống quan niệm phản ánh nguyện vọng của giai cấp lao động về xã hội không có áp bức, bóc lột, mọi người bình đẳng, ấm no."
+    },
+    // Câu 2 và 3 bị thiếu dữ liệu, bỏ qua
+    {
+        cau: "Câu 4: Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
+        options: [
+            "A. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+            "B. Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội.",
+            "C. Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội chủ nghĩa xã hội.",
+            "D. Cả A, B và C"
+        ],
+        dap_an: "A",
+        giai_thich: "Đối tượng nghiên cứu là những quy luật và tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành, phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa."
+    },
+    {
+        cau: "Câu 5: Chức năng và nhiệm vụ của chủ nghĩa xã hội khoa học là gì?",
+        options: [
+            "A. Là trang bị những tri thức khoa học của chủ nghĩa Mác - Lênin đã phát hiện ra và luận giải về quá trình tất yếu lịch sử...",
+            "B. Là giáo dục, trang bị lập trường tư tưởng chính trị của giai cấp công nhân...",
+            "C. Là định hướng về chính trị – xã hội cho mọi hoạt động của giai cấp công nhân...",
+            "D. Cả A, B và C đều đúng."
+        ],
+        dap_an: "D",
+        giai_thich: "CNXHKH có chức năng lý luận, giáo dục lập trường tư tưởng chính trị và định hướng chính trị – xã hội."
+    },
+    {
+        cau: "Câu 6: Ai đã đưa ra quan niệm \"CNXH là sự phản kháng và đấu tranh chống sự bóc lột người lao động, một cuộc đấu tranh nhằm hoàn toàn xoá bỏ sự bóc lột\"",
+        options: ["A. S.Phuriê", "B. C.Mác", "C. Ph.Ănghen", "D. V.I.Lênin"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Quan niệm này là của Ph.Ăngghen."
+    },
+    {
+        cau: "Câu 7: Ai được coi là người mở đầu các trào lưu xã hội chủ nghĩa và cộng sản chủ nghĩa thời cận đại.",
+        options: ["A. Tômađô Campanenla", "B. Tômát Morơ", "C. Arítxtốt", "D. Platôn"],
+        dap_an: "B", // Suy luận từ Đề 1
+        giai_thich: "Tômát Morơ (với tác phẩm Utopia) được coi là người mở đầu."
+    },
+    {
+        cau: "Câu 8: Ai là người viết tác phẩm \"Không tưởng\" (Utôpi)",
+        options: ["A. Xanh Xi Mông", "B. Campanenla", "C. Tômát Morơ", "D. Uynxtenli"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Tác phẩm \"Không tưởng\" là của Tômát Morơ."
+    },
+    {
+        cau: "Câu 9: Ai là người đã đưa ra chủ trương thiết lập nền \"Chuyên chính cách mạng của những người lao động\".",
+        options: ["A. Tômát Morơ", "B. Xanh Ximông", "C. Grắccơ Babớp", "D. Morenly"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Grắccơ Babớp đã đưa ra chủ trương này."
+    },
+    {
+        cau: "Câu 10: Tư tưởng về \"Giang sơn ngàn năm của Chúa\" xuất hiện ở thời đại nào.",
+        options: ["A. Cộng sản nguyên thuỷ", "B. Thời cổ đại", "C. Thời cận đại", "D. Thời phục hưng"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Tư tưởng này xuất hiện ở thời cận đại."
+    },
+    {
+        cau: "Câu 11: Tác phẩm \"Thành phố mặt trời\" là của tác giả nào?",
+        options: ["A. Giêrắcdơ Uyxntenli", "B. Tômađô Campanenla", "C. Giăng Mêliê", "D. Sáclơ Phuriê"],
+        dap_an: "B", // Suy luận từ Đề 1
+        giai_thich: "Tác phẩm \"Thành phố mặt trời\" là của Tômađô Campanenla."
+    },
+    {
+        cau: "Câu 12: Ai đã viết tác phẩm \"Những di chúc của tôi\"",
+        options: ["A. Tômát Morơ", "B. Giăng Mêliê", "C. Grắccơ Babớp", "D. Morenly"],
+        dap_an: "B", // Suy luận từ Đề 1
+        giai_thich: "Giăng Mêliê là tác giả của \"Những di chúc của tôi\"."
+    },
+    {
+        cau: "Câu 13: Ai là người đã nêu ra \"Tuyên ngôn của những người bình dân\"?",
+        options: ["A. Tômát Morơ", "B. Xanh Ximông", "C. Grắccơ Babớp", "D. Morenly"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Grắccơ Babớp là tác giả của \"Tuyên ngôn của những người bình dân\"."
+    },
+    {
+        cau: "Câu 14: Ai là người đặt vấn đề đấu tranh cho chủ nghĩa xã hội với tính cách là một phong trào thực tiễn (Phong trào hiện thực)",
+        options: ["A. Tômát Morơ", "B. Xanh Ximông", "C. Grắccơ Babớp", "D. Morenly"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Grắccơ Babớp đã đặt vấn đề này."
+    },
+    {
+        cau: "Câu 15: Những nhà tư tưởng tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX?",
+        options: [
+            "A. Grắccơ Babớp, Xanh Ximông, Sáclơ Phuriê",
+            "B. Xanh Ximông, Sáclơ Phuriê, G. Mably",
+            "C. Xanh Ximông, Sáclơ Phuriê, Rôbớt Ôoen",
+            "D. Xanh Ximông, Giăng Mêliê, Rôbớt Ôoen"
+        ],
+        dap_an: "C",
+        giai_thich: "Các đại biểu tiêu biểu là Xanh Ximông, Sáclơ Phuriê và Rôbớt Ôoen."
+    },
+    {
+        cau: "Câu 16: Nhà tư tưởng xã hội chủ nghĩa không tưởng nào đã nói đến vấn đề giai cấp và xung đột giai cấp.",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Rôbớt Ôoen", "D. Grắccơ Babớp"],
+        dap_an: "A", // Suy luận từ Đề 1
+        giai_thich: "Xanh Ximông là người đã nói đến vấn đề giai cấp và xung đột giai cấp."
+    },
+    {
+        cau: "Câu 17: Nhà tư tưởng xã hội chủ nghĩa nào đã tố cáo quá trình tích luỹ tư bản chủ nghĩa bằng hình ảnh \"cừu ăn thịt người “",
+        options: ["A. Tômát Morơ", "B. Sáclơ Phuriê", "C. Rôbớt Ôoen", "D. Grắccơ Babớp"],
+        dap_an: "A", // Suy luận từ Đề 1
+        giai_thich: "Tômát Morơ đã sử dụng hình ảnh này."
+    },
+    {
+        cau: "Câu 18: Ai là người nêu ra luận điểm: Trong nền kinh tế tư bản chủ nghĩa, \"sự nghèo khổ được sinh ra từ chính sự thừa thãi\".",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Rôbớt Ôoen", "D. Tômát Morơ"],
+        dap_an: "B", // Suy luận từ Đề 1
+        giai_thich: "Luận điểm này là của Sáclơ Phuriê."
+    },
+    {
+        cau: "Câu 19: Nhà tư tưởng xã hội chủ nghĩa nào đã chia lịch sử phát triển của nhân loại thành các giai đoạn: mông muội, dã man, gia trưởng và văn minh.",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Grắccơ Babớp", "D. Tômát Morơ"],
+        dap_an: "A", // Suy luận từ Đề 1
+        giai_thich: "Xanh Ximông đã chia lịch sử nhân loại theo các giai đoạn này."
+    },
+    {
+        cau: "Câu 20: Ai đã nêu ra tư tưởng: trình độ giải phóng xã hội được đo bằng trình độ giải phóng phụ nữ?",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Grắccơ Babớp", "D. Rôbớt Ôoen"],
+        dap_an: "B", // Suy luận từ Đề 1
+        giai_thich: "Tư tưởng này là của Sáclơ Phuriê."
+    },
+    {
+        cau: "Câu 21: Người mơ ước xây dựng thành phố mặt trời, mà trong đó không có nạn thất nghiệp, không có kẻ lười biếng, ai cũng lao động. Ông là ai?",
+        options: ["A. Giê-rắc Uynxteli", "B. Grắc Babơp", "C. Tômađô Cămpanela", "D. Tô mát Mo rơ"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Tômađô Campanenla là tác giả của \"Thành phố Mặt Trời\"."
+    },
+    {
+        cau: "Câu 22: Nhà tư tưởng xã hội chủ nghĩa nào đã tiến hành thực nghiệm xã hội cộng sản trong lòng xã hội tư bản?",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Grắccơ Babớp", "D. Rôbớt Ôoen"],
+        dap_an: "D", // Suy luận từ Đề 1
+        giai_thich: "Rôbớt Ôoen đã tiến hành thực nghiệm xã hội cộng sản."
+    },
+    {
+        cau: "Câu 23: Nhà tư tưởng xã hội chủ nghĩa nào đã bị phá sản trong khi thực nghiệm tư tưởng cộng sản chủ nghĩa của mình?",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Rôbớt Ôoen", "D. Tômát Morơ"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Rôbớt Ôoen đã bị phá sản khi thực hiện mô hình New Harmony."
+    },
+    {
+        cau: "Câu 24: Những đại biểu tiêu biểu cho chủ nghĩa xã hội không tưởng phê phán thế kỷ XIX ở Pháp và Anh?",
+        options: ["A. Xanh xi mông", "B. Phuriê", "C. Rô Bớc Ô Oen", "D. Cả A, B, C."],
+        dap_an: "D",
+        giai_thich: "Các đại biểu tiêu biểu là Xanh Ximông, Phuriê (Pháp) và Rôbớt Ôoen (Anh)."
+    },
+    {
+        cau: "Câu 25: Chọn những tác giả nào đúng với tác phẩm của họ?",
+        options: ["A. To mát Morơ: Tác phẩm Thành phố mặt trời", "B. Tômađô Campanenla: Tác phẩm Không tưởng (Utopie)", "C. Giắccơ Babớp: Tuyên ngôn của những người bình dân", "D. Cả ba đều sai."],
+        dap_an: "D", // Suy luận từ Đề 1
+        giai_thich: "Tômát Morơ viết Không tưởng; Campanenla viết Thành phố Mặt trời. Do đó, cả A và B đều sai, D đúng."
+    },
+    {
+        cau: "Câu 26: Những hạn chế cơ bản của các nhà tư tưởng xã hội chủ nghĩa trước Mác là gì?",
+        options: [
+            "A. Chưa thấy được bản chất bóc lột và quá trình phát sinh phát triển và diệt vong tất yếu của chủ nghĩa tư bản.",
+            "B. Không dùng bạo lực cách mạng để xoá bỏ chế độ tư bản chủ nghĩa.",
+            "C. Không phát hiện được lực lượng xã hội tiên phong có thể thực hiện cuộc chuyển biến cách mạng...",
+            "D. Cả A, B và C"
+        ],
+        dap_an: "D",
+        giai_thich: "Các hạn chế cơ bản là: Không thấy được quy luật vận động, không tìm được lực lượng tiên phong, và không dùng bạo lực cách mạng."
+    },
+    {
+        cau: "Câu 27: Nguyên nhân chủ yếu của những hạn chế của chủ nghĩa xã hội không tưởng là?",
+        options: ["A. Do trình độ nhận thức của những nhà tư tưởng.", "B. Do khoa học chưa phát triển.", "C. Do những điều kiện lịch sử khách quan quy định.", "D. Cả A, B, C."],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Hạn chế là do điều kiện lịch sử khách quan quy định."
+    },
+    {
+        cau: "Câu 28: C. Mác sinh ngày tháng năm nào?",
+        options: ["A. 14.3.1918", "B. 5.5.1820", "C. 5.5.1818", "D. 22.4.1818"],
+        dap_an: "C",
+        giai_thich: "C. Mác sinh ngày 5.5.1818."
+    },
+    {
+        cau: "Câu 29: C. Mác mất ngày tháng năm nào?",
+        options: ["A. 14.3.1883", "B. 14.3.1881", "C. 5.8.1883", "D. 21.1.1883"],
+        dap_an: "A",
+        giai_thich: "C. Mác mất ngày 14.3.1883."
+    },
+    {
+        cau: "Câu 30: Ph. Ăngghen sinh ngày tháng năm nào?",
+        options: ["A. 25.11.1818", "B. 28.11.1820", "C. 5.5.1820", "D. 22.4.1820"],
+        dap_an: "B",
+        giai_thich: "Ph. Ăngghen sinh ngày 28.11.1820."
+    },
+    {
+        cau: "Câu 31: Ph. Ăngghen mất ngày tháng năm nào?",
+        options: ["A. 14.3.1888", "B. 5.8.1895", "C. 28.11.1895", "D. 21.1.1895"],
+        dap_an: "B",
+        giai_thich: "Ph. Ăngghen mất ngày 5.8.1895."
+    },
+    {
+        cau: "Câu 32: Ai là người được Ph.Ăngghen nhận xét là \"có tầm mắt rộng thiên tài\"?",
+        options: ["A. Phurie", "B. Ôoen", "C. G. Ba lớp", "D. Xanh Ximông"],
+        dap_an: "D", // Suy luận từ Đề 1
+        giai_thich: "Ph.Ăngghen nhận xét Xanh Ximông là người có tầm mắt rộng thiên tài."
+    },
+    {
+        cau: "Câu 33: Ai là người được Ph.Ăngghen đánh giá là \"nắm phép biện chứng một cách cũng tài tình như Hêghen là người đương thời với ông\"?",
+        options: ["A. Mê li ê", "B. Xanh Ximông", "C. Phurie", "D. Ôoen"],
+        dap_an: "B", // Suy luận từ Đề 1
+        giai_thich: "Xanh Ximông được Ph.Ăngghen đánh giá cao về phép biện chứng."
+    },
+    {
+        cau: "Câu 34: Ai là người được Ph.Ăngghen nhận xét \"Mọi phong trào xã hội, mọi thành tựu thực sự đã diễn ra ở Anh vì lợi ích của công nhân đều gắn với tên tuổi của ông\" ông là ai?",
+        options: ["A. G. Uyn xtlenli", "B. Xanh Ximông", "C. Các Mác", "D. Ôoen"],
+        dap_an: "D", // Suy luận từ Đề 1
+        giai_thich: "Người đó là Rôbớt Ôoen."
+    },
+    {
+        cau: "Câu 35: Ai là người nêu ra quan điểm: \"Dân vi quý, xã tắc thứ chi, quân vi khinh\" (Dân là trọng hơn cả, xã tắc đứng đằng sau, vua còn nhẹ hơn\"?",
+        options: ["A. Khổng Tử", "B. Mạnh Tử", "C. Hàn Phi Tử", "D. Tuân tử"],
+        dap_an: "B", // Suy luận từ Đề 1
+        giai_thich: "Quan điểm này là của Mạnh Tử."
+    },
+    {
+        cau: "Câu 36: Ai trong số những người sau đây được Các Mác coi là nhà tư tưởng vĩ đại nhất thời cổ đại?",
+        options: ["A. Đêmôcrit", "B. Êpiquyarơ", "C. Aristôt", "D. Platôn"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Các Mác coi Aristôt là nhà tư tưởng vĩ đại nhất thời cổ đại."
+    },
+    {
+        cau: "Câu 37: Nội dung cơ bản nhất mà nhờ đó chủ nghĩa xã hội từ không tưởng trở thành khoa học?",
+        options: [
+            "A. Lên án mạnh mẽ chủ nghĩa tư bản.",
+            "B. Phản ánh đúng khát vọng của nhân dân lao động bị áp bức.",
+            "C. Phát hiện ra giai cấp công nhân là lực lượng xã hội có thể thủ tiêu CNTB, xây dựng CNXH.",
+            "D. Chỉ ra sự cần thiết phải thay thế chủ nghĩa tư bản bằng chủ nghĩa xã hội."
+        ],
+        dap_an: "C",
+        giai_thich: "Phát hiện ra sứ mệnh lịch sử của giai cấp công nhân là nội dung cơ bản nhất."
+    },
+    {
+        cau: "Câu 38: Những điều kiện và tiền đề khách quan nào dẫn đến sự ra đời của chủ nghĩa xã hội khoa học:",
+        options: [
+            "A. Sự ra đời và phát triển của nền đại công nghiệp tư bản chủ nghĩa",
+            "B. Sự trưởng thành của giai cấp công nhân công nghiệp",
+            "C. Những thành tựu khoa học tự nhiên và tư tưởng lí luận đầu thế kỉ 19",
+            "D. Cả A, B và C"
+        ],
+        dap_an: "D",
+        giai_thich: "Các tiền đề khách quan là: Điều kiện kinh tế-xã hội (A, B) và Tiền đề khoa học và tư tưởng lý luận (C)."
+    },
+    {
+        cau: "Câu 39: Tiền đề nào là nguồn gốc lý luận trực tiếp của chủ nghĩa xã hội khoa học.",
+        options: ["A. Triết học cổ điển Đức", "B. Kinh tế chính trị học cổ điển Anh", "C. Chủ nghĩa xã hội không tưởng – phê phán", "D. Cả A, B và C"],
+        dap_an: "D",
+        giai_thich: "Cả ba (Triết học cổ điển Đức, Kinh tế chính trị học cổ điển Anh, Chủ nghĩa xã hội không tưởng phê phán) đều là nguồn gốc lý luận trực tiếp."
+    },
+    {
+        cau: "Câu 40: Ph. Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
+        options: [
+            "A. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
+            "B. Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư",
+            "C. Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử",
+            "D. Sứ mệnh lịch sử của giai cấp công nhân – Chủ nghĩa duy vật lịch sử"
+        ],
+        dap_an: "C",
+        giai_thich: "Hai phát kiến vĩ đại là Học thuyết giá trị thặng dư và Chủ nghĩa duy vật lịch sử."
+    },
+    {
+        cau: "Câu 41: Vì sao chủ nghĩa xã hội khoa học theo nghĩa rộng là chủ nghĩa Mác - Lênin?",
+        options: [
+            "A. Vì chủ nghĩa xã hội khoa học đã phác thảo ra mô hình chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+            "B. Vì chủ nghĩa xã hội khoa học đã luận chứng về sứ mệnh lịch sử của giai cấp công nhân hiện đại.",
+            "C. Vì chủ nghĩa xã hội khoa học dựa vào triết học, kinh tế chính trị để lý giải tính tất yếu lịch sử...",
+            "D. Cả A, B và C."
+        ],
+        dap_an: "D", // Đáp án D trong đề 1, A trong đề 4. Chọn D theo logic tổng hợp.
+        giai_thich: "CNXHKH theo nghĩa rộng là chủ nghĩa Mác - Lênin vì nó là sự tổng hợp và luận chứng toàn diện (A, B, C)."
+    },
+    {
+        cau: "Câu 42: Tác phẩm “Phê phán cương lĩnh Gôta” là của ai?",
+        options: ["A. C.Mác", "B. Ph.Ănghen", "C. C.Mác và Ph. Ănghen", "D. V.I.Lênin"],
+        dap_an: "A",
+        giai_thich: "Tác phẩm \"Phê phán cương lĩnh Gôta\" là của C. Mác."
+    },
+    {
+        cau: "Câu 43: Tác phẩm nào được Lênin đánh giá là “tác phẩm chủ yếu và cơ bản trình bày chủ nghĩa xã hội khoa học”",
+        options: ["A. Chống Đuyrinh", "B. Tư bản", "C. Hệ tư tưởng Đức", "D. Phê phán cương lĩnh Gôta"],
+        dap_an: "A", // Suy luận từ Đề 1
+        giai_thich: "Tác phẩm \"Chống Đuyrinh\" (của Ph.Ăngghen) được Lênin đánh giá cao."
+    },
+    {
+        cau: "Câu 44: Câu nói : “Thực hiện sự nghiệp giải phóng thế giới ấy - đó là sứ mệnh lịch sử của giai cấp vô sản hiện đại” là của ai",
+        options: ["A. Các Mác", "B. Ph. Ăngghen", "C. Lênin", "D. Hồ Chí Minh"],
+        dap_an: "A",
+        giai_thich: "Câu nói này là của Các Mác."
+    },
+    {
+        cau: "Câu 45: Lý thuyết phân kỳ hình thái kinh tế-xã hội cộng sản chủ nghĩa lần đầu tiên được đề cập trong tác phẩm nào?",
+        options: ["A. Tuyên ngôn của Đảng cộng sản.", "B. Nội chiến ở Pháp.", "C. Bộ tư bản", "D. Phê phán Cương lĩnh Gôta."],
+        dap_an: "D",
+        giai_thich: "Lý thuyết này lần đầu được đề cập trong tác phẩm \"Phê phán Cương lĩnh Gôta\"."
+    },
+    {
+        cau: "Câu 46: Quốc tế cộng sản là tên gọi khác của",
+        options: ["A. Quốc tế I", "B. Quốc tế II", "C. Quốc tế III", "D. Hội liên hiệp công nhân quốc tế"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Quốc tế Cộng sản là tên gọi khác của Quốc tế III."
+    },
+    {
+        cau: "Câu 47: Tác phẩm đầu tiên mà Các Mác và Ăng ghen viết chung là tác phẩm nào?",
+        options: ["A. Hệ tư tưởng Đức.", "B. Tuyên ngôn Đảng Cộng sản.", "C. Gia đình thần thánh.", "D. Tình cảnh giai cấp công nhân Anh"],
+        dap_an: "C", // Suy luận từ Đề 1
+        giai_thich: "Tác phẩm đầu tiên viết chung là \"Gia đình thần thánh\"."
+    },
+    {
+        cau: "Câu 48: Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+        options: ["A. Hệ tư tưởng Đức", "B. Tình cảnh giai cấp lao động ở Anh", "C. Tuyên ngôn của Đảng cộng sản", "D. Những nguyên lý của chủ nghĩa cộng sản"],
+        dap_an: "C",
+        giai_thich: "Tác phẩm \"Tuyên ngôn của Đảng cộng sản\" đánh dấu sự ra đời của CNXHKH."
+    },
+    {
+        cau: "Câu 49: Lần đầu tiên Ph.Ăngghen nói chủ nghĩa Mác cấu thành bởi ba bộ phận trong tác phẩm nào?",
+        options: ["A. Sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học", "B. Tình cảnh giai cấp công nhân Anh", "C. Tuyên ngôn của Đảng cộng sản", "D. Chống Đuyrinh"],
+        dap_an: "D", // Suy luận từ Đề 1
+        giai_thich: "Tác phẩm \"Chống Đuyrinh\" là nơi Ph.Ăngghen lần đầu tiên nói về ba bộ phận cấu thành Chủ nghĩa Mác."
+    },
+    {
+        cau: "Câu 50: Phát hiện nào sau đây của C. Mác và Ph. Ăngghen?",
+        options: ["A. Chủ nghĩa duy vật lịch sử", "B. Học thuyết giá trị thặng dư", "C. Sứ mệnh lịch sử của giai cấp công nhân", "D. Cả A, B, C"],
+        dap_an: "D",
+        giai_thich: "Cả ba đều là phát kiến vĩ đại của C. Mác và Ph. Ăngghen."
+    }
+];
+// --- DỮ LIỆU ĐỀ SỐ 5 ---
+const de5 = [
+    {
+        cau: "Câu 1: Người mơ ước xây dựng thành phố mặt trời, mà trong đó không có nạn thất nghiệp, không có kẻ lười biếng, ai cũng lao động. Ông là ai?",
+        options: ["A. Giê-rắc Uynxteli", "B. Grắc Babơp", "C. Tômađô Cămpanela", "D. Tô mát Mo rơ"],
+        dap_an: "C",
+        giai_thich: "Tômađô Campanenla là tác giả của \"Thành phố Mặt Trời\"."
+    },
+    {
+        cau: "Câu 2: Nhà tư tưởng xã hội chủ nghĩa nào đã tiến hành thực nghiệm xã hội cộng sản trong lòng xã hội tư bản?",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Grắccơ Babớp", "D. Rôbớt Ôoen"],
+        dap_an: "D",
+        giai_thich: "Rôbớt Ôoen là người đã tiến hành thực nghiệm xã hội cộng sản."
+    },
+    {
+        cau: "Câu 3: Nhà tư tưởng xã hội chủ nghĩa nào đã bị phá sản trong khi thực nghiệm tư tưởng cộng sản chủ nghĩa của mình?",
+        options: ["A. Xanh Ximông", "B. Sáclơ Phuriê", "C. Rôbớt Ôoen", "D. Tômát Morơ"],
+        dap_an: "C",
+        giai_thich: "Rôbớt Ôoen đã bị phá sản khi thực hiện mô hình New Harmony."
+    },
+    {
+        cau: "Câu 4: Những đại biểu tiêu biểu cho chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX ở Pháp và Anh?",
+        options: ["A. Xanh xi mông", "B. Phuriê", "C. Rô Bớc Ô Oen", "D. Cả A, B, C."],
+        dap_an: "D",
+        giai_thich: "Các đại biểu tiêu biểu là Xanh Ximông, Phuriê (Pháp) và Rôbớt Ôoen (Anh)."
+    },
+    {
+        cau: "Câu 5: Chọn những tác giả nào đúng với tác phẩm của họ?",
+        options: ["A. To mát Morơ: Tác phẩm Thành phố mặt trời", "B. Tômađô Campanenla: Tác phẩm Không tưởng (Utopie)", "C. Giắccơ Babớp: Tuyên ngôn của những người bình dân", "D. Cả ba đều sai."],
+        dap_an: "C",
+        giai_thich: "Giắccơ Babớp là tác giả của \"Tuyên ngôn của những người bình dân\"."
+    },
+    {
+        cau: "Câu 6: Những hạn chế cơ bản của các nhà tư tưởng xã hội chủ nghĩa trước Mác là gì?",
+        options: [
+            "A. Chưa thấy được bản chất bóc lột và quá trình phát sinh phát triển và diệt vong tất yếu của chủ nghĩa tư bản.",
+            "B. Không dùng bạo lực cách mạng để xoá bỏ chế độ tư bản chủ nghĩa.",
+            "C. Không phát hiện được lực lượng xã hội tiên phong có thể thực hiện cuộc chuyển biến cách mạng...",
+            "D. Cả A, B và C"
+        ],
+        dap_an: "D",
+        giai_thich: "Các hạn chế cơ bản là: Không thấy được quy luật vận động, không tìm được lực lượng tiên phong, và không dùng bạo lực cách mạng."
+    },
+    {
+        cau: "Câu 7: Nguyên nhân chủ yếu của những hạn chế của chủ nghĩa xã hội không tưởng là?",
+        options: ["A. Do trình độ nhận thức của những nhà tư tưởng.", "B. Do khoa học chưa phát triển.", "C. Do những điều kiện lịch sử khách quan quy định.", "D. Cả A, B, C."],
+        dap_an: "C",
+        giai_thich: "Hạn chế là do những điều kiện lịch sử khách quan quy định."
+    },
+    {
+        cau: "Câu 8: C. Mác sinh ngày tháng năm nào?",
+        options: ["A. 14.3.1918", "B. 5.5.1820", "C. 5.5.1818", "D. 22.4.1818"],
+        dap_an: "C",
+        giai_thich: "C. Mác sinh ngày 5.5.1818."
+    },
+    {
+        cau: "Câu 9: C. Mác mất ngày tháng năm nào?",
+        options: ["A. 14.3.1883", "B. 14.3.1881", "C. 5.8.1883", "D. 21.1.1883"],
+        dap_an: "A",
+        giai_thich: "C. Mác mất ngày 14.3.1883."
+    },
+    {
+        cau: "Câu 10: Ph. Ăngghen sinh ngày tháng năm nào?",
+        options: ["A. 25.11.1818", "B. 28.11.1820", "C. 5.5.1820", "D. 22.4.1820"],
+        dap_an: "B",
+        giai_thich: "Ph. Ăngghen sinh ngày 28.11.1820."
+    },
+    {
+        cau: "Câu 11: Ph. Ăngghen mất ngày tháng năm nào?",
+        options: ["A. 14.3.1888", "B. 5.8.1895", "C. 28.11.1895", "D. 21.1.1895"],
+        dap_an: "B",
+        giai_thich: "Ph. Ăngghen mất ngày 5.8.1895."
+    },
+    {
+        cau: "Câu 12: Ai là người được Ph.Ăngghen nhận xét là \"có tầm mắt rộng thiên tài\"?",
+        options: ["A. Phurie", "B. Ôoen", "C. G. Ba lớp", "D. Xanh Ximông"],
+        dap_an: "D",
+        giai_thich: "Người đó là Xanh Ximông."
+    },
+    {
+        cau: "Câu 13: Ai là người được Ph.Ăngghen đánh giá là \"nắm phép biện chứng một cách cũng tài tình như Hêghen là người đương thời với ông\"?",
+        options: ["A. Mê li ê", "B. Xanh Ximông", "C. Phurie", "D. Ôoen"],
+        dap_an: "B",
+        giai_thich: "Người đó là Xanh Ximông."
+    },
+    {
+        cau: "Câu 14: Ai là người được Ph.Ăngghen nhận xét \"Mọi phong trào xã hội, mọi thành tựu thực sự đã diễn ra ở Anh vì lợi ích của công nhân đều gắn với tên tuổi của ông\" ông là ai?",
+        options: ["A. G. Uyn xtlenli", "B. Xanh Ximông", "C. Các Mác", "D. Ôoen"],
+        dap_an: "D",
+        giai_thich: "Người đó là Rôbớt Ôoen."
+    },
+    {
+        cau: "Câu 15: Ai là người nêu ra quan điểm: \"Dân vi quý, xã tắc thứ chi, quân vi khinh\" (Dân là trọng hơn cả, xã tắc đứng đằng sau, vua còn nhẹ hơn\"?",
+        options: ["A. Khổng Tử", "B. Mạnh Tử", "C. Hàn Phi Tử", "D. Tuân tử"],
+        dap_an: "B",
+        giai_thich: "Quan điểm này là của Mạnh Tử."
+    },
+    {
+        cau: "Câu 16: Ai trong số những người sau đây được Các Mác coi là nhà tư tưởng vĩ đại nhất thời cổ đại?",
+        options: ["A. Đêmôcrit", "B. Êpiquyarơ", "C. Aristôt", "D. Platôn"],
+        dap_an: "C",
+        giai_thich: "Các Mác coi Aristôt là nhà tư tưởng vĩ đại nhất thời cổ đại."
+    },
+    {
+        cau: "Câu 17: Nội dung cơ bản nhất mà nhờ đó chủ nghĩa xã hội từ không tưởng trở thành khoa học?",
+        options: [
+            "A. Lên án mạnh mẽ chủ nghĩa tư bản.",
+            "B. Phản ánh đúng khát vọng của nhân dân lao động bị áp bức.",
+            "C. Phát hiện ra giai cấp công nhân là lực lượng xã hội có thể thủ tiêu CNTB, xây dựng CNXH.",
+            "D. Chỉ ra sự cần thiết phải thay thế chủ nghĩa tư bản bằng chủ nghĩa xã hội."
+        ],
+        dap_an: "C",
+        giai_thich: "Phát hiện ra sứ mệnh lịch sử của giai cấp công nhân là nội dung cơ bản nhất."
+    },
+    {
+        cau: "Câu 18: Những điều kiện và tiền đề khách quan nào dẫn đến sự ra đời của chủ nghĩa xã hội khoa học:",
+        options: [
+            "A. Sự ra đời và phát triển của nền đại công nghiệp tư bản chủ nghĩa",
+            "B. Sự trưởng thành của giai cấp công nhân công nghiệp",
+            "C. Những thành tựu khoa học tự nhiên và tư tưởng lí luận đầu thế kỉ 19",
+            "D. Cả A, B và C"
+        ],
+        dap_an: "D",
+        giai_thich: "Các tiền đề khách quan là: Điều kiện kinh tế-xã hội (A, B) và Tiền đề khoa học và tư tưởng lý luận (C)."
+    },
+    {
+        cau: "Câu 19: Tiền đề nào là nguồn gốc lý luận trực tiếp của chủ nghĩa xã hội khoa học?",
+        options: ["A. Triết học cổ điển Đức", "B. Kinh tế chính trị học cổ điển Anh", "C. Chủ nghĩa xã hội không tưởng – phê phán", "D. Cả A, B và C"],
+        dap_an: "D",
+        giai_thich: "Cả ba (Triết học cổ điển Đức, Kinh tế chính trị học cổ điển Anh, Chủ nghĩa xã hội không tưởng phê phán) đều là nguồn gốc lý luận trực tiếp."
+    },
+    {
+        cau: "Câu 20: Ph. Ăngghen đã đánh giá: \"Hai phát hiện vĩ đại này đã đưa chủ nghĩa xã hội trở thành một khoa học\". Hai phát kiến đó là gì?",
+        options: [
+            "A. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử",
+            "B. Sứ mệnh lịch sử của giai cấp công nhân – Học thuyết giá trị thặng dư",
+            "C. Học thuyết giá trị thặng dư – Chủ nghĩa duy vật lịch sử",
+            "D. Sứ mệnh lịch sử của giai cấp công nhân – Chủ nghĩa duy vật lịch sử"
+        ],
+        dap_an: "C",
+        giai_thich: "Hai phát kiến vĩ đại là Học thuyết giá trị thặng dư và Chủ nghĩa duy vật lịch sử."
+    }
+];
+// --- DỮ LIỆU ĐỀ SỐ 6 ---
+const de6 = [
+    {
+        cau: "Câu 1: Vì sao chủ nghĩa xã hội khoa học theo nghĩa rộng là chủ nghĩa Mác - Lênin?",
+        options: [
+            "A. Vì CNXHKH đã phác thảo ra mô hình CNXH và chủ nghĩa cộng sản.",
+            "B. Vì CNXHKH đã luận chứng về sứ mệnh lịch sử của giai cấp công nhân hiện đại.",
+            "C. Vì CNXHKH dựa vào triết học, kinh tế chính trị để lý giải tính tất yếu lịch sử của Cách mạng XHCN và Hình thái kinh tế – xã hội cộng sản chủ nghĩa gắn liền với vai trò lãnh đạo của giai cấp công nhân.",
+            "D. Cả A, B và C."
+        ],
+        dap_an: "C",
+        giai_thich: "CNXHKH là một bộ phận cấu thành trong chủ nghĩa Mác - Lênin. Nó sử dụng nền tảng của Triết học Mác – Lênin và Kinh tế chính trị Mác – Lênin để lý giải tính tất yếu lịch sử."
+    },
+    {
+        cau: "Câu 2: Tác phẩm “Phê phán cương lĩnh Gôta” là của ai?",
+        options: ["A. C. Mác", "B. Ph. Ănghen", "C. C. Mác và Ph. Ănghen", "D. V. I. Lênin"],
+        dap_an: "A",
+        giai_thich: "Tác phẩm này là của C. Mác."
+    },
+    {
+        cau: "Câu 3: Tác phẩm nào được Lênin đánh giá là “tác phẩm chủ yếu và cơ bản trình bày chủ nghĩa xã hội khoa học”?",
+        options: ["A. Chống Đuyrinh", "B. Tư bản", "C. Hệ tư tưởng Đức", "D. Phê phán cương lĩnh Gôta"],
+        dap_an: "B", // Dựa trên nguồn: Nguồn cung cấp là B (Tư bản), nhưng theo Đề 1/43 là A (Chống Đuyrinh). Ta dùng B theo nguồn Đề 6.
+        giai_thich: "Tác phẩm \"Tư bản\" được Lênin đánh giá cao."
+    },
+    {
+        cau: "Câu 4: Câu nói: “Thực hiện sự nghiệp giải phóng thế giới ấy - đó là sứ mệnh lịch sử của giai cấp vô sản hiện đại” là của ai?",
+        options: ["A. Các Mác", "B. Ph. Ăngghen", "C. Lênin", "D. Hồ Chí Minh"],
+        dap_an: "B", // Dựa trên nguồn: Nguồn cung cấp là B (Ph. Ăngghen), nhưng theo Đề 1/44 là A (Các Mác). Ta dùng B theo nguồn Đề 6.
+        giai_thich: "Câu nói này được gán cho Ph. Ăngghen trong nguồn."
+    },
+    {
+        cau: "Câu 5: Lý thuyết phân kỳ hình thái kinh tế-xã hội cộng sản chủ nghĩa lần đầu tiên được đề cập trong tác phẩm nào?",
+        options: ["A. Tuyên ngôn của Đảng cộng sản.", "B. Nội chiến ở Pháp.", "C. Bộ tư bản", "D. Phê phán Cương lĩnh GôtA."],
+        dap_an: "A", // Dựa trên nguồn: Nguồn cung cấp là A (Tuyên ngôn), nhưng theo Đề 1/45 là D (Phê phán Cương lĩnh Gôta). Ta dùng A theo nguồn Đề 6.
+        giai_thich: "Lý thuyết này được đề cập lần đầu trong Tuyên ngôn của Đảng Cộng sản."
+    },
+    {
+        cau: "Câu 6: Quốc tế cộng sản là tên gọi khác của",
+        options: ["A. Quốc tế I", "B. Quốc tế II", "C. Quốc tế III", "D. Hội liên hiệp công nhân quốc tế"],
+        dap_an: "C",
+        giai_thich: "Quốc tế cộng sản là tên gọi khác của Quốc tế III."
+    },
+    {
+        cau: "Câu 7: Tác phẩm đầu tiên mà Các Mác và Ăng ghen viết chung là tác phẩm nào?",
+        options: ["A. Hệ tư tưởng ĐứC.", "B. Tuyên ngôn Đảng Cộng sản.", "C. Gia đình thần thánh.", "D. Tình cảnh giai cấp công nhân Anh"],
+        dap_an: "C",
+        giai_thich: "Tác phẩm đầu tiên viết chung là \"Gia đình thần thánh\"."
+    },
+    {
+        cau: "Câu 8: Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+        options: ["A. Hệ tư tưởng Đức", "B. Tình cảnh giai cấp lao động ở Anh", "C. Tuyên ngôn của Đảng cộng sản", "D. Những nguyên lý của chủ nghĩa cộng sản"],
+        dap_an: "C",
+        giai_thich: "Tuyên ngôn của Đảng Cộng sản đánh dấu sự ra đời của CNXHKH."
+    },
+    {
+        cau: "Câu 9: Lần đầu tiên Ph. Ăngghen nói chủ nghĩa Mác cấu thành bởi ba bộ phận trong tác phẩm nào?",
+        options: ["A. Sự phát triển của chủ nghĩa xã hội từ không tưởng đến khoa học", "B. Tình cảnh giai cấp công nhân Anh", "C. Tuyên ngôn của Đảng cộng sản", "D. Chống Đuyrinh"],
+        dap_an: "D",
+        giai_thich: "Tác phẩm \"Chống Đuyrinh\" là nơi Ph. Ăngghen nói về ba bộ phận cấu thành Chủ nghĩa Mác."
+    },
+    {
+        cau: "Câu 10: Phát hiện nào sau đây của C. Mác và Ph. Ăngghen?",
+        options: ["A. Chủ nghĩa duy vật lịch sử", "B. Học thuyết giá trị thặng dư", "C. Sứ mệnh lịch sử của giai cấp công nhân", "D. Cả A, B, C"],
+        dap_an: "D",
+        giai_thich: "Cả ba đều là phát kiến vĩ đại của C. Mác và Ph. Ăngghen."
+    },
+    {
+        cau: "Câu 11: Phạm trù nào được coi là cơ bản nhất, là xuất phát điểm của chủ nghĩa xã hội khoa học?",
+        options: ["A. Giai cấp công nhân", "B. Sứ mệnh lịch sử của giai cấp công nhân", "C. Chuyên chính vô sản", "D. Xã hội chủ nghĩa"],
+        dap_an: "B",
+        giai_thich: "Sứ mệnh lịch sử của giai cấp công nhân là phạm trù cơ bản và xuất phát điểm của CNXHKH."
+    },
+    {
+        cau: "Câu 12: Câu “Sự phát triển tự do của mọi người là điều kiện cho sự phát triển tự do của tất cả mọi người là cuả ai’’,",
+        options: ["A. C. Mác", "B. Ph. Ăng ghen", "C. C. Mác và Ph. Ăng ghen", "D. V. I. Lênin"],
+        dap_an: "C",
+        giai_thich: "Câu nói nổi tiếng trong Tuyên ngôn của Đảng Cộng sản là của C. Mác và Ph. Ăngghen."
+    },
+    {
+        cau: "Câu 13: C. Mác và Ph. Ăngghen đã dựa vào những phát kiến nào để xây dựng luận chứng về sứ mệnh lịch sử của giai cấp công nhân?",
+        options: ["A. Chủ nghĩa xã hội không tưởng – phê phán", "B. Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư", "C. Triết học cổ điển Đức và Kinh tế chính trị học cổ điển Anh.", "D. Cả ba đều đúng"],
+        dap_an: "B",
+        giai_thich: "Luận chứng về sứ mệnh lịch sử GCCN dựa trên Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư."
+    },
+    {
+        cau: "Câu 14: Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư đã được C. Mác phát triển và trình bày một cách có hệ thống trong tác phẩm nào?",
+        options: ["A. Hệ tư tưởng Đức", "B. Tình cảnh của giai cấp lao động ở Anh", "C. Bộ Tư bản", "D. Những nguyên lý của chủ nghĩa cộng sản"],
+        dap_an: "C",
+        giai_thich: "Học thuyết giá trị thặng dư được trình bày có hệ thống trong Bộ Tư bản."
+    },
+    {
+        cau: "Câu 15: V. I. Lênin sinh ngày tháng năm nào?",
+        options: ["A. 5. 5. 1870", "B. 22. 4. 1870", "C. 21. 1. 1922", "D. 28. 1. 1924"],
+        dap_an: "B",
+        giai_thich: "V. I. Lênin sinh ngày 22. 4. 1870."
+    },
+    {
+        cau: "Câu 16: V. I. Lênin mất ngày tháng năm nào?",
+        options: ["A. 22. 4. 1924", "B. 21. 1. 1924", "C. 18. 3. 1870", "D. 28. 11. 1870"],
+        dap_an: "B",
+        giai_thich: "V. I. Lênin mất ngày 21. 1. 1924."
+    },
+    {
+        cau: "Câu 17: Ai là người đầu tiên đưa chủ nghĩa xã hội từ khoa học thành thực tiễn sinh động?",
+        options: ["A. C. Mác", "B. Ph. Ănghen", "C. V. I. Lênin", "D. Hồ Chí Minh"],
+        dap_an: "C",
+        giai_thich: "V. I. Lênin là người lãnh đạo Cách mạng Tháng Mười Nga, đưa CNXH từ lý luận thành hiện thực."
+    },
+    {
+        cau: "Câu 18: Từ khi ra đời (1848) đến nay, Chủ nghĩa xã hội khoa học phát triển qua mấy giai đoạn chủ yếu?",
+        options: ["A. 2", "B. 3", "C. 4", "D. 5"],
+        dap_an: "B", // Theo Đề 11/16 là 3 giai đoạn.
+        giai_thich: "CNXHKH phát triển qua ba giai đoạn: Mác - Ăngghen, Lênin, và sau Lênin."
+    },
+    {
+        cau: "Câu 19: Nhà nước xã hội chủ nghĩa đầu tiên được thành lập ở đâu?",
+        options: ["A. Công xã Pari", "B. Nga", "C. Ba Lan", "D. Trung Quốc"],
+        dap_an: "B",
+        giai_thich: "Nhà nước XHCN đầu tiên được thành lập ở Nga (Nhà nước Xô viết)."
+    },
+    {
+        cau: "Câu 20: Khái niệm chuyên chính vô sản được Các Mác dùng lần đầu tiên trong tác phẩm nào?",
+        options: ["A. Đấu tranh giai cấp ở Pháp", "B. Góp phần phê phán triết học pháp quyền của Hêghen", "C. Phê phán cương lĩnh Gô-ta", "D. Tuyên ngôn của Đảng cộng sản."],
+        dap_an: "A", // Theo Đề 19/3, khái niệm này được bàn chi tiết trong Phê phán Cương lĩnh Gôta, nhưng lần đầu xuất hiện là trong Đấu tranh giai cấp ở Pháp.
+        giai_thich: "Khái niệm này được Các Mác dùng lần đầu trong tác phẩm 'Đấu tranh giai cấp ở Pháp' (1850)."
+    }
+];
+// --- DỮ LIỆU ĐỀ SỐ 7 ---
+const de7 = [
+    {
+        cau: "Câu 1: Định nghĩa về giai cấp được Lênin trình bày lần đầu tiên trong tác phẩm nào?",
+        options: ["A. Một bước tiến, hai bước lùi.", "B. Làm gì?", "C. Sáng kiến vĩ đại."],
+        dap_an: "C",
+        giai_thich: "Định nghĩa về giai cấp của Lênin được trình bày trong tác phẩm 'Sáng kiến vĩ đại' (1919)."
+    },
+    {
+        cau: "Câu 2: Tìm ra định nghĩa đúng nhất về giai cấp công nhân:",
+        options: [
+            "A. Là giai cấp bị thống trị.",
+            "B. Là giai cấp lao động trong nền sản xuất công nghiệp có trình độ kỹ thuật và công nghệ hiện đại của xã hội.",
+            "C. Là giai cấp đông đảo trong dân cư.",
+            "D. Là giai cấp bị áp bức bóc lột nặng nề nhất"
+        ],
+        dap_an: "B",
+        giai_thich: "GCCN là giai cấp đại diện cho lực lượng sản xuất tiên tiến, lao động bằng phương thức công nghiệp ngày càng hiện đại."
+    },
+    // Câu 3 và 4 bị thiếu dữ liệu, bỏ qua
+    {
+        cau: "Câu 5: Cơ cấu xã hội nào có vai trò quan trọng nhất?",
+        options: ["A. Cơ cấu nghề nghiệp", "B. Cơ cấu dân cư", "C. Cơ cấu dân tộc", "D. Cơ cấu giai cấp"],
+        dap_an: "D",
+        giai_thich: "Cơ cấu xã hội - giai cấp có vị trí quan trọng nhất, chi phối các loại hình cơ cấu xã hội khác."
+    },
+    {
+        cau: "Câu 6: Khái niệm nào trong sau đây được dùng để chỉ một cộng đồng người ổn định được hình thành trong lịch sử trong một lãnh thổ nhất định, có chung mối liên hệ về kinh tế, ngôn ngữ và một nền văn hoá?",
+        options: ["A. Bộ lạc", "B. Dân tộc", "C. Quốc gia", "D. Bộ tộc"],
+        dap_an: "B",
+        giai_thich: "Đây là định nghĩa về Dân tộc (Nation) theo nghĩa rộng."
+    },
+    {
+        cau: "Câu 7: Vì sao giai cấp nông dân không thể lãnh đạo được cuộc cách mạng xã hội chủ nghĩa? (chọn 1 phương án đúng)",
+        options: ["A. Họ đông nhưng không mạnh.", "B. Họ không có chính đảng.", "C. Họ không đại diện cho phương thức sản xuất tiên tiến.", "D. Cả a và B."],
+        dap_an: "C",
+        giai_thich: "Chỉ GCCN đại diện cho phương thức sản xuất tiên tiến và xu thế phát triển tương lai."
+    },
+    {
+        cau: "Câu 8: Đặc trưng nào trong số các đặc trưng sau được coi là đặc trưng cơ bản nhất của giai cấp công nhân nói chung?",
+        options: [
+            "A. Không có tư liệu sản xuất, phải bán sức lao động.",
+            "B. Họ lao động trong nền công nghiệp có trình độ công nghệ và kỹ thuật hiện đại.",
+            "C. Bị giai cấp tư sản bóc lột",
+            "D. Cả ba đều sai"
+        ],
+        dap_an: "B",
+        giai_thich: "GCCN gắn liền với quá trình phát triển của nền công nghiệp hiện đại, là đại biểu cho phương thức sản xuất mang tính xã hội hóa cao."
+    },
+    {
+        cau: "Câu 9: Ai là tác giả của câu nói: “Chủ nghĩa xã hội hay là chết”",
+        options: ["A. V. I. Lênin", "B. Phiđen Castrô", "C. Hồ Chí Minh", "D. Đặng Tiểu Bình"],
+        dap_an: "B", // Đáp án này dựa trên kiến thức chung, thường được gán cho Fidel Castro
+        giai_thich: "Đây là câu nói nổi tiếng của lãnh tụ Cuba, Phiđen Castrô."
+    },
+    {
+        cau: "Câu 10: Câu nói “Chủ nghĩa đế quốc là sự chuẩn bị vật chất đầy đủ nhất cho cách mạng vô sản” là của:",
+        options: ["A. Các Mác", "B. Ăngghen", "C. V. I Lênin", "D. Hồ Chí Minh"],
+        dap_an: "C",
+        giai_thich: "Đây là luận điểm của V. I. Lênin."
+    },
+    {
+        cau: "Câu 11: Tác phẩm nào được Lênin coi là cuốn bách khoa toàn thư thực sự của chủ nghĩa cộng sản?",
+        options: ["A. Sự khốn cùng của triết học", "B. Chống Đuy rinh", "C. Đấu tranh giai cấp ở Pháp", "D. Tuyên ngôn của Đảng cộng sản"],
+        dap_an: "B", // Tác phẩm thường được gọi là Bách khoa toàn thư là Chống Đuyrinh (của Ăngghen).
+        giai_thich: "Tác phẩm 'Chống Đuy rinh' của Ph. Ăngghen được Lênin đánh giá rất cao."
+    },
+    {
+        cau: "Câu 12: Phát hiện ra sự phân chia xã hội thành giai cấp và đấu tranh giai cấp là công lao của:",
+        options: ["A. Các Mác", "B. Ph. Ăng ghen", "C. V. I. Lênin", "D. Các nhà sử học tư sản trước Mác"],
+        dap_an: "D",
+        giai_thich: "Việc phát hiện ra đấu tranh giai cấp không phải là công lao của Mác, mà của các nhà sử học tư sản. Mác đã phát triển thành lý luận khoa học."
+    },
+    {
+        cau: "Câu 13: Câu nói: “Điểm chủ yếu trong học thuyết của Mác là ở chỗ nó làm sáng tỏ vai trò lịch sử của giai cấp vô sản là người xây dựng chủ nghĩa xã hội\" là của ai?",
+        options: ["A. Ph. Ăng ghen.", "B. V. I. Lênin", "C. Hồ Chí Minh", "D. Stalin."],
+        dap_an: "B",
+        giai_thich: "Đây là trích dẫn nổi tiếng của Lênin về Mác."
+    },
+    {
+        cau: "Câu 14: Cách mạng xã hội chủ nghĩa là quá trình cải biến một cách toàn diện trên tất cả các lĩnh vực của đời sống xã hội... để xây dựng thành công chủ nghĩa xã hội và cuối cùng là chủ nghĩa cộng sản?",
+        options: ["A. Đúng", "B. Chưa hoàn toàn đúng", "C. Sai", "D. Có ý sai"],
+        dap_an: "A",
+        giai_thich: "CMXHCN theo nghĩa rộng là quá trình cải biến toàn diện trên mọi lĩnh vực."
+    },
+    {
+        cau: "Câu 15: Nguyên nhân sâu xa của cách mạng xã hội chủ nghĩa là:",
+        options: [
+            "A. Mâu thuẫn giữa Lực lượng sản xuất và quan hệ sản xuất",
+            "B. Do sự phát triển của lực lượng sản xuất",
+            "C. Do sự phát triển của giai cấp công nhân",
+            "D. Giai cấp tư sản đã trở thành giai cấp phản động"
+        ],
+        dap_an: "A",
+        giai_thich: "Nguyên nhân sâu xa của sự thay thế hình thái kinh tế là mâu thuẫn giữa LLSX và QHSX."
+    },
+    {
+        cau: "Câu 16: Tiến trình của cách mạng xã hội chủ nghĩa có mấy giai đoạn?",
+        options: ["A. Một", "B. Hai", "C. Ba", "D. Bốn"],
+        dap_an: "B",
+        giai_thich: "Mác và Ăngghen phân chia HTKTXH CSCN thành 2 giai đoạn: giai đoạn thấp (XHCN) và giai đoạn cao (CSCN)."
+    },
+    {
+        cau: "Câu 17: Điều kiện chủ quan có vai trò quyết định nhất của cuộc cách mạng xã hội chủ nghĩa?",
+        options: [
+            "A. Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất tư bản chủ nghĩa.",
+            "B. Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản.",
+            "C. Sự trưởng thành của giai cấp công nhân, đặc biệt khi nó đã có đảng tiên phong lãnh đạo.",
+            "D. Giai cấp công nhân liên minh được với giai cấp công nhân nông dân."
+        ],
+        dap_an: "C",
+        giai_thich: "Sự trưởng thành của giai cấp công nhân, đặc biệt là vai trò lãnh đạo của Đảng Cộng sản, là nhân tố chủ quan quan trọng nhất."
+    },
+    {
+        cau: "Câu 18: Công xã Pari ra đời vào ngày tháng năm nào?",
+        options: ["A. 22. 6. 1848", "B. 18. 3. 1871", "C. 4. 9. 1870", "D. 28. 5. 1871"],
+        dap_an: "B",
+        giai_thich: "Công xã Pari ra đời vào ngày 18. 3. 1871."
+    },
+    {
+        cau: "Câu 19: Động lực của cuộc cách mạng xã hội chủ nghĩa?",
+        options: [
+            "A. Giai cấp tư sản, giai cấp công nhân, giai cấp nông dân.",
+            "B. Giai cấp công nhân, giai cấp nông dân, tầng lớp trí thức.",
+            "C. Giai cấp nông dân, giai cấp công nhân, tiểu tư sản.",
+            "D. Giai cấp công nhân, tầng lớp trí thức, giai cấp nông dân, tiểu tư sản."
+        ],
+        dap_an: "B",
+        giai_thich: "CMXHCN được thực hiện thông qua khối liên minh Công - Nông - Trí thức dưới sự lãnh đạo của Đảng Cộng sản."
+    },
+    {
+        cau: "Câu 20: Ai là người đầu tiên đưa ra khái niệm cách mạng dân chủ tư sản kiểu mới?",
+        options: ["A. C. Mác", "B. Ph. Ăngghen", "C. C. Mác và Ph. Ăngghen", "D. V. I. Lênin"],
+        dap_an: "D",
+        giai_thich: "Lenin đã hoàn chỉnh lý luận về CMXHCN và cách mạng dân chủ tư sản kiểu mới."
+    }
+];
+// --- DỮ LIỆU ĐỀ SỐ 8 ---
+const de8 = [
+    {
+        cau: "Câu 1: Cách mạng dân chủ tư sản kiểu mới do giai cấp, tầng lớp nào lãnh đạo?",
+        options: ["A. Giai cấp tư sản", "B. Giai cấp công nhân", "C. Tầng lớp trí thức", "D. Giai cấp nông dân"],
+        dap_an: "B",
+        giai_thich: "Theo lý luận Mác-Lênin (được phát triển bởi V.I. Lênin), cách mạng dân chủ tư sản kiểu mới là cuộc cách mạng do giai cấp công nhân lãnh đạo."
+    },
+    {
+        cau: "Câu 2: Cách mạng dân chủ tư sản do giai cấp, tầng lớp nào lãnh đạo?",
+        options: ["A. Giai cấp công nhân", "B. Giai cấp tư sản", "C. Giai cấp công nhân và giai cấp tư sản", "D. Giai cấp công nhân và giai cấp nông dân"],
+        dap_an: "B",
+        giai_thich: "Cách mạng dân chủ tư sản kiểu cũ (cơ bản) do giai cấp tư sản lãnh đạo."
+    },
+    {
+        cau: "Câu 3: Điều kiện để thực hiện sự chuyển biến từ cách mạng dân chủ tư sản kiểu mới lên cách mạng xã hội chủ nghĩa là gì?",
+        options: ["A. Đảng cộng sản giữ vững vai trò lãnh đạo", "B. Liên minh công nông được củng cố và tăng cường", "C. Chính quyền của công nhân và nông dân được thiết lập chuyển lê làm nhiệm vụ của CCVS.", "D. Cả A, B và C"],
+        dap_an: "D",
+        giai_thich: "Cả ba yếu tố (lãnh đạo của Đảng, liên minh công-nông, chính quyền vô sản) là điều kiện cho sự chuyển biến."
+    },
+    {
+        cau: "Câu 4: Cách mạng xã hội chủ nghĩa do giai cấp, tầng lớp nào lãnh đạo?",
+        options: ["A. Giai cấp công nhân, giai cấp nông dân", "B. Giai cấp công nhân, giai cấp nông dân, tầng lớp trí thức", "C. Giai cấp công nhân", "D. Giai cấp công nhân, giai cấp tư sản, giai cấp nông dân"],
+        dap_an: "C",
+        giai_thich: "Cách mạng XHCN phải do Đảng Cộng sản - đội tiền phong của giai cấp công nhân - lãnh đạo."
+    },
+    {
+        cau: "Câu 5: Mục tiêu của giai đoạn thứ nhất của cách mạng xã hội chủ nghĩa là gì?",
+        options: ["A. Giải phóng con người, giải phóng xã hội", "B. Giành chính quyền về tay giai cấp công nhân và nhân dân lao động", "C. Xóa bỏ bóc lột đem lại đời sống ấm no cho nhân dân", "D. Cả ba đều đúng"],
+        dap_an: "B",
+        giai_thich: "Mục tiêu chính trị cơ bản trong giai đoạn đầu của cách mạng vô sản là giành chính quyền."
+    },
+    {
+        cau: "Câu 6: Mục tiêu cuối cùng của giai cấp công nhân, của cuộc cách mạng xã hội chủ nghĩa là?",
+        options: ["A. Giành chính quyền", "B. Giải phóng con người, giải phóng xã hội", "C. Đánh đổ chủ nghĩa tư bản", "D. Cả a, ba và C."],
+        dap_an: "B",
+        giai_thich: "Sứ mệnh lịch sử tổng quát của giai cấp công nhân là giải phóng loài người vĩnh viễn khỏi mọi áp bức, bóc lột, xây dựng CNXH/CNCS."
+    },
+    {
+        cau: "Câu 7: Mục tiêu cuối cùng của cách mạng xã hội chủ nghĩa là gì?",
+        options: ["A. Xoá bỏ chế độ tư hữu", "B. Giải phóng con người, giải phóng xã hội", "C. Giành chính quyền về tay giai cấp công nhân", "D. Xoá bỏ chế độ tư bản chủ nghĩa"],
+        dap_an: "B",
+        giai_thich: "Giải phóng con người, giải phóng xã hội là lý tưởng và mục tiêu tối cao."
+    },
+    {
+        cau: "Câu 8: Cách mạng xã hội chủ nghĩa lần đầu tiên nổ ra và thắng lợi ở đâu?",
+        options: ["A. Pháp", "B. Việt Nam", "C. Nga", "D. Trung Quốc"],
+        dap_an: "C",
+        giai_thich: "Cách mạng Tháng Mười Nga (1917) là cuộc cách mạng XHCN thắng lợi đầu tiên."
+    },
+    {
+        cau: "Câu 9: Cách mạng dân chủ tư sản kiểu cũ và cách mạng dân chủ tư sản kiểu mới khác nhau ở điểm nào?",
+        options: ["A. Đối tượng của cách mạng.", "B. Lực lượng tham gia.", "C. Lực lượng lãnh đạo.", "D. Cả A, B, C"],
+        dap_an: "C",
+        giai_thich: "Sự khác biệt cốt lõi là ở vai trò lãnh đạo: kiểu cũ do giai cấp tư sản lãnh đạo; kiểu mới do giai cấp công nhân lãnh đạo."
+    },
+    {
+        cau: "Câu 10: Động lực cơ bản, chủ yếu của cách mạng xã hội chủ nghĩa là?",
+        options: ["A. Giai cấp nông dân.", "B. Giai cấp công nhân", "C. Giai cấp tư sản.", "D. Cả A, B, C"],
+        dap_an: "B",
+        giai_thich: "Giai cấp công nhân là lực lượng tiên phong, giữ vai trò chủ đạo và lãnh đạo cách mạng."
+    },
+    {
+        cau: "Câu 11: Hình thức đầu tiên của chuyên chính vô sản là?",
+        options: ["A. Công xã Pari", "B. Nhà nước Xô viết", "C. Nhà nước dân chủ nhân dân", "D. Nhà nước xã hội chủ nghĩa"],
+        dap_an: "A",
+        giai_thich: "Công xã Pari (1871) là hình thức chuyên chính vô sản đầu tiên trong lịch sử."
+    },
+    {
+        cau: "Câu 12: Giai cấp nào không có hệ tư tưởng riêng?",
+        options: ["A. Giai cấp tư sản.", "B. Giai cấp vô sản", "C. Giai cấp nông dân", "D. Giai cấp phong kiến"],
+        dap_an: "C",
+        giai_thich: "Giai cấp nông dân thường được xem là giai cấp không có hệ tư tưởng độc lập."
+    },
+    {
+        cau: "Câu 13: Trí thức được quan niệm là:",
+        options: ["A. Một giai cấp", "B. Một tầng lớp", "C. Cả a, b đều sai", "D. Cả a, b đều đúng"],
+        dap_an: "B",
+        giai_thich: "Trong cơ cấu xã hội - giai cấp thời kỳ quá độ lên CNXH, trí thức là một tầng lớp xã hội cơ bản."
+    },
+    {
+        cau: "Câu 14: Tôn giáo hình thành là do:",
+        options: ["A. Trình độ nhận thức", "B. Trong xã hội có áp bức bóc lột.", "C. Do tâm lý, tình cảm.", "D. Cả A, B và C"],
+        dap_an: "D",
+        giai_thich: "Các nguồn gốc của tôn giáo bao gồm nguồn gốc nhận thức, nguồn gốc kinh tế - xã hội, và nguồn gốc tâm lý."
+    },
+    // Câu 15 bị trống trong nguồn, bỏ qua
+    {
+        cau: "Câu 16: Ai đã nhận xét: “Ý nghĩa của chủ nghĩa không tưởng phê phán và của chủ nghĩa cộng sản không tưởng phê phán là tỉ lệ nghịch với thời gian”?",
+        options: ["A. C. Mác", "B. Ph. Ăng ghen", "C. C. Mác và Ph. Ăng ghen", "D. V. I. Lênin"],
+        dap_an: "B",
+        giai_thich: "Trích dẫn này là của Ph. Ăngghen."
+    },
+    {
+        cau: "Câu 17: Khi phân tích về thời kỳ quá độ lên chủ nghĩa xã hội, ai là người đầu đặt vấn đề phải học tập các kinh nghiệm tổ chức, quản lý kinh tế của chủ nghĩa tư bản để cải tạo nền kinh tế tiểu nông lạc hậu?",
+        options: ["A. C. Mác", "B. V. I. Lênin", "C. Stalin", "D. Hồ Chí Minh"],
+        dap_an: "B",
+        giai_thich: "V.I. Lênin đã phát triển lý luận về việc sử dụng các thành tựu, kinh nghiệm tổ chức, quản lý của tư bản trong thời kỳ quá độ."
+    },
+    {
+        cau: "Câu 18: Ai là người đưa ra tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội?",
+        options: ["A. V. I. Lênin", "B. Hồ Chí Minh", "C. Đặng Tiểu Bình", "D. Phạm Văn Đồng"],
+        dap_an: "B",
+        giai_thich: "Độc lập dân tộc gắn liền với chủ nghĩa xã hội là quy luật của cách mạng Việt Nam, do Hồ Chí Minh đề xướng."
+    },
+    {
+        cau: "Câu 19: Câu “Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kì cải biến cách mạng từ xã hội nọ sang xã hội kia... là của ai?",
+        options: ["A. C. Mác", "B. Ph. Ăng ghen", "C. C. Mác và Ph. Ăng ghen", "D. V. I. Lênin"],
+        dap_an: "A",
+        giai_thich: "Luận điểm này của C. Mác nằm trong tác phẩm Phê phán Cương lĩnh Gôta."
+    },
+    {
+        cau: "Câu 20: Có mấy hình thức quá độ lên chủ nghĩa xã hội?",
+        options: ["A. Hai", "B. Ba", "C. Bốn", "D. Cả A, B và C"],
+        dap_an: "A",
+        giai_thich: "Lý luận Mác-Lênin thường chia quá độ thành hai hình thức: trực tiếp và gián tiếp/bỏ qua."
+    }
+];
+// --- DỮ LIỆU ĐỀ SỐ 9 ---
+const de9 = [
+    {
+        cau: "Câu 1: Cách mạng dân chủ tư sản kiểu mới do giai cấp, tầng lớp nào lãnh đạo?",
+        options: ["A. Giai cấp tư sản", "B. Giai cấp công nhân", "C. Tầng lớp trí thức", "D. Giai cấp nông dân"],
+        dap_an: "B",
+        giai_thich: "Cách mạng dân chủ tư sản kiểu mới là cuộc cách mạng do giai cấp công nhân lãnh đạo."
+    },
+    {
+        cau: "Câu 2: Cách mạng dân chủ tư sản do giai cấp, tầng lớp nào lãnh đạo?",
+        options: ["A. Giai cấp công nhân", "B. Giai cấp tư sản", "C. Giai cấp công nhân và giai cấp tư sản", "D. Giai cấp công nhân và giai cấp nông dân"],
+        dap_an: "B",
+        giai_thich: "Cách mạng dân chủ tư sản kiểu cũ (cơ bản) do giai cấp tư sản lãnh đạo."
+    },
+    {
+        cau: "Câu 3: Điều kiện để thực hiện sự chuyển biến từ cách mạng dân chủ tư sản kiểu mới lên cách mạng xã hội chủ nghĩa là gì?",
+        options: ["A. Đảng cộng sản giữ vững vai trò lãnh đạo", "B. Liên minh công nông được củng cố và tăng cường", "C. Chính quyền của công nhân và nông dân được thiết lập chuyển lê làm nhiệm vụ của CCVS.", "D. Cả A, B và C"],
+        dap_an: "D",
+        giai_thich: "Cả ba yếu tố (lãnh đạo của Đảng, liên minh công-nông, chính quyền vô sản) là điều kiện cho sự chuyển biến."
+    },
+    {
+        cau: "Câu 4: Cách mạng xã hội chủ nghĩa do giai cấp, tầng lớp nào lãnh đạo?",
+        options: ["A. Giai cấp công nhân, giai cấp nông dân", "B. Giai cấp công nhân, giai cấp nông dân, tầng lớp trí thức", "C. Giai cấp công nhân", "D. Giai cấp công nhân, giai cấp tư sản, giai cấp nông dân"],
+        dap_an: "C",
+        giai_thich: "Cách mạng XHCN phải do Đảng Cộng sản - đội tiền phong của giai cấp công nhân - lãnh đạo."
+    },
+    {
+        cau: "Câu 5: Mục tiêu của giai đoạn thứ nhất của cách mạng xã hội chủ nghĩa là gì?",
+        options: ["A. Giải phóng con người, giải phóng xã hội", "B. Giành chính quyền về tay giai cấp công nhân và nhân dân lao động", "C. Xóa bỏ bóc lột đem lại đời sống ấm no cho nhân dân", "D. Cả ba đều đúng"],
+        dap_an: "B",
+        giai_thich: "Mục tiêu chính trị cơ bản trong giai đoạn đầu của cách mạng vô sản là giành chính quyền."
+    },
+    {
+        cau: "Câu 6: Mục tiêu cuối cùng của giai cấp công nhân, của cuộc cách mạng xã hội chủ nghĩa là?",
+        options: ["A. Giành chính quyền", "B. Giải phóng con người, giải phóng xã hội", "C. Đánh đổ chủ nghĩa tư bản", "D. Cả a, ba và C."],
+        dap_an: "B",
+        giai_thich: "Sứ mệnh lịch sử tổng quát của giai cấp công nhân là giải phóng loài người vĩnh viễn khỏi mọi áp bức, bóc lột, xây dựng CNXH/CNCS."
+    },
+    {
+        cau: "Câu 7: Mục tiêu cuối cùng của cách mạng xã hội chủ nghĩa là gì?",
+        options: ["A. Xoá bỏ chế độ tư hữu", "B. Giải phóng con người, giải phóng xã hội", "C. Giành chính quyền về tay giai cấp công nhân", "D. Xoá bỏ chế độ tư bản chủ nghĩa"],
+        dap_an: "B",
+        giai_thich: "Giải phóng con người, giải phóng xã hội là lý tưởng và mục tiêu tối cao."
+    },
+    {
+        cau: "Câu 8: Cách mạng xã hội chủ nghĩa lần đầu tiên nổ ra và thắng lợi ở đâu?",
+        options: ["A. Pháp", "B. Việt Nam", "C. Nga", "D. Trung Quốc"],
+        dap_an: "C",
+        giai_thich: "Cách mạng Tháng Mười Nga (1917) là cuộc cách mạng XHCN thắng lợi đầu tiên."
+    },
+    {
+        cau: "Câu 9: Cách mạng dân chủ tư sản kiểu cũ và cách mạng dân chủ tư sản kiểu mới khác nhau ở điểm nào?",
+        options: ["A. Đối tượng của cách mạng.", "B. Lực lượng tham gia.", "C. Lực lượng lãnh đạo.", "D. Cả A, B, C"],
+        dap_an: "C",
+        giai_thich: "Sự khác biệt cốt lõi là ở vai trò lãnh đạo: kiểu cũ do giai cấp tư sản lãnh đạo; kiểu mới do giai cấp công nhân lãnh đạo."
+    },
+    {
+        cau: "Câu 10: Động lực cơ bản, chủ yếu của cách mạng xã hội chủ nghĩa là?",
+        options: ["A. Giai cấp nông dân.", "B. Giai cấp công nhân", "C. Giai cấp tư sản.", "D. Cả A, B, C"],
+        dap_an: "B",
+        giai_thich: "Giai cấp công nhân là lực lượng tiên phong, giữ vai trò chủ đạo và lãnh đạo cách mạng."
+    },
+    {
+        cau: "Câu 11: Hình thức đầu tiên của chuyên chính vô sản là?",
+        options: ["A. Công xã Pari", "B. Nhà nước Xô viết", "C. Nhà nước dân chủ nhân dân", "D. Nhà nước xã hội chủ nghĩa"],
+        dap_an: "A",
+        giai_thich: "Công xã Pari (1871) là hình thức chuyên chính vô sản đầu tiên trong lịch sử."
+    },
+    {
+        cau: "Câu 12: Giai cấp nào không có hệ tư tưởng riêng?",
+        options: ["A. Giai cấp tư sản.", "B. Giai cấp vô sản", "C. Giai cấp nông dân", "D. Giai cấp phong kiến"],
+        dap_an: "C",
+        giai_thich: "Giai cấp nông dân thường được xem là giai cấp không có hệ tư tưởng độc lập."
+    },
+    {
+        cau: "Câu 13: Trí thức được quan niệm là:",
+        options: ["A. Một giai cấp", "B. Một tầng lớp", "C. Cả a, b đều sai", "D. Cả a, b đều đúng"],
+        dap_an: "B",
+        giai_thich: "Trong cơ cấu xã hội - giai cấp thời kỳ quá độ lên CNXH, trí thức là một tầng lớp xã hội cơ bản."
+    },
+    // Câu 14 và 15 bị trống trong nguồn Đề 9, bỏ qua
+    {
+        cau: "Câu 16: Ai đã nhận xét: “Ý nghĩa của chủ nghĩa không tưởng phê phán và của chủ nghĩa cộng sản không tưởng phê phán là tỉ lệ nghịch với thời gian”?",
+        options: ["A. C. Mác", "B. Ph. Ăng ghen", "C. C. Mác và Ph. Ăng ghen", "D. V. I. Lênin"],
+        dap_an: "B",
+        giai_thich: "Trích dẫn này là của Ph. Ăngghen."
+    },
+    {
+        cau: "Câu 17: Khi phân tích về thời kỳ quá độ lên chủ nghĩa xã hội, ai là người đầu đặt vấn đề phải học tập các kinh nghiệm tổ chức, quản lý kinh tế của chủ nghĩa tư bản để cải tạo nền kinh tế tiểu nông lạc hậu?",
+        options: ["A. C. Mác", "B. V. I. Lênin", "C. Stalin", "D. Hồ Chí Minh"],
+        dap_an: "B",
+        giai_thich: "V.I. Lênin đã phát triển lý luận về việc sử dụng các thành tựu, kinh nghiệm tổ chức, quản lý của tư bản trong thời kỳ quá độ."
+    },
+    {
+        cau: "Câu 18: Ai là người đưa ra tư tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội?",
+        options: ["A. V. I. Lênin", "B. Hồ Chí Minh", "C. Đặng Tiểu Bình", "D. Phạm Văn Đồng"],
+        dap_an: "B",
+        giai_thich: "Độc lập dân tộc gắn liền với chủ nghĩa xã hội là quy luật của cách mạng Việt Nam, do Hồ Chí Minh đề xướng."
+    },
+    {
+        cau: "Câu 19: Câu “Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kì cải biến cách mạng từ xã hội nọ sang xã hội kia... là của ai?",
+        options: ["A. C. Mác", "B. Ph. Ăng ghen", "C. C. Mác và Ph. Ăng ghen", "D. V. I. Lênin"],
+        dap_an: "A",
+        giai_thich: "Luận điểm này của C. Mác nằm trong tác phẩm Phê phán Cương lĩnh Gôta."
+    },
+    {
+        cau: "Câu 20: Có mấy hình thức quá độ lên chủ nghĩa xã hội?",
+        options: ["A. Hai", "B. Ba", "C. Bốn", "D. Cả A, B và C"],
+        dap_an: "A",
+        giai_thich: "Lý luận Mác-Lênin thường chia quá độ thành hai hình thức: trực tiếp và gián tiếp/bỏ qua."
+    }
+];
+// --- DỮ LIỆU ĐỀ SỐ 10 ---
+const de10 = [
+    {
+        cau: "Câu 1: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là bỏ qua yếu tố nào của chủ nghĩa tư bản?",
+        options: ["A. Bỏ qua nhà nước của giai cấp tư sản.", "B. Bỏ qua cơ sở kinh tế của chủ nghĩa tư bản.", "C. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư tưởng tư bản chủ nghĩa.", "D. Bỏ qua chế độ áp bức bóc lột của giai cấp tư sản"],
+        dap_an: "C",
+        giai_thich: "Quá độ bỏ qua CNTB là bỏ qua vai trò thống trị của giai cấp tư sản trong kiến trúc thượng tầng và quan hệ sản xuất."
+    },
+    {
+        cau: "Câu 2: Điền từ thiếu vào ô trống: “bước quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội kẻ thù chủ yếu của chúng ta là giai cấp …, những tập quán thói quen của giai cấp ấy” (V. I. Lênin )",
+        options: ["A. Phong kiến", "B. Nông dân", "C. Tiểu tư sản", "D. Tư sản"],
+        dap_an: "C",
+        giai_thich: "Theo Lênin, kẻ thù chủ yếu trong thời kỳ quá độ là giai cấp tiểu tư sản (với các thói quen tùy tiện, cá nhân chủ nghĩa)."
+    },
+    {
+        cau: "Câu 3: Hình thái kinh tế - xã hội cộng sản chủ nghĩa bắt đầu và kết thúc khi nào?",
+        options: ["A. Từ khi Đảng cộng sản ra đời và xây dựng xong chủ nghĩa xã hội.", "B. Bắt đầu từ thời kỳ quá độ cho đến khi xây dựng xong giai đoạn cao của xã hội cộng sản.", "C. Bắt đầu từ giai đoạn cao của xã hội cộng sản và kết thúc ở giai đoạn cao của xã hội cộng sản.", "D. Cả ba đều không đúng."],
+        dap_an: "B",
+        giai_thich: "HTKTXH CSCN bao gồm giai đoạn thấp (CNXH) và giai đoạn cao (CNCS). Thời kỳ quá độ là thời kỳ cải biến cách mạng từ xã hội nọ sang xã hội kia."
+    },
+    {
+        cau: "Câu 4: Câu “Tôi coi sự phát triển của những hình thái kinh tế xã hội là một quá trình lịch sử tự nhiên” là của ai?",
+        options: ["A. C. Mác", "B. Ph. Ăng ghen", "C. Mác và Ph. Ăng ghen", "D. V. I. Lênin"],
+        dap_an: "A",
+        giai_thich: "Đây là câu nói nổi tiếng của C. Mác trong Lời tựa Góp phần phê phán Kinh tế chính trị học."
+    },
+    {
+        cau: "Câu 5: Hôn nhân tiến bộ dựa trên cơ sở nào?",
+        options: ["A. Tình yêu", "B. Tự nguyện", "C. Hôn nhân 1 vợ một chồng", "D. Cả A, B và C"],
+        dap_an: "A",
+        giai_thich: "Hôn nhân tiến bộ phải dựa trên cơ sở tình yêu, sự tự nguyện và bình đẳng, nhưng tình yêu là nền tảng."
+    },
+    {
+        cau: "Câu 6: Hiện nay tôn giáo nào ở Việt Nam có số lượng tín đồ đông nhất?",
+        options: ["A. Phật giáo", "B. Công giáo", "C. Tin lành", "D. Hồi giáo"],
+        dap_an: "A",
+        giai_thich: "Phật giáo là tôn giáo có số lượng tín đồ và ảnh hưởng lớn nhất ở Việt Nam."
+    },
+    {
+        cau: "Câu 7: Chủ nghĩa xã hội nghiên cứu vấn đề tín ngưỡng, tôn giáo dưới góc độ nào?",
+        options: ["A. Góc độ chính trị-xã hội.", "B. Hình thái ý thức xã hội.", "C. Tâm lý-xã hội.", "D. Cả A, B và C"],
+        dap_an: "D",
+        giai_thich: "Vấn đề tôn giáo được nghiên cứu dưới các góc độ: hình thái ý thức xã hội, hiện tượng chính trị-xã hội, và khía cạnh tâm lý."
+    },
+    {
+        cau: "Câu 8: Sự thay đổi căn bản, toàn diện và triệt để một hình thái kinh tế – xã hội này bằng một hình thái kinh tế – xã hội khác là:",
+        options: ["A. Đột biến xã hội.", "B. Cách mạng xã hội", "C. Cải cách xã hội", "D. Tiến bộ xã hội"],
+        dap_an: "B",
+        giai_thich: "CMXH là sự thay thế HTKTXH này bằng HTKTXH khác một cách căn bản, toàn diện và triệt để."
+    },
+    {
+        cau: "Câu 9: Thời kỳ quá độ lên chủ nghĩa xã hội ở trên phạm vi cả nước ta bắt đầu từ khi nào?",
+        options: ["A. 1945", "B. 1954", "C. 1975", "D. 1930"],
+        dap_an: "C",
+        giai_thich: "Việt Nam thống nhất đất nước, cả nước bước vào thời kỳ quá độ lên CNXH từ năm 1975."
+    },
+    {
+        cau: "Câu 10: Xã hội xã hội chủ nghĩa mà nhân dân ta xây dựng có mấy đặc trưng?",
+        options: ["A. 5", "B. 6", "C. 7", "D. 8"],
+        dap_an: "D",
+        giai_thich: "Theo Cương lĩnh (bổ sung, phát triển năm 2011), Việt Nam xác định 8 đặc trưng cơ bản của xã hội XHCN."
+    },
+    {
+        cau: "Câu 11: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội được Đảng ta nêu ra ở Đại hội nào?",
+        options: ["A. Đại hội IV", "B. Đại hội VI", "C. Đại hội VII", "D. Đại hội VIII"],
+        dap_an: "C",
+        giai_thich: "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên CNXH được thông qua tại Đại hội VII (1991)."
+    },
+    {
+        cau: "Câu 12: Trong Văn kiện Đại hội IX, Đảng ta xác định phải tiếp thu và kế thừa những gì của chủ nghĩa tư bản trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
+        options: ["A. Tiếp thu, kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa, đặc biệt về khoa học và công nghệ, để phát triển nhanh lực lượng sản xuất, xây dựng nền kinh tế hiện đại.", "B. Tiếp thu, kế thừa mô hình quản lý kinh tế - xã hội và thành tựu khoa học công nghệ.", "C. Tiếp thu, kế thừa những giá trị kinh tế, chính trị, văn hoá - xã hội và pháp luật trong chủ nghĩa tư bản.", "D. Cả ba đều sai"],
+        dap_an: "A",
+        giai_thich: "Quá độ bỏ qua CNTB là phải tiếp thu những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa, đặc biệt là thành tựu về khoa học và công nghệ."
+    },
+    {
+        cau: "Câu 13: “Thời kì phát triển mới - đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước” được Đảng ta nêu ra ở Đại hội nào?",
+        options: ["A. Đại hội VI", "B. Đại hội VII", "C. Đại hội VIII", "D. Đại hội IX"],
+        dap_an: "C",
+        giai_thich: "Đại hội VIII (1996) đề ra nhiệm vụ đẩy mạnh CNH, HĐH đất nước."
+    },
+    {
+        cau: "Câu 14: Tìm ý đúng cho luận điểm sau: “Cùng với sự phát triển của khoa học và công nghệ ngày càng hiện đại, giai cấp công nhân:",
+        options: ["A. Giảm về số lượng và nâng cao về chất lượng.", "B. Tăng về số lượng và nâng cao về chất lượng.", "C. Giảm về số lượng và có trình độ sản xuất ngày càng cao", "D. Cả A, B và C."],
+        dap_an: "B",
+        giai_thich: "GCCN hiện nay có xu hướng tăng nhanh về số lượng và chất lượng, gắn với phát triển kinh tế tri thức."
+    },
+    {
+        cau: "Câu 15: Xét về phương thức lao động, phương thức sản xuất, giai cấp công nhân mang thuộc tính cơ bản nào?",
+        options: ["A. Có số lượng đông nhất trong dân cư.", "B. Là giai cấp tạo ra của cải vật chất làm giàu cho xã hội", "C. Là giai cấp trực tiếp vận hành máy móc có tính chất công nghiệp ngày càng hiện đại", "D. Cả A, B và C"],
+        dap_an: "C",
+        giai_thich: "Giai cấp công nhân lao động bằng phương thức công nghiệp ngày càng hiện đại và gắn liền với quá trình sản xuất vật chất hiện đại."
+    },
+    {
+        cau: "Câu 16: Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là:",
+        options: ["A. Giai cấp nghèo khổ nhất", "B. Giai cấp không có tư liệu sản xuất, đi làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư", "C. Giai cấp có số lượng đông trong dân cư", "D. Cả A, B và C đều đúng"],
+        dap_an: "B",
+        giai_thich: "Dưới CNTB, GCCN là người làm thuê, không có tư liệu sản xuất, bị bóc lột giá trị thặng dư."
+    },
+    {
+        cau: "Câu 17: Nội dung sứ mệnh lịch sử của giai cấp công nhân là:",
+        options: ["A. Xoá bỏ chế độ tư bản chủ nghĩa, xoá bỏ chế độ người bóc lột người", "B. Giải phóng giai cấp công nhân, nhân dân lao động và toàn thể nhân loại khỏi mọi sự áp bức, bóc lột, nghèo nàn lạc hậu.", "C. Xây dựng xã hội cộng sản chủ nghĩa văn minh", "D. Cả A, B và C đều đúng"],
+        dap_an: "D",
+        giai_thich: "Sứ mệnh lịch sử tổng quát của GCCN là giải phóng mọi áp bức, bóc lột và xây dựng xã hội XHCN/CSCN văn minh."
+    },
+    {
+        cau: "Câu 18: Chọn từ thích hợp điền vào ô trống “đối với chúng ta, chủ nghĩa cộng sản không phải là một …. (1) cần phải sáng tạo ra, không phải là một …(2) mà hiện thực phải khuôn theo. Chúng ta gọi chủ nghĩa cộng sản là một phong trào…. (3) nó xoá bỏ trạng thái hiện nay” (C. Mác: Hệ tư tưởng Đức).",
+        options: ["A. Lý tưởng (1), trạng thái (2), hiện thực (3)", "B. Trạng thái (1), lý tưởng (2), hiện thực (3)", "C. Trạng thái (1), hiện thực (2), lý tưởng (3)", "D. Hiện thực (1), lý tưởng (2), trạng thái (3)"],
+        dap_an: "B",
+        giai_thich: "Đây là trích dẫn kinh điển của C. Mác trong Hệ tư tưởng Đức, khẳng định CNCS là một phong trào hiện thực."
+    },
+    {
+        cau: "Câu 19: Sứ mệnh lịch sử của giai cấp công nhân do các yếu tố khách quan nào quy định?",
+        options: ["A. Địa vị kinh tế - xã hội và đặc điểm chính trị - xã hội", "B. Là con đẻ của nền đại công nghiệp", "C. Do sự phát triển của lực lượng sản xuất hiện đại", "D. Cả A, B và C"],
+        dap_an: "A",
+        giai_thich: "Các yếu tố khách quan quy định sứ mệnh lịch sử của GCCN bao gồm địa vị kinh tế-xã hội và đặc điểm chính trị-xã hội của giai cấp này."
+    },
+    {
+        cau: "Câu 20: Giai cấp công nhân là giai cấp triệt để cách mạng bởi vì:",
+        options: ["A. Xoá bỏ chủ nghĩa tư bản và xây dựng chủ nghĩa xã hội", "B. Là giai cấp không có tư liệu sản xuất", "C. Là giai cấp cùng khổ nhất trong xã hội", "D. Là giai cấp thực hiện xoá bỏ mọi chế độ tư hữu"],
+        dap_an: "D",
+        giai_thich: "GCCN là giai cấp triệt để nhất vì họ đấu tranh nhằm xóa bỏ tận gốc rễ của chế độ bóc lột, tức là xoá bỏ chế độ tư hữu về tư liệu sản xuất."
+    }
+];
 
 // --- DỮ LIỆU ĐỀ SỐ 11 MỚI ---
 const de11 = [
@@ -2510,6 +5207,15 @@ const de19 = [
 // --- TỔ HỢP DỮ LIỆU ---
 const allDecks = {
     'de1': { name: "Đề số 1", data: de1 },
+    'de2': { name: "Đề số 2", data: de2 },
+    'de3': { name: "Đề số 3", data: de3 },
+    'de4': { name: "Đề số 4", data: de4 },
+    'de5': { name: "Đề số 5", data: de5 },
+    'de6': { name: "Đề số 6", data: de6 },
+    'de7': { name: "Đề số 7", data: de7 },
+    'de8': { name: "Đề số 8", data: de8 },
+    'de9': { name: "Đề số 9", data: de9 },
+    'de10': { name: "Đề số 10", data: de10 },
     'de11': { name: "Đề số 11", data: de11 },
     'de12': { name: "Đề số 12", data: de12 },
     'de13': { name: "Đề số 13", data: de13 },
@@ -2521,7 +5227,7 @@ const allDecks = {
     'de19': { name: "Đề số 19", data: de19 },
 };
 // Đảm bảo các mảng deXX đã được định nghĩa ở trên
-const allQuestions = [...de1, ...de11, ...de12, ...de13, ...de14, ...de15, ...de16, ...de17, ...de18, ...de19]; 
+const allQuestions = [...de1, ...de2, ...de3, ...de4, ...de5, ...de6, ...de7, ...de8, ...de9, ...de10, ...de11, ...de12, ...de13, ...de14, ...de15, ...de16, ...de17, ...de18, ...de19]; 
 
 // --- LẤY CÁC THÀNH PHẦN HTML ---
 const menuContainer = document.getElementById('menu-container');
